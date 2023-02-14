@@ -1,11 +1,11 @@
 Player,Goals,Years,Country,BirthPlace,CountryOfBirth,Latitude,Longitude
 Miroslav Klose,16,2002-2006-2010-2014,Germany,Opole,,0.0,0.0
 Ronaldo,15,1998-2002-2006,Brazil,Rio de Janeiro,,0.0,0.0
-Gerd Muller,14,1970-1974,Germany,Nˆrdlingen,,0.0,0.0
+Gerd Muller,14,1970-1974,Germany,N√∂rdlingen,,0.0,0.0
 Just Fontaine,13,1958,France,Marrakech,,0.0,0.0
-Pele,12,1958-1962-1966-1970,Brazil,TrÍs CoraÁıes,,0.0,0.0
+Pele,12,1958-1962-1966-1970,Brazil,Tr√™s Cora√ß√µes,,0.0,0.0
 Kylian Mbappe,12,2018-2022,France,Paris,,0.0,0.0
-Jurgen Klinsmann,11,1990-1994-1998,Germany,Gˆppingen,,0.0,0.0
+Jurgen Klinsmann,11,1990-1994-1998,Germany,G√∂ppingen,,0.0,0.0
 Sandor Kocsis,11,1954,Hungary,Budapest,,0.0,0.0
 Gabriel Batistuta,10,1994-1998-2002,Argentina,Santa Fe Province,,0.0,0.0
 Gary Lineker,10,1986-1990,England,Leicester,,0.0,0.0
@@ -23,7 +23,7 @@ Paolo Rossi,9,1978-1982,Italy,Prato,,0.0,0.0
 Christian Vieri,9,1998-2002,Italy,Bologna,,0.0,0.0
 Eusebio,9,1966,Portugal,Maputo,,0.0,0.0
 David Villa,9,2006-2010-2014,Spain,Langreo,,0.0,0.0
-Diego Maradona,8,1982-1986-1990-1994,Argentina,Lan˙s,,0.0,0.0
+Diego Maradona,8,1982-1986-1990-1994,Argentina,Lan√∫s,,0.0,0.0
 Guillermo Stabile,8,1930,Argentina,Buenos Aires,,0.0,0.0
 Leonidas,8,1934-1938,Brazil,Rio De Janeiro,,0.0,0.0
 Rivaldo,8,1998-2002,Brazil,Recife,,0.0,0.0
@@ -39,12 +39,12 @@ Cristiano Ronaldo,7,2006-2010-2014-2018,Portugal,Funchal,,0.0,0.0
 Luis Suarez,7,2010-2014-2018,Uruguay,Salto,,0.0,0.0
 Lionel Messi,7,2022,Argentina,Rosario,,0.0,0.0
 Mario Kempes,6,1974-1978-1982,Argentina,Bell Ville,,0.0,0.0
-"Lionel Messi,6,2006-2010-2014-2018,Argentina,""Rosario, Santa Fe"",,0.0,0.0"
+Lionel Messi,6,2006-2010-2014-2018,Argentina,Rosario, Santa Fe,,0.0,0.0"
 Erich Probst,6,1954,Austria,Vienna,,0.0,0.0
 Bebeto,6,1994-1998,Brazil,Salvador Bahia,,0.0,0.0
-Rivelino,6,1970-1974-1978,Brazil,S„o Paulo,,0.0,0.0
+Rivelino,6,1970-1974-1978,Brazil,S√£o Paulo,,0.0,0.0
 Hristo Stoichkov,6,1994-1998,Bulgaria,Plovdiv,,0.0,0.0
-James Rodriguez,6,2014,Colombia,C˙cuta,,0.0,0.0
+James Rodriguez,6,2014,Colombia,C√∫cuta,,0.0,0.0
 Davor Suker,6,1998-2002,Croatia,Osijek,,0.0,0.0
 Thierry Henry,6,1998-2002-2006-2010,France,Les Ulis,,0.0,0.0
 Helmut Haller,6,1962-1966-1970,Germany,Augsburg,,0.0,0.0
@@ -69,24 +69,24 @@ Tim Cahill,5,2006-2010-2014,Australia,Sydney,,0.0,0.0
 Hans Krankl,5,1978-1982,Austria,Vienna,,0.0,0.0
 Romelu Lukaku,5,2014-2018,Belgium,Antwerp,,0.0,0.0
 Marc Wilmots,5,1994-1998-2002,Belgium,Dongelberg,,0.0,0.0
-Garrincha,5,1958-1962-1966,Brazil,MagÈ,,0.0,0.0
+Garrincha,5,1958-1962-1966,Brazil,Mag√©,,0.0,0.0
 Romario,5,1990-1994,Brazil,Rio de Janeiro,,0.0,0.0
 Zico,5,1978-1982,Brazil,Rio de Janeiro,,0.0,0.0
-Roger Milla,5,0,Cameroon,YaoundÈ,,0.0,0.0
+Roger Milla,5,0,Cameroon,Yaound√©,,0.0,0.0
 Mario Mandzukic,5,2014-2018,Croatia,Slavonski Brod,,0.0,0.0
 Jon Dahl Tomasson,5,2002-2010,Denmark,Copenhagen,,0.0,0.0
 Geoff Hurst,5,1966-1970,England,Ashton-under-Lyne,,0.0,0.0
-Michel Platini,5,1978-1982-1986,France,Júuf,,0.0,0.0
+Michel Platini,5,1978-1982-1986,France,J≈ìuf,,0.0,0.0
 Zinedine Zidane,5,1998-2002-2006,France,Marseille,,0.0,0.0
 Franz Beckenbauer,5,1966-1970-1974,Germany,Munich,,0.0,0.0
 Lukas Podolski,5,2006-2010,Germany,Gliwice,,0.0,0.0
-Gyula Zsengeller,5,1938,Hungary,CeglÈd,,0.0,0.0
+Gyula Zsengeller,5,1938,Hungary,Cegl√©d,,0.0,0.0
 Silvio Piola,5,1938,Italy,Robbio,,0.0,0.0
 Johan Neeskens,5,1974-1978,Netherlands,Heemstede,,0.0,0.0
 Peter Mcparland,5,1958,Northern Ireland,SEARCH MANUALLY,,0.0,0.0
 Estanislao Basora,5,1950,Spain,Spain,,0.0,0.0
 Emilio Butragueno,5,1986-1990,Spain,Madrid,,0.0,0.0
-Fernando Hierro,5,1994-1998-2002,Spain,VÈlez-M·laga,,0.0,0.0
+Fernando Hierro,5,1994-1998-2002,Spain,V√©lez-M√°laga,,0.0,0.0
 Fernando Morientes,5,1998-2002,Spain,Cilleros,,0.0,0.0
 Raul,5,1998-2002-2006,Spain,SEARCH MANUALLY,,0.0,0.0
 Kennet Andersson,5,1994,Sweden,Eskilstuna,,0.0,0.0
@@ -96,8 +96,8 @@ Juan Schiaffino,5,1950-1954,Uruguay,Montevideo,,0.0,0.0
 "Landon Donovan,5,2002-2006-2010,USA,""Ontario, California"",,0.0,0.0"
 Valentin Ivanov,5,1958-1962,USSR,SEARCH MANUALLY,,0.0,0.0
 Xherdan Shaqiri,5,2014-2018-2022,Switzerland,Gjilan,,0.0,0.0
-Olivier Giroud,5,2014-2022,France,ChambÈry,,0.0,0.0
-Daniel Bertoni,4,1978-1982,Argentina,BahÌa Blanca,,0.0,0.0
+Olivier Giroud,5,2014-2022,France,Chamb√©ry,,0.0,0.0
+Daniel Bertoni,4,1978-1982,Argentina,Bah√≠a Blanca,,0.0,0.0
 "Claudio Caniggia,4,1990-1994-2002,Argentina,""Henderson, Buenos Aires"",,0.0,0.0"
 "Hernan Crespo,4,1998-2002-2006,Argentina,""Florida, Buenos Aires"",,0.0,0.0"
 "Rene Houseman,4,1974-1978,Argentina,""La Banda, Argentina"",,0.0,0.0"
@@ -113,16 +113,16 @@ Zdenek Zikan,4,1958,Czech,Prague,,0.0,0.0
 Preben Elkjaer Larsen,4,1986,Denmark,Copenhagen,,0.0,0.0
 Bobby Charlton,4,1962-1966-1970,England,Ashington,,0.0,0.0
 Michael Owen,4,1998-2002-2006,England,Chester,,0.0,0.0
-Antoine Griezmann,4,2018,France,M‚con,,0.0,0.0
-"Roger Piantoni,4,1958,France,""…tain, Meuse"",,0.0,0.0"
+Antoine Griezmann,4,2018,France,M√¢con,,0.0,0.0
+"Roger Piantoni,4,1958,France,""√âtain, Meuse"",,0.0,0.0"
 "Dominique Rocheteau,4,1978-1982-1986,France,""Saintes, Charente-Maritime"",,0.0,0.0"
 Oliver Bierhoff,4,1998-2002,Germany,Karlsruhe,,0.0,0.0
 Andreas Brehme,4,1986-1990-1994,Germany,Hamburg,,0.0,0.0
 Paul Breitner,4,1974-1982,Germany,Kolbermoor,,0.0,0.0
-Edmund Conen,4,1934,Germany,‹rzig,,0.0,0.0
+Edmund Conen,4,1934,Germany,√úrzig,,0.0,0.0
 Ottmar Walter,4,1954,Germany,Kaiserslautern,,0.0,0.0
-Florian Albert,4,1962-1966,Hungary,Hercegsz·ntÛ,,0.0,0.0
-Ferenc Bene,4,1966,Hungary,Balaton˙jlak,,0.0,0.0
+Florian Albert,4,1962-1966,Hungary,Hercegsz√°nt√≥,,0.0,0.0
+Ferenc Bene,4,1966,Hungary,Balaton√∫jlak,,0.0,0.0
 Nandor Hidegkuti,4,1954-1958,Hungary,Budapest,,0.0,0.0
 Ferenc Puskas,4,1954-1962,Hungary,Budapest,,0.0,0.0
 Alessandro Altobelli,4,1982-1986,Italy,Sonnino,,0.0,0.0
@@ -145,7 +145,7 @@ Martin Dahlin,4,1994,Sweden,Uddevalla,,0.0,0.0
 Ralf Edstrom,4,1974-1978,Sweden,Degerfors,,0.0,0.0
 Kurt Hamrin,4,1958,Sweden,Stockholm,,0.0,0.0
 Henrik Larsson,4,1994-2002-2006,Sweden,Helsingborg,,0.0,0.0
-Agne Simonsson,4,1958,Sweden,Gˆteborg,,0.0,0.0
+Agne Simonsson,4,1958,Sweden,G√∂teborg,,0.0,0.0
 Andre Abegglen,4,1934-1938,Switzerland,Neuchatel,,0.0,0.0
 Robert Ballaman,4,1954,Switzerland,Reconvilier,,0.0,0.0
 Carlos Borges,4,1954,Uruguay,Montevideo,,0.0,0.0
@@ -158,7 +158,7 @@ Igor Chislenko,4,1962-1966,USSR,Moscow,,0.0,0.0
 Valeriy Porkuyan,4,1966,USSR,Kirovohrad,,0.0,0.0
 Julian Alvarez,4,2022,Argentina,SEARCH MANUALLY,,0.0,0.0
 "Luis Artime,3,1966,Argentina,""Parque Civit, Argentina"",,0.0,0.0"
-"Jorge Burruchaga,3,1986-1990,Argentina,""Gualeguay, Entre RÌos"",,0.0,0.0"
+"Jorge Burruchaga,3,1986-1990,Argentina,""Gualeguay, Entre R√≠os"",,0.0,0.0"
 Orestes Corbatta,3,1958,Argentina,SEARCH MANUALLY,,0.0,0.0
 "Daniel Passarella,3,1978-1982,Argentina,""Chacabuco, Buenos Aires"",,0.0,0.0"
 Carlos Peucelle,3,1930,Argentina,Buenos Aires,,0.0,0.0
@@ -167,10 +167,10 @@ Carlos Peucelle,3,1930,Argentina,Buenos Aires,,0.0,0.0
 "Mile Jedinak,3,2014-2018,Australia,""Camperdown, New South Wales"",,0.0,0.0"
 Ernst Stojaspal,3,1954,Austria,Simmering (Vienna),,0.0,0.0
 Theodor Wagner,3,1954,Austria,Vienna,,0.0,0.0
-"Leopold Anoul,3,1954,Belgium,""Saint-Nicolas, LiËge"",,0.0,0.0"
+"Leopold Anoul,3,1954,Belgium,""Saint-Nicolas, Li√®ge"",,0.0,0.0"
 Nico Claesen,3,1986-1990,Belgium,Maasmechelen,,0.0,0.0
-Eden Hazard,3,2018,Belgium,La LouviËre,,0.0,0.0
-Enzo Scifo,3,1986-1990-1994-1998,Belgium,La LouviËre,,0.0,0.0
+Eden Hazard,3,2018,Belgium,La Louvi√®re,,0.0,0.0
+Enzo Scifo,3,1986-1990-1994-1998,Belgium,La Louvi√®re,,0.0,0.0
 Amarildo,3,1962,Brazil,SEARCH MANUALLY,,0.0,0.0
 Baltazar,3,1950-1954,Brazil,SEARCH MANUALLY,,0.0,0.0
 Didi,3,1954-1958-1962,Brazil,SEARCH MANUALLY,,0.0,0.0
@@ -181,15 +181,15 @@ Falcao,3,1982,Brazil,SEARCH MANUALLY,,0.0,0.0
 Peracio,3,1938,Brazil,Nova Lima,,0.0,0.0
 Preguinho,3,1930,Brazil,Rio de Janeiro,,0.0,0.0
 Romeu,3,1938,Brazil,SEARCH MANUALLY,,0.0,0.0
-Cesar Sampaio,3,1998,Brazil,S„o Paulo,,0.0,0.0
+Cesar Sampaio,3,1998,Brazil,S√£o Paulo,,0.0,0.0
 Tostao,3,1966-1970,Brazil,Belo Horizonte,,0.0,0.0
 Samuel Etoo,3,2002-2010,Cameroon,SEARCH MANUALLY,,0.0,0.0
-Yerry Mina,3,2018,Colombia,GuachenÈ,,0.0,0.0
+Yerry Mina,3,2018,Colombia,Guachen√©,,0.0,0.0
 Ronald Gomez,3,2002-2006,Costa Rica,Puntarenas,,0.0,0.0
 "Paulo Wanchope,3,2002-2006,Costa Rica,""Heredia, Costa Rica"",,0.0,0.0"
 Adolf Scherer,3,1962,Czech,Czechoslovakia,,0.0,0.0
 Jesper Olsen,3,0,Denmark,Faxe,,0.0,0.0
-Agustin Delgado,3,2002-2006,Ecuador,AmbuquÌ,,0.0,0.0
+Agustin Delgado,3,2002-2006,Ecuador,Ambuqu√≠,,0.0,0.0
 David Beckham,3,1998-2002-2006,England,SEARCH MANUALLY,,0.0,0.0
 "Steven Gerrard,3,2006-2010,England,""Whiston, Merseyside"",,0.0,0.0"
 Roger Hunt,3,1966,England,Culcheth and Glazebury,,0.0,0.0
@@ -199,13 +199,13 @@ Karim Benzema,3,2014,France,Lyon,,0.0,0.0
 Bernard Genghini,3,1982-1986,France,Soultz-Haut-Rhin,,0.0,0.0
 Alain Giresse,3,1982-1986,France,Langoiran,,0.0,0.0
 Jean Nicolas,3,1934-1938,France,Nanterre,,0.0,0.0
-Michael Ballack,3,2002-2006,Germany,Gˆrlitz,,0.0,0.0
+Michael Ballack,3,2002-2006,Germany,G√∂rlitz,,0.0,0.0
 Toni Kroos,3,2014-2018,Germany,Greifswald,,0.0,0.0
 Pierre Littbarski,3,1982-1986-1990,Germany,West Berlin,,0.0,0.0
 Wolfgang Overath,3,1966-1970-1974,Germany,Siegburg,,0.0,0.0
 Andre Schuerrle,3,2014,Germany,Ludwigshafen,,0.0,0.0
 Fritz Walter,3,1954-1958,Germany,Kaiserslautern,,0.0,0.0
-Zoltan Czibor,3,1954,Hungary,Kaposv·r,,0.0,0.0
+Zoltan Czibor,3,1954,Hungary,Kaposv√°r,,0.0,0.0
 Laszlo Kiss,3,0,Hungary,SEARCH MANUALLY,,0.0,0.0
 Geza Toldi,3,1934-1938,Hungary,Budapest,,0.0,0.0
 Robbie Keane,3,2002,Ireland,Tallaght,,0.0,0.0
@@ -214,10 +214,10 @@ Raimondo Orsi,3,1934,Italy,Avellaneda,,0.0,0.0
 Gigi Riva,3,1970-1974,Italy,Leggiuno,,0.0,0.0
 Gianni Rivera,3,1962-1966-1970-1974,Italy,SEARCH MANUALLY,,0.0,0.0
 Cuauhtemoc Blanco,3,1998-2002-2010,Mexico,SEARCH MANUALLY,,0.0,0.0
-"Rafael Marquez,3,2002-2006-2010-2014,Mexico,""Zamora, Michoac·n"",,0.0,0.0"
+"Rafael Marquez,3,2002-2006-2010-2014,Mexico,""Zamora, Michoac√°n"",,0.0,0.0"
 Johan Cruyff,3,1974,Netherlands,Amsterdam,,0.0,0.0
 Gerry Armstrong,3,1982,Northern Ireland,SEARCH MANUALLY,,0.0,0.0
-Nelson Cuevas,3,2002-2006,Paraguay,AsunciÛn,,0.0,0.0
+Nelson Cuevas,3,2002-2006,Paraguay,Asunci√≥n,,0.0,0.0
 "Jose Augusto,3,1966,Portugal,""Barreiro, Portugal"",,0.0,0.0"
 Jose Torres,3,1966,Portugal,SEARCH MANUALLY,,0.0,0.0
 Artem Dzyuba,3,2018,Russia,Moscow,,0.0,0.0
@@ -230,18 +230,18 @@ Park Ji Sung,3,2002-2006-2010,South Korea,Seoul,,0.0,0.0
 Jose Luis Caminero,3,1994,Spain,Madrid,,0.0,0.0
 "Diego Costa,3,2018,Spain,""Lagarto, Sergipe"",,0.0,0.0"
 Julio Salinas,3,1986-1990-1994,Spain,Bilbao,,0.0,0.0
-Harry Andersson,3,1938,Sweden,Norrkˆping,,0.0,0.0
-Sven Jonasson,3,1934-1938,Sweden,BorÂs,,0.0,0.0
-Arne Nyberg,3,1938,Sweden,S‰ffle,,0.0,0.0
+Harry Andersson,3,1938,Sweden,Norrk√∂ping,,0.0,0.0
+Sven Jonasson,3,1934-1938,Sweden,Bor√•s,,0.0,0.0
+Arne Nyberg,3,1938,Sweden,S√§ffle,,0.0,0.0
 Karl Erik Palmer,3,1950,Sweden,SEARCH MANUALLY,,0.0,0.0
 "Stig Sundqvist,3,1950,Sweden,""Boden, Sweden"",,0.0,0.0"
-Gustav Wetterstrom,3,1938,Sweden,Norrkˆping,,0.0,0.0
+Gustav Wetterstrom,3,1938,Sweden,Norrk√∂ping,,0.0,0.0
 Jackie Fatton,3,1950-1954,Switzerland,SEARCH MANUALLY,,0.0,0.0
 Leopold Kielholz,3,1934,Switzerland,Basel,,0.0,0.0
 Sargun Burhan,3,1954,Turkey,SEARCH MANUALLY,,0.0,0.0
-Ilhan Mansiz,3,2002,Turkey,Kempten im Allg‰u,,0.0,0.0
+Ilhan Mansiz,3,2002,Turkey,Kempten im Allg√§u,,0.0,0.0
 Juan Anselmo,3,1930,Uruguay,Montevideo,,0.0,0.0
-"Juan Hohberg,3,1954,Uruguay,""CÛrdoba, Argentina"",,0.0,0.0"
+"Juan Hohberg,3,1954,Uruguay,""C√≥rdoba, Argentina"",,0.0,0.0"
 Brian Mcbride,3,1998-2002-2006,USA,SEARCH MANUALLY,,0.0,0.0
 Eduard Malofeyev,3,1966,USSR,Krasnoyarsk,,0.0,0.0
 Dusan Bajevic,3,1974,Yugoslavia,Mostar,,0.0,0.0
@@ -258,15 +258,15 @@ Andrej Kramaric,3,2018-2022,Croatia,Zagreb,,0.0,0.0
 Cody Gakpo,3,2022,Netherlands ,Eindhoven,,0.0,0.0
 Marcus Rashford,3,2022,England,Manchester,,0.0,0.0
 Bukayo Saka,3,2022,England,Ealing,,0.0,0.0
-Richarlison,3,2022,Brazil,Nova VenÈcia,,0.0,0.0
-Goncalo Ramos,3,2022,Portugal,Olh„o,,0.0,0.0
+Richarlison,3,2022,Brazil,Nova Ven√©cia,,0.0,0.0
+Goncalo Ramos,3,2022,Portugal,Olh√£o,,0.0,0.0
 Alvaro Morata,3,2022,Spain,Madrid,,0.0,0.0
-Salah Assad,2,1982-1986,Algeria,Larba‚ Nath Irathen,,0.0,0.0
-Abdelmoumene Djabou,2,2014,Algeria,SÈtif,,0.0,0.0
+Salah Assad,2,1982-1986,Algeria,Larba√¢ Nath Irathen,,0.0,0.0
+Abdelmoumene Djabou,2,2014,Algeria,S√©tif,,0.0,0.0
 Islam Slimani,2,2014,Algeria,Algiers,,0.0,0.0
 Sergio Aguero,2,2018,Argentina,Buenos Aires,,0.0,0.0
 Luis Monti,2,1930-1934,Argentina,Buenos Aires,,0.0,0.0
-"Ariel Ortega,2,1994-1998-2002,Argentina,""Libertador General San MartÌn, Jujuy"",,0.0,0.0"
+"Ariel Ortega,2,1994-1998-2002,Argentina,""Libertador General San Mart√≠n, Jujuy"",,0.0,0.0"
 Marcos Rojo,2,2014-2018,Argentina,La Plata,,0.0,0.0
 Hector Yazalde,2,1974,Argentina,Avellaneda,,0.0,0.0
 Adolfo Zumelzu,2,1930,Argentina,Buenos Aires,,0.0,0.0
@@ -288,23 +288,23 @@ Adriano,2,2006,Brazil,SEARCH MANUALLY,,0.0,0.0
 Jose Altafini,2,1958-1962,Brazil,Piracicaba,,0.0,0.0
 Philippe Coutinho,2,2018,Brazil,Rio de Janeiro,,0.0,0.0
 Eder,2,1982,Brazil,SEARCH MANUALLY,,0.0,0.0
-Elano,2,2010,Brazil,Iracem·polis,,0.0,0.0
+Elano,2,2010,Brazil,Iracem√°polis,,0.0,0.0
 Fred,2,2006-2014,Brazil,SEARCH MANUALLY,,0.0,0.0
 Jair,2,1950,Brazil,SEARCH MANUALLY,,0.0,0.0
 Josimar,2,1986,Brazil,SEARCH MANUALLY,,0.0,0.0
 Julinho,2,1954,Brazil,SEARCH MANUALLY,,0.0,0.0
-"David Luiz,2,2014,Brazil,""Diadema, S„o Paulo"",,0.0,0.0"
+"David Luiz,2,2014,Brazil,""Diadema, S√£o Paulo"",,0.0,0.0"
 Moderato,2,1930,Brazil,SEARCH MANUALLY,,0.0,0.0
 Muller,2,1986-1990,Brazil,SEARCH MANUALLY,,0.0,0.0
 Nelinho,2,1974-1978,Brazil,Rio de Janeiro,,0.0,0.0
 Oscar,2,2014,Brazil,SEARCH MANUALLY,,0.0,0.0
 Pinga,2,1954,Brazil,SEARCH MANUALLY,,0.0,0.0
-"Robinho,2,2006-2010,Brazil,""S„o Vicente, S„o Paulo"",,0.0,0.0"
+"Robinho,2,2006-2010,Brazil,""S√£o Vicente, S√£o Paulo"",,0.0,0.0"
 Ronaldinho,2,2002-2006,Brazil,Porto Alegre,,0.0,0.0
 Serginho,2,1982,Brazil,SEARCH MANUALLY,,0.0,0.0
 Thiago Silva,2,2014-2018,Brazil,Rio de Janeiro,,0.0,0.0
 "Zagallo,2,1958-1962,Brazil,""Atalaia, Alagoas"",,0.0,0.0"
-"Zizinho,2,1950,Brazil,""S„o GonÁalo, Rio de Janeiro"",,0.0,0.0"
+"Zizinho,2,1950,Brazil,""S√£o Gon√ßalo, Rio de Janeiro"",,0.0,0.0"
 Georgi Asparukhov,2,1962-1966-1970,Bulgaria,Sofia,,0.0,0.0
 Hristo Bonev,2,1970-1974,Bulgaria,Plovdiv,,0.0,0.0
 Iordan Letchkov,2,1994,Bulgaria,Sliven,,0.0,0.0
@@ -318,11 +318,11 @@ Jaime Ramirez,2,1962,Chile,SEARCH MANUALLY,,0.0,0.0
 "Eladio Rojas,2,1962,Chile,""Tierra Amarilla, Chile"",,0.0,0.0"
 Alexis Sanchez,2,2014,Chile,Tocopilla,,0.0,0.0
 "Jorge Toro,2,1962,Chile,""Santiago, Chile"",,0.0,0.0"
-Juan Cuadrado,2,2014-2018,Colombia,NecoclÌ,,0.0,0.0
-Jackson Martinez,2,2014,Colombia,QuibdÛ,,0.0,0.0
+Juan Cuadrado,2,2014-2018,Colombia,Necocl√≠,,0.0,0.0
+Jackson Martinez,2,2014,Colombia,Quibd√≥,,0.0,0.0
 Bernardo Redin,2,1990,Colombia,Cali,,0.0,0.0
 "Adolfo Valencia,2,1994-1998,Colombia,""Buenaventura, Valle del Cauca"",,0.0,0.0"
-"Bryan Ruiz,2,2014,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
+"Bryan Ruiz,2,2014,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
 Wilfried Bony,2,2014,Cote dIvoire,Bingerville,,0.0,0.0
 Aruna Dindane,2,2006-2010,Cote dIvoire,Abidjan,,0.0,0.0
 Didier Drogba,2,2006-2010,Cote dIvoire,Abidjan,,0.0,0.0
@@ -360,15 +360,15 @@ Emmanuel Petit,2,1998-2002,France,Dieppe,,0.0,0.0
 Paul Pogba,2,2014-2018,France,Lagny-sur-Marne,,0.0,0.0
 Didier Six,2,1978-1982,France,Lille,,0.0,0.0
 Yannick Stopyra,2,1986,France,Troyes,,0.0,0.0
-Lilian Thuram,2,1998-2002-2006,France,Pointe-‡-Pitre,,0.0,0.0
+Lilian Thuram,2,1998-2002-2006,France,Pointe-√†-Pitre,,0.0,0.0
 Patrick Vieira,2,1998-2002-2006,France,Dakar,,0.0,0.0
-Jean Vincent,2,1954-1958,France,LabeuvriËre,,0.0,0.0
+Jean Vincent,2,1954-1958,France,Labeuvri√®re,,0.0,0.0
 Maryan Wisnieski,2,1958,France,Calonne-Ricouart,,0.0,0.0
-Klaus Allofs,2,1986,Germany,D¸sseldorf,,0.0,0.0
+Klaus Allofs,2,1986,Germany,D√ºsseldorf,,0.0,0.0
 Klaus Fischer,2,1978-1982,Germany,West Germany,,0.0,0.0
 Heinz Flohe,2,1974-1978,Germany,Cologne,,0.0,0.0
 Mario Goetze,2,2014,Germany,Memmingen,,0.0,0.0
-Karl Hohmann,2,1934,Germany,D¸sseldorf,,0.0,0.0
+Karl Hohmann,2,1934,Germany,D√ºsseldorf,,0.0,0.0
 Mats Hummels,2,2014,Germany,Bergisch Gladbach,,0.0,0.0
 Sami Khedira,2,2010-2014,Germany,Stuttgart,,0.0,0.0
 Ernest Lehner,2,1934-1938,Germany,SEARCH MANUALLY,,0.0,0.0
@@ -382,9 +382,9 @@ Emmanuel Sanon,2,1974,Haiti,Port-au-Prince,,0.0,0.0
 Laszlo Fazekas,2,1978-1982,Hungary,Budapest,,0.0,0.0
 Mihaly Lantos,2,1954,Hungary,Budapest,,0.0,0.0
 Kalman Meszoly,2,1962-1966,Hungary,Budapest,,0.0,0.0
-Tibor Nyilasi,2,1978-1982,Hungary,V·rpalota,,0.0,0.0
+Tibor Nyilasi,2,1978-1982,Hungary,V√°rpalota,,0.0,0.0
 Peter Palotas,2,1954,Hungary,Budapest,,0.0,0.0
-Gabor Poloskei,2,1982,Hungary,MosonmagyarÛv·r,,0.0,0.0
+Gabor Poloskei,2,1982,Hungary,Mosonmagyar√≥v√°r,,0.0,0.0
 Pal Titkos,2,1938,Hungary,Budapest,,0.0,0.0
 Dino Baggio,2,1994-1998,Italy,Camposampiero,,0.0,0.0
 Romeo Benetti,2,1974-1978,Italy,Albaredo d'Adige,,0.0,0.0
@@ -402,7 +402,7 @@ Luca Toni,2,2006,Italy,Pavullo nel Frignano,,0.0,0.0
 Theodore Whitmore,2,1998,Jamaica,Montego Bay,,0.0,0.0
 Junichi Inamoto,2,2002-2006-2010,Japan,Kagoshima Prefecture,,0.0,0.0
 Alberto Garcia Aspe,2,1994-1998-2002,Mexico,Mexico City,,0.0,0.0
-Jared Borgetti,2,2002-2006,Mexico,Culiac·n,,0.0,0.0
+Jared Borgetti,2,2002-2006,Mexico,Culiac√°n,,0.0,0.0
 Omar Bravo,2,2006,Mexico,Los Mochis,,0.0,0.0
 Luis Garcia,2,1994,Mexico,SEARCH MANUALLY,,0.0,0.0
 Ricardo Pelaez,2,0,Mexico,Mexico City,,0.0,0.0
@@ -425,7 +425,7 @@ Emmanuel Amunike,2,1994,Nigeria,Eziobodo,,0.0,0.0
 Pak Seung Zin,2,1966,North Korea,SEARCH MANUALLY,,0.0,0.0
 Billy Hamilton,2,1982-1986,Northern Ireland,SEARCH MANUALLY,,0.0,0.0
 Kjetil Rekdal,2,1994-1998,Norway,Molde,,0.0,0.0
-Juan Aguero,2,1958,Paraguay,CaacupÈ,,0.0,0.0
+Juan Aguero,2,1958,Paraguay,Caacup√©,,0.0,0.0
 Florencio Amarilla,2,1958,Paraguay,Coronel Bogado,,0.0,0.0
 "Roberto Cabanas,2,1986,Paraguay,""Pilar, Paraguay"",,0.0,0.0"
 Jose Parodi,2,1958,Paraguay,Luque,,0.0,0.0
@@ -455,11 +455,11 @@ Lee Jung Soo,2,2010,South Korea,SEARCH MANUALLY,,0.0,0.0
 Yoo Sang Chul,2,1998-2002,South Korea,SEARCH MANUALLY,,0.0,0.0
 "Xabi Alonso,2,2006-2010-2014,Spain,""Tolosa, Spain"",,0.0,0.0"
 Ramon Maria Caldere,2,1986,Spain,Vila-rodona,,0.0,0.0
-Luis Enrique,2,1994-1998-2002,Spain,GijÛn,,0.0,0.0
+Luis Enrique,2,1994-1998-2002,Spain,Gij√≥n,,0.0,0.0
 Andres Iniesta,2,2006-2010,Spain,Fuentealbilla,,0.0,0.0
 Jose Iraragorri,2,1934,Spain,Basauri,,0.0,0.0
 Sune Andersson,2,1950,Sweden,SEARCH MANUALLY,,0.0,0.0
-Andreas Granqvist,2,2018,Sweden,PÂarp,,0.0,0.0
+Andreas Granqvist,2,2018,Sweden,P√•arp,,0.0,0.0
 Hans Jeppsson,2,1950,Sweden,Kungsbacka,,0.0,0.0
 Nils Liedholm,2,1958,Sweden,Valdemarsvik,,0.0,0.0
 Roland Sandberg,2,1974,Sweden,Karlskrona,,0.0,0.0
@@ -468,11 +468,11 @@ Alexander Frei,2,2006-2010,Switzerland,Basel,,0.0,0.0
 Adrian Knup,2,1994,Switzerland,Liestal,,0.0,0.0
 Granit Xhaka,2,2014-2018,Switzerland,Basel,,0.0,0.0
 Umit Davala,2,2002,Turkey,Mannheim,,0.0,0.0
-Lefter Kucukandonyadis,2,1954,Turkey,B¸y¸kada,,0.0,0.0
+Lefter Kucukandonyadis,2,1954,Turkey,B√ºy√ºkada,,0.0,0.0
 Andriy Shevchenko,2,2006,Ukraine,Dvirkivshchyna,,0.0,0.0
 Julio Abbadie,2,1954,Uruguay,Montevideo,,0.0,0.0
 Hector Castro,2,1930,Uruguay,Montevideo,,0.0,0.0
-Luis Cubilla,2,1962-1970-1974,Uruguay,Paysand˙,,0.0,0.0
+Luis Cubilla,2,1962-1970-1974,Uruguay,Paysand√∫,,0.0,0.0
 Pablo Dorado,2,1930,Uruguay,Montevideo,,0.0,0.0
 "Santos Iriarte,2,1930,Uruguay,""Canelones, Uruguay"",,0.0,0.0"
 Jose Sasia,2,1962,Uruguay,Treinta y Tres,,0.0,0.0
@@ -502,7 +502,7 @@ Rafael Leao,2,2022,Portugal,Almada,,0.0,0.0
 Robert Lewandowski,2,2022,Poland ,Warsaw,,0.0,0.0
 Ritsu Doan,2,2022,Japan,Amagasaki,,0.0,0.0
 Ferran Torres,2,2022,Spain,Foios,,0.0,0.0
-Breel Embolo,2,2022,Switzerland,YaoundÈ,,0.0,0.0
+Breel Embolo,2,2022,Switzerland,Yaound√©,,0.0,0.0
 Mehdi Taremi,2,2022,Iran,Bushehr,,0.0,0.0
 Salem Al-Dawsari,2,2022,Saudi Arabia,Wadi ad-Dawasir,,0.0,0.0
 Kai Havertz,2,2022,Germany,Aachen,,0.0,0.0
@@ -519,12 +519,12 @@ Rafik Halliche,1,2014,Algeria,Algiers,,0.0,0.0
 Rabah Madjer,1,1982-1986,Algeria,Hussein Dey District,,0.0,0.0
 Djamel Zidane,1,0,Algeria,Algiers,,0.0,0.0
 Flavio Amado,1,2006,Angola,Luanda,,0.0,0.0
-"Osvaldo Ardiles,1,1978-1982,Argentina,""CÛrdoba, Argentina"",,0.0,0.0"
+"Osvaldo Ardiles,1,1978-1982,Argentina,""C√≥rdoba, Argentina"",,0.0,0.0"
 Ludovico Avio,1,1958,Argentina,Argentina,,0.0,0.0
 Ruben Ayala,1,1974,Argentina,Santa Fe Province,,0.0,0.0
-"Roberto Ayala,1,1998-2006,Argentina,""Paran·, Argentina"",,0.0,0.0"
+"Roberto Ayala,1,1998-2006,Argentina,""Paran√°, Argentina"",,0.0,0.0"
 Carlos Babington,1,1974,Argentina,Buenos Aires,,0.0,0.0
-Abel Balbo,1,1990-1994,Argentina,Empalme Villa ConstituciÛn,,0.0,0.0
+Abel Balbo,1,1990-1994,Argentina,Empalme Villa Constituci√≥n,,0.0,0.0
 Ernesto Belis,1,1934,Argentina,Argentina,,0.0,0.0
 Miguel Brindisi,1,1974,Argentina,Buenos Aires,,0.0,0.0
 Jose Brown,1,1986,Argentina,SEARCH MANUALLY,,0.0,0.0
@@ -534,8 +534,8 @@ Esteban Cambiasso,1,2006,Argentina,Buenos Aires,,0.0,0.0
 Mario Evaristo,1,1930,Argentina,Buenos Aires,,0.0,0.0
 Hector Facundo,1,1962,Argentina,Buenos Aires,,0.0,0.0
 Alberto Galateo,1,1934,Argentina,Argentina,,0.0,0.0
-"Gabriel Heinze,1,2006-2010,Argentina,""Crespo, Entre RÌos"",,0.0,0.0"
-"Ramon Heredia,1,1974,Argentina,""CÛrdoba, Argentina"",,0.0,0.0"
+"Gabriel Heinze,1,2006-2010,Argentina,""Crespo, Entre R√≠os"",,0.0,0.0"
+"Ramon Heredia,1,1974,Argentina,""C√≥rdoba, Argentina"",,0.0,0.0"
 Claudio Lopez,1,1998-2002,Argentina,SEARCH MANUALLY,,0.0,0.0
 Norberto Menendez,1,1958,Argentina,Buenos Aires,,0.0,0.0
 Gabriel Mercado,1,2018,Argentina,Puerto Madryn,,0.0,0.0
@@ -570,7 +570,7 @@ Karl Sesta,1,1934,Austria,Simmering (Vienna),,0.0,0.0
 Matthias Sindelar,1,1934,Austria,Kozlov (Jihlava District),,0.0,0.0
 Ivica Vastic,1,1998,Austria,Split (city),,0.0,0.0
 Karl Zischek,1,1934,Austria,Austria-Hungary,,0.0,0.0
-Nacer Chadli,1,2018,Belgium,LiËge,,0.0,0.0
+Nacer Chadli,1,2018,Belgium,Li√®ge,,0.0,0.0
 "Leo Clijsters,1,1990,Belgium,""Bree, Belgium"",,0.0,0.0"
 Ludo Coeck,1,1982,Belgium,Berchem,,0.0,0.0
 Henri Coppens,1,1954,Belgium,Antwerp,,0.0,0.0
@@ -599,12 +599,12 @@ Alfredo,1,1950,Brazil,SEARCH MANUALLY,,0.0,0.0
 Renato Augusto,1,2018,Brazil,Rio de Janeiro,,0.0,0.0
 "Jose Oscar Bernardi,1,1978-1982,Brazil,""Monte Siao, Brazil"",,0.0,0.0"
 Branco,1,1986-1990-1994,Brazil,SEARCH MANUALLY,,0.0,0.0
-Roberto Carlos,1,1998-2002-2006,Brazil,GarÁa,,0.0,0.0
+Roberto Carlos,1,1998-2002-2006,Brazil,Gar√ßa,,0.0,0.0
 Clodoaldo,1,1970,Brazil,Aracaju,,0.0,0.0
 Edinho,1,1978-1986,Brazil,SEARCH MANUALLY,,0.0,0.0
 Edmilson,1,2002,Brazil,Taquaritinga,,0.0,0.0
 Fernandinho,1,2014,Brazil,SEARCH MANUALLY,,0.0,0.0
-Roberto Firmino,1,2018,Brazil,MaceiÛ,,0.0,0.0
+Roberto Firmino,1,2018,Brazil,Macei√≥,,0.0,0.0
 Friaca,1,1950,Brazil,Rio de Janeiro,,0.0,0.0
 Gerson,1,1966-1970,Brazil,SEARCH MANUALLY,,0.0,0.0
 Juan,1,2006-2010,Brazil,SEARCH MANUALLY,,0.0,0.0
@@ -619,10 +619,10 @@ Rai,1,1994,Brazil,SEARCH MANUALLY,,0.0,0.0
 Reinaldo,1,1978,Brazil,SEARCH MANUALLY,,0.0,0.0
 Rildo,1,1966,Brazil,SEARCH MANUALLY,,0.0,0.0
 Roberto,1,1938,Brazil,SEARCH MANUALLY,,0.0,0.0
-Ze Roberto,1,2006,Brazil,S„o Paulo,,0.0,0.0
-Djalma Santos,1,1954-1958-1962-1966,Brazil,S„o Paulo,,0.0,0.0
+Ze Roberto,1,2006,Brazil,S√£o Paulo,,0.0,0.0
+Djalma Santos,1,1954-1958-1962-1966,Brazil,S√£o Paulo,,0.0,0.0
 Nilton Santos,1,1954-1958-1962,Brazil,Rio de Janeiro,,0.0,0.0
-Marcio Santos,1,1994,Brazil,S„o Paulo,,0.0,0.0
+Marcio Santos,1,1994,Brazil,S√£o Paulo,,0.0,0.0
 Valdomiro,1,1974,Brazil,SEARCH MANUALLY,,0.0,0.0
 Zito,1,1958-1962,Brazil,SEARCH MANUALLY,,0.0,0.0
 Daniel Borimirov,1,1994-1998,Bulgaria,Vidin,,0.0,0.0
@@ -633,11 +633,11 @@ Emil Kostadinov,1,1994-1998,Bulgaria,Sofia,,0.0,0.0
 Asparukh Nikodimov,1,1970-1974,Bulgaria,Sofia Province,,0.0,0.0
 "Georgi Sokolov,1,0,Bulgaria,""Sofia, Bulgaria"",,0.0,0.0"
 Dobromir Zhechev,1,1962-1970,Bulgaria,Sofia,,0.0,0.0
-Eugene Ekeke,1,0,Cameroon,BonabÈri,,0.0,0.0
-David Embe,1,0,Cameroon,YaoundÈ,,0.0,0.0
+Eugene Ekeke,1,0,Cameroon,Bonab√©ri,,0.0,0.0
+David Embe,1,0,Cameroon,Yaound√©,,0.0,0.0
 "Emmanuel Kunde,1,1982-1990,Cameroon,""Ndom, Cameroon"",,0.0,0.0"
 Joel Matip,1,2014,Cameroon,Bochum,,0.0,0.0
-Gregoire Mbida,1,1982,Cameroon,YaoundÈ,,0.0,0.0
+Gregoire Mbida,1,1982,Cameroon,Yaound√©,,0.0,0.0
 Pierre Njanka,1,1998-2002,Cameroon,Douala,,0.0,0.0
 Sergio Ahumada,1,1974,Chile,Coquimbo,,0.0,0.0
 Charles Aranguiz,1,2014,Chile,Puente Alto,,0.0,0.0
@@ -662,25 +662,25 @@ Teofilo Gutierrez,1,2014,Colombia,Barranquilla,,0.0,0.0
 "Marino Klinger,1,1962,Colombia,""Buenaventura, Valle del Cauca"",,0.0,0.0"
 Harold Lozano,1,0,Colombia,Cali,,0.0,0.0
 Leider Preciado,1,0,Colombia,Tumaco,,0.0,0.0
-"Antonio Rada,1,1962,Colombia,""Sabanalarga, Atl·ntico"",,0.0,0.0"
+"Antonio Rada,1,1962,Colombia,""Sabanalarga, Atl√°ntico"",,0.0,0.0"
 "Freddy Rincon,1,1990-1994-1998,Colombia,""Buenaventura, Valle del Cauca"",,0.0,0.0"
 Carlos Valderrama,1,1990-1994-1998,Colombia,Santa Marta,,0.0,0.0
 Francisco Zuluaga,1,1962,Colombia,SEARCH MANUALLY,,0.0,0.0
-"Joel Campbell,1,2014,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
-Juan Cayasso,1,1990,Costa Rica,LimÛn,,0.0,0.0
+"Joel Campbell,1,2014,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
+Juan Cayasso,1,1990,Costa Rica,Lim√≥n,,0.0,0.0
 Oscar Duarte,1,2014,Costa Rica,SEARCH MANUALLY,,0.0,0.0
-"Roger Flores,1,1990,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
+"Roger Flores,1,1990,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
 Ronald Gonzalez,1,1990,Costa Rica,SEARCH MANUALLY,,0.0,0.0
 Hernan Medford,1,0,Costa Rica,San Jose Province,,0.0,0.0
-Winston Parks,1,2002,Costa Rica,LimÛn,,0.0,0.0
-"Marcos Urena,1,2014,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
-"Kendall Waston,1,2018,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
-"Mauricio Wright,1,2002,Costa Rica,""San JosÈ, Costa Rica"",,0.0,0.0"
-Bonaventure Kalou,1,2006,Cote dIvoire,OumÈ,,0.0,0.0
-Salomon Kalou,1,2010,Cote dIvoire,OumÈ,,0.0,0.0
+Winston Parks,1,2002,Costa Rica,Lim√≥n,,0.0,0.0
+"Marcos Urena,1,2014,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
+"Kendall Waston,1,2018,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
+"Mauricio Wright,1,2002,Costa Rica,""San Jos√©, Costa Rica"",,0.0,0.0"
+Bonaventure Kalou,1,2006,Cote dIvoire,Oum√©,,0.0,0.0
+Salomon Kalou,1,2010,Cote dIvoire,Oum√©,,0.0,0.0
 Bakary Kone,1,2006,Cote dIvoire,Ouagadougou,,0.0,0.0
 Romaric,1,2006-2010,Cote dIvoire,SEARCH MANUALLY,,0.0,0.0
-Yaya Toure,1,2006-2010,Cote dIvoire,BouakÈ,,0.0,0.0
+Yaya Toure,1,2006-2010,Cote dIvoire,Bouak√©,,0.0,0.0
 Milan Badelj,1,2018,Croatia,Zagreb,,0.0,0.0
 Niko Kovac,1,2002-2006,Croatia,Wedding (Berlin),,0.0,0.0
 Ivan Rakitic,1,2018,Croatia,Rheinfelden (Aargau),,0.0,0.0
@@ -689,7 +689,7 @@ Mario Stanic,1,1998-2002,Croatia,Sarajevo,,0.0,0.0
 Tomas Fernandez,1,1938,Cuba,SEARCH MANUALLY,,0.0,0.0
 Carlos Oliveira,1,1938,Cuba,SEARCH MANUALLY,,0.0,0.0
 Juan Tunas,1,1938,Cuba,Havana,,0.0,0.0
-Lubos Kubik,1,1990,Czech,VysokÈ M˝to,,0.0,0.0
+Lubos Kubik,1,1990,Czech,Vysok√© M√Ωto,,0.0,0.0
 Vaclav Masek,1,1962,Czech,Prague,,0.0,0.0
 Josef Masopust,1,1958-1962,Czech,Czechoslovakia,,0.0,0.0
 Josef Stibranyi,1,1962,Czech,SEARCH MANUALLY,,0.0,0.0
@@ -699,13 +699,13 @@ Nicklas Bendtner,1,2010,Denmark,Copenhagen,,0.0,0.0
 "John Eriksen,1,0,Denmark,""Assens, Denmark"",,0.0,0.0"
 Christian Eriksen,1,2018,Denmark,Middelfart,,0.0,0.0
 Thomas Helveg,1,1998-2002,Denmark,Odense,,0.0,0.0
-Martin Jorgensen,1,1998-2002-2010,Denmark,RyomgÂrd,,0.0,0.0
+Martin Jorgensen,1,1998-2002-2010,Denmark,Ryomg√•rd,,0.0,0.0
 Mathias Jorgensen,1,2018,Denmark,Copenhagen,,0.0,0.0
 Soren Lerby,1,1986,Denmark,Copenhagen,,0.0,0.0
-Peter Moller,1,0,Denmark,AbildgÂrd (page does not exist),,0.0,0.0
+Peter Moller,1,0,Denmark,Abildg√•rd (page does not exist),,0.0,0.0
 Allan Nielsen,1,1998,Denmark,Esbjerg,,0.0,0.0
 Yussuf Yurary Poulsen,1,2018,Denmark,Copenhagen,,0.0,0.0
-Marc Rieper,1,1998,Denmark,R¯dovre,,0.0,0.0
+Marc Rieper,1,1998,Denmark,R√∏dovre,,0.0,0.0
 Ebbe Sand,1,1998-2002,Denmark,Aalborg,,0.0,0.0
 Ivan Kaviedes,1,2002-2006,Ecuador,Santo Domingo de Los Colorados,,0.0,0.0
 "Edison Mendez,1,2002-2006,Ecuador,""Ibarra, Ecuador"",,0.0,0.0"
@@ -738,10 +738,10 @@ Daniel Sturridge,1,2014,England,Birmingham,,0.0,0.0
 "Matt Upson,1,2010,England,""Eye, Suffolk"",,0.0,0.0"
 Dennis Wilshaw,1,1954,England,Stoke-on-Trent,,0.0,0.0
 Mark Wright,1,1990,England,SEARCH MANUALLY,,0.0,0.0
-Manuel Amoros,1,1982-1986,France,NÓmes,,0.0,0.0
-Marc Berdoll,1,1978,France,TrÈlazÈ,,0.0,0.0
-Laurent Blanc,1,1998,France,AlËs,,0.0,0.0
-Maxime Bossis,1,1978-1982-1986,France,Saint-AndrÈ-Treize-Voies,,0.0,0.0
+Manuel Amoros,1,1982-1986,France,N√Æmes,,0.0,0.0
+Marc Berdoll,1,1978,France,Tr√©laz√©,,0.0,0.0
+Laurent Blanc,1,1998,France,Al√®s,,0.0,0.0
+Maxime Bossis,1,1978-1982-1986,France,Saint-Andr√©-Treize-Voies,,0.0,0.0
 "Alain Couriol,1,1982,France,""Paris, France"",,0.0,0.0"
 "Hector De Bourgoing,1,1966,France,""Posadas, Misiones"",,0.0,0.0"
 Youri Djorkaeff,1,1998-2002,France,Lyon,,0.0,0.0
@@ -755,7 +755,7 @@ Gerard Hausser,1,1966,France,Strasbourg,,0.0,0.0
 Oscar Heisserer,1,1938,France,Schirrhein,,0.0,0.0
 Bernard Lacombe,1,1978-1982,France,Lyon,,0.0,0.0
 Marcel Langiller,1,1930,France,Charenton-le-Pont,,0.0,0.0
-Lucien Laurent,1,1930,France,Saint-Maur-des-FossÈs,,0.0,0.0
+Lucien Laurent,1,1930,France,Saint-Maur-des-Foss√©s,,0.0,0.0
 Bixente Lizarazu,1,1998-2002,France,Saint-Jean-de-Luz,,0.0,0.0
 Christian Lopez,1,1978-1982,France,SEARCH MANUALLY,,0.0,0.0
 Florent Malouda,1,2006-2010,France,Cayenne,,0.0,0.0
@@ -767,7 +767,7 @@ Gerard Soler,1,1982,France,Oujda,,0.0,0.0
 Jean Tigana,1,1982-1986,France,Bamako,,0.0,0.0
 "Marius Tresor,1,1978-1982,France,""Sainte-Anne, Guadeloupe"",,0.0,0.0"
 David Trezeguet,1,1998-2002-2006,France,Rouen,,0.0,0.0
-Samuel Umtiti,1,2018,France,YaoundÈ,,0.0,0.0
+Samuel Umtiti,1,2018,France,Yaound√©,,0.0,0.0
 "Mathieu Valbuena,1,2014,France,""Bruges, Gironde"",,0.0,0.0"
 Raphael Varane,1,2018,France,Lille,,0.0,0.0
 Emile Veinante,1,1930-1938,France,Metz,,0.0,0.0
@@ -777,12 +777,12 @@ Uwe Bein,1,1990,Germany,Heringen,,0.0,0.0
 Marco Bode,1,2002,Germany,Osterode am Harz,,0.0,0.0
 Rainer Bonhof,1,1974-1978,Germany,Emmerich am Rhein,,0.0,0.0
 Albert Brulls,1,1962-1966,Germany,Anrath,,0.0,0.0
-"Cacau,1,2010,Germany,""Santo AndrÈ, S„o Paulo"",,0.0,0.0"
+"Cacau,1,2010,Germany,""Santo Andr√©, S√£o Paulo"",,0.0,0.0"
 Hans Ciesclarczyk,1,1958,Germany,SEARCH MANUALLY,,0.0,0.0
 Bernd Cullmann,1,1974,Germany,SEARCH MANUALLY,,0.0,0.0
 Lothar Emmerich,1,1966,Germany,Nazi Germany,,0.0,0.0
 Arne Friedrich,1,2006-2010,Germany,Bad Oeynhausen,,0.0,0.0
-Torsten Frings,1,2002-2006,Germany,W¸rselen,,0.0,0.0
+Torsten Frings,1,2002-2006,Germany,W√ºrselen,,0.0,0.0
 Josef Gauchel,1,1938,Germany,German Empire,,0.0,0.0
 Juergen Grabowski,1,1970-1974,Germany,Wiesbaden,,0.0,0.0
 Willhelm Hahnemann,1,1938,Germany,SEARCH MANUALLY,,0.0,0.0
@@ -792,20 +792,20 @@ Martin Hoffmann,1,1974,Germany,SEARCH MANUALLY,,0.0,0.0
 Bernd Holzenbein,1,1974-1978,Germany,Runkel,,0.0,0.0
 Uli Honess,1,1974,Germany,SEARCH MANUALLY,,0.0,0.0
 Horst Hrubesch,1,1982,Germany,Hamm,,0.0,0.0
-Carsten Jancker,1,2002,Germany,Grevesm¸hlen,,0.0,0.0
-Marcell Jansen,1,2006-2010,Germany,Mˆnchengladbach,,0.0,0.0
+Carsten Jancker,1,2002,Germany,Grevesm√ºhlen,,0.0,0.0
+Marcell Jansen,1,2006-2010,Germany,M√∂nchengladbach,,0.0,0.0
 Berni Klodt,1,1954-1958,Germany,Gelsenkirchen,,0.0,0.0
-Stanislaus Kobierski,1,1934,Germany,D¸sseldorf,,0.0,0.0
+Stanislaus Kobierski,1,1934,Germany,D√ºsseldorf,,0.0,0.0
 Philipp Lahm,1,2006-2010,Germany,Munich,,0.0,0.0
-Stan Libuda,1,1970,Germany,Dˆrentrup,,0.0,0.0
-Thomas Linke,1,2002,Germany,Sˆmmerda,,0.0,0.0
+Stan Libuda,1,1970,Germany,D√∂rentrup,,0.0,0.0
+Thomas Linke,1,2002,Germany,S√∂mmerda,,0.0,0.0
 Andreas Moller,1,0,Germany,Frankfurt,,0.0,0.0
 Hansi Muller,1,1978-1982,Germany,Stuttgart,,0.0,0.0
 "Rudolf Noack,1,1934,Germany,""Harburg, Hamburg"",,0.0,0.0"
-Alfred Pfaff,1,1954,Germany,Rˆdelheim (Frankfurt am Main),,0.0,0.0
+Alfred Pfaff,1,1954,Germany,R√∂delheim (Frankfurt am Main),,0.0,0.0
 Uwe Reinders,1,0,Germany,Essen,,0.0,0.0
 Marco Reus,1,2018,Germany,Dortmund,,0.0,0.0
-Karlheinz Riedle,1,1990-1994,Germany,Weiler im Allg‰u,,0.0,0.0
+Karlheinz Riedle,1,1990-1994,Germany,Weiler im Allg√§u,,0.0,0.0
 Bernd Schneider,1,2002-2006,Germany,SEARCH MANUALLY,,0.0,0.0
 Karl Heinz Schnellinger,1,1958-1962-1966-1970,Germany,SEARCH MANUALLY,,0.0,0.0
 Otto Siffling,1,1934,Germany,Mannheim,,0.0,0.0
@@ -821,7 +821,7 @@ Andreas Samaris,1,2014,Greece,Patras,,0.0,0.0
 Vasileios Torosidis,1,2010,Greece,Xanthi,,0.0,0.0
 Carlo Costly,1,2014,Honduras,San Pedro Sula,,0.0,0.0
 Eduardo Laing,1,0,Honduras,Puerto Cortes,,0.0,0.0
-"Hector Zelaya,1,1982,Honduras,""Trinidad, Santa B·rbara"",,0.0,0.0"
+"Hector Zelaya,1,1982,Honduras,""Trinidad, Santa B√°rbara"",,0.0,0.0"
 Jozsef Bencsis,1,1958,Hungary,SEARCH MANUALLY,,0.0,0.0
 Jozsef Bozsik,1,1954-1958,Hungary,Kispest,,0.0,0.0
 Karoly Csapo,1,1978,Hungary,Agyagosszergeny,,0.0,0.0
@@ -832,15 +832,15 @@ Vilmos Kohut,1,1938,Hungary,Budapest,,0.0,0.0
 Karoly Sandor,1,1958-1962,Hungary,Szeged,,0.0,0.0
 Ferenc Sas,1,0,Hungary,Budapest,,0.0,0.0
 Erno Solymosi,1,1962,Hungary,Kingdom of Hungary,,0.0,0.0
-Lazar Szentes,1,0,Hungary,Bonyh·d,,0.0,0.0
+Lazar Szentes,1,0,Hungary,Bonyh√°d,,0.0,0.0
 Pavel Teleki,1,1934,Hungary,Arad County (former),,0.0,0.0
 Jozsef Toth,1,1978-1982,Hungary,SEARCH MANUALLY,,0.0,0.0
 Andras Toth,1,0,Hungary,SEARCH MANUALLY,,0.0,0.0
 Jozsef Varga,1,1982-1986,Hungary,SEARCH MANUALLY,,0.0,0.0
 Jeno Vincze,1,1934-1938,Hungary,Kingdom of Hungary,,0.0,0.0
-Sandor Zombori,1,1978,Hungary,PÈcs,,0.0,0.0
-Alfred Finnbogason,1,2018,Iceland,GrindavÌk,,0.0,0.0
-Gylfi Sigurdsson,1,2018,Iceland,ReykjavÌk,,0.0,0.0
+Sandor Zombori,1,1978,Hungary,P√©cs,,0.0,0.0
+Alfred Finnbogason,1,2018,Iceland,Grindav√≠k,,0.0,0.0
+Gylfi Sigurdsson,1,2018,Iceland,Reykjav√≠k,,0.0,0.0
 Karim Ansarifard,1,2018,Iran,Ardabil,,0.0,0.0
 Sohrab Bakhtiarizadeh,1,2006,Iran,Ahvaz,,0.0,0.0
 Iraj Danayfar,1,1978,Iran,SEARCH MANUALLY,,0.0,0.0
@@ -878,7 +878,7 @@ Carlo Galli,1,1954,Italy,SEARCH MANUALLY,,0.0,0.0
 Alberto Gilardino,1,2006-2010,Italy,Biella,,0.0,0.0
 "Francesco Graziani,1,1982,Italy,""Subiaco, Italy"",,0.0,0.0"
 Fabio Grosso,1,2006,Italy,Rome,,0.0,0.0
-"Enrico Guaita,1,1934,Italy,""Lucas Gonz·lez, Argentina"",,0.0,0.0"
+"Enrico Guaita,1,1934,Italy,""Lucas Gonz√°lez, Argentina"",,0.0,0.0"
 Filippo Inzaghi,1,2002-2006,Italy,Piacenza,,0.0,0.0
 Benito Lorenzi,1,1954,Italy,Buggiano,,0.0,0.0
 Claudio Marchisio,1,2014,Italy,Turin,,0.0,0.0
@@ -914,12 +914,12 @@ Enrique Borja,1,1966,Mexico,Mexico City,,0.0,0.0
 Juan Carreno,1,1930,Mexico,Mexico,,0.0,0.0
 Horacio Casarin,1,1950,Mexico,Mexico City,,0.0,0.0
 Alfredo Del Aguila,1,1962,Mexico,SEARCH MANUALLY,,0.0,0.0
-Isidoro Diaz,1,1962-1966,Mexico,Acatl·n de Ju·rez,,0.0,0.0
+Isidoro Diaz,1,1962-1966,Mexico,Acatl√°n de Ju√°rez,,0.0,0.0
 Giovani Dos Santos,1,2014,Mexico,Monterrey,,0.0,0.0
 Luis Flores,1,1986,Mexico,SEARCH MANUALLY,,0.0,0.0
-"Francisco Fonseca,1,2006,Mexico,""LeÛn, Guanajuato"",,0.0,0.0"
+"Francisco Fonseca,1,2006,Mexico,""Le√≥n, Guanajuato"",,0.0,0.0"
 Rodriguez Fragoso,1,1966-1970,Mexico,SEARCH MANUALLY,,0.0,0.0
-"Roberto Gayon,1,1930,Mexico,""San JosÈ, Costa Rica"",,0.0,0.0"
+"Roberto Gayon,1,1930,Mexico,""San Jos√©, Costa Rica"",,0.0,0.0"
 Jose Gonzalez,1,1970,Mexico,SEARCH MANUALLY,,0.0,0.0
 Andres Guardado,1,2014,Mexico,Guadalajara,,0.0,0.0
 Hector Hernandez,1,1962,Mexico,SEARCH MANUALLY,,0.0,0.0
@@ -928,15 +928,15 @@ Hirving Lozano,1,2018,Mexico,Mexico City,,0.0,0.0
 Manuel Negrete,1,1986,Mexico,SEARCH MANUALLY,,0.0,0.0
 Hector Ortiz,1,1950,Mexico,SEARCH MANUALLY,,0.0,0.0
 Gustavo Pena,1,1966-1970,Mexico,Talpa de Allende,,0.0,0.0
-Oribe Peralta,1,2014,Mexico,TorreÛn,,0.0,0.0
+Oribe Peralta,1,2014,Mexico,Torre√≥n,,0.0,0.0
 Victor Rangel,1,1978,Mexico,SEARCH MANUALLY,,0.0,0.0
 Hugo Sanchez,1,1978-1986-1994,Mexico,Mexico City,,0.0,0.0
 Raul Servin,1,1986,Mexico,Mexico City,,0.0,0.0
 Gerardo Torrado,1,2002-2006-2010,Mexico,Mexico City,,0.0,0.0
 Arturo Vazquez,1,1978,Mexico,SEARCH MANUALLY,,0.0,0.0
-Carlos Vela,1,2018,Mexico,Canc˙n,,0.0,0.0
-"Zinha,1,2006,Mexico,""Itaj·, Rio Grande do Norte"",,0.0,0.0"
-Khalid Boutaib,1,2018,Morocco,Bagnols-sur-CËze,,0.0,0.0
+Carlos Vela,1,2018,Mexico,Canc√∫n,,0.0,0.0
+"Zinha,1,2006,Mexico,""Itaj√°, Rio Grande do Norte"",,0.0,0.0"
+Khalid Boutaib,1,2018,Morocco,Bagnols-sur-C√®ze,,0.0,0.0
 Mohammed Chaouch,1,1994,Morocco,Aklim,,0.0,0.0
 "Youssef En Nesyri,1,2018,Morocco,""Fez, Morocco"",,0.0,0.0"
 Mahjoub Ghazouani,1,1970,Morocco,SEARCH MANUALLY,,0.0,0.0
@@ -967,7 +967,7 @@ Georginio Wijnaldum,1,2014,Netherlands,Rotterdam,,0.0,0.0
 Aron Winter,1,1990-1994-1998,Netherlands,Paramaribo,,0.0,0.0
 Boudewijn Zenden,1,1998,Netherlands,Maastricht,,0.0,0.0
 "Winston Reid,1,2010,New Zealand,""North Shore, New Zealand"",,0.0,0.0"
-Shane Smeltz,1,2010,New Zealand,Gˆppingen,,0.0,0.0
+Shane Smeltz,1,2010,New Zealand,G√∂ppingen,,0.0,0.0
 "Steve Sumner,1,1982,New Zealand,""Preston, Lancashire"",,0.0,0.0"
 Steve Wooddin,1,1982,New Zealand,England,,0.0,0.0
 Mutiu Adepoju,1,1998,Nigeria,Ibadan,,0.0,0.0
@@ -994,22 +994,22 @@ Dan Eggen,1,1998,Norway,Oslo,,0.0,0.0
 "Tore Andre Flo,1,1998,Norway,""Flo, Norway"",,0.0,0.0"
 "Havard Flo,1,1998,Norway,""Flo, Norway"",,0.0,0.0"
 Felipe Baloy,1,2018,Panama,Panama City,,0.0,0.0
-Antolin Alcaraz,1,2010,Paraguay,San Roque Gonz·lez de Santa Cruz,,0.0,0.0
+Antolin Alcaraz,1,2010,Paraguay,San Roque Gonz√°lez de Santa Cruz,,0.0,0.0
 Francisco Arce,1,1998-2002,Paraguay,Paraguari,,0.0,0.0
-Celso Ayala,1,1998-2002,Paraguay,AsunciÛn,,0.0,0.0
+Celso Ayala,1,1998-2002,Paraguay,Asunci√≥n,,0.0,0.0
 Miguel Benitez,1,1998,Paraguay,SEARCH MANUALLY,,0.0,0.0
 Jorge Campos,1,1998-2002,Paraguay,Acapulco,,0.0,0.0
 "Jose Cardozo,1,1998-2002,Paraguay,""Nueva Italia, Paraguay"",,0.0,0.0"
-Roque Santa Cruz,1,2002-2006-2010,Paraguay,AsunciÛn,,0.0,0.0
+Roque Santa Cruz,1,2002-2006-2010,Paraguay,Asunci√≥n,,0.0,0.0
 "Atilio Lopez,1,1950,Paraguay,""Villarrica, Paraguay"",,0.0,0.0"
 Cesar Lopez,1,1950,Paraguay,SEARCH MANUALLY,,0.0,0.0
 Luis Vargas Pena,1,1930,Paraguay,Paraguay,,0.0,0.0
-Cayetano Re,1,1958,Paraguay,AsunciÛn,,0.0,0.0
-Cristian Riveros,1,2006-2010,Paraguay,Juan Augusto SaldÌvar,,0.0,0.0
-Enrique Vera,1,2010,Paraguay,AsunciÛn,,0.0,0.0
+Cayetano Re,1,1958,Paraguay,Asunci√≥n,,0.0,0.0
+Cristian Riveros,1,2006-2010,Paraguay,Juan Augusto Sald√≠var,,0.0,0.0
+Enrique Vera,1,2010,Paraguay,Asunci√≥n,,0.0,0.0
 Andre Carrillo,1,2018,Peru,Lima,,0.0,0.0
 Roberto Challe,1,1970,Peru,Lima,,0.0,0.0
-Hector Chumpitaz,1,1970-1978,Peru,San Vicente de CaÒete,,0.0,0.0
+Hector Chumpitaz,1,1970-1978,Peru,San Vicente de Ca√±ete,,0.0,0.0
 Cesar Cueto,1,1978-1982,Peru,Lima,,0.0,0.0
 Ruben Diaz,1,1978-1982,Peru,SEARCH MANUALLY,,0.0,0.0
 Paolo Guerrero,1,2018,Peru,Lima,,0.0,0.0
@@ -1026,7 +1026,7 @@ Marcin Zewlakow,1,2002,Poland,Warsaw,,0.0,0.0
 Hugo Almeida,1,2010,Portugal,Figueira da Foz,,0.0,0.0
 Beto,1,2002,Portugal,SEARCH MANUALLY,,0.0,0.0
 Rui Costa,1,2002,Portugal,SEARCH MANUALLY,,0.0,0.0
-Deco,1,2006-2010,Portugal,S„o Bernardo do Campo,,0.0,0.0
+Deco,1,2006-2010,Portugal,S√£o Bernardo do Campo,,0.0,0.0
 Diamantino,1,1986,Portugal,SEARCH MANUALLY,,0.0,0.0
 "Nuno Gomes,1,2002-2006,Portugal,""Amarante, Portugal"",,0.0,0.0"
 Liedson,1,2010,Portugal,Cairu,,0.0,0.0
@@ -1036,9 +1036,9 @@ Nani,1,2014,Portugal,SEARCH MANUALLY,,0.0,0.0
 Ricardo Quaresma,1,2018,Portugal,Lisbon,,0.0,0.0
 Simoes,1,1966,Portugal,SEARCH MANUALLY,,0.0,0.0
 Varela,1,2014,Portugal,SEARCH MANUALLY,,0.0,0.0
-Iuliu Baratki,1,1938,Romania,Nagyv·rad,,0.0,0.0
+Iuliu Baratki,1,1938,Romania,Nagyv√°rad,,0.0,0.0
 "Stefan Barbu,1,1930,Romania,""Arad, Romania"",,0.0,0.0"
-Emerich Dembrovschi,1,1970,Romania,C‚mpulung la Tisa,,0.0,0.0
+Emerich Dembrovschi,1,1970,Romania,C√¢mpulung la Tisa,,0.0,0.0
 Adrian Ilie,1,1998,Romania,Craiova,,0.0,0.0
 Alexandru Neagu,1,1970,Romania,Bucharest,,0.0,0.0
 Constantin Stanciu,1,1930,Romania,Bucharest,,0.0,0.0
@@ -1072,9 +1072,9 @@ David Narey,1,1982-1986,Scotland,Dundee,,0.0,0.0
 John Robertson,1,1978-1982,Scotland,SEARCH MANUALLY,,0.0,0.0
 Graeme Souness,1,1978-1982-1986,Scotland,Edinburgh,,0.0,0.0
 Gordon Strachan,1,1982-1986,Scotland,Edinburgh,,0.0,0.0
-Salif Diao,1,2002,Senegal,KÈdougou,,0.0,0.0
+Salif Diao,1,2002,Senegal,K√©dougou,,0.0,0.0
 Khalilou Fadiga,1,2002,Senegal,Dakar,,0.0,0.0
-Sadio Mane,1,2018,Senegal,SÈdhiou Department,,0.0,0.0
+Sadio Mane,1,2018,Senegal,S√©dhiou Department,,0.0,0.0
 Mbaye Niang,1,2018,Senegal,Meulan-en-Yvelines,,0.0,0.0
 Moussa Wague,1,2018,Senegal,Bignona,,0.0,0.0
 Sasa Ilic,1,2006,Serbia,SEARCH MANUALLY,,0.0,0.0
@@ -1111,7 +1111,7 @@ Kim Younggwon,1,2018,South Korea,SEARCH MANUALLY,,0.0,0.0
 Adelardo,1,1962-1966,Spain,SEARCH MANUALLY,,0.0,0.0
 Amancio,1,1966,Spain,SEARCH MANUALLY,,0.0,0.0
 Asensi,1,1978,Spain,SEARCH MANUALLY,,0.0,0.0
-Iago Aspas,1,2018,Spain,MoaÒa,,0.0,0.0
+Iago Aspas,1,2018,Spain,Moa√±a,,0.0,0.0
 Txiki Begiristain,1,0,Spain,Olaberria,,0.0,0.0
 Corso,1,1934,Spain,SEARCH MANUALLY,,0.0,0.0
 Dani,1,1978,Spain,SEARCH MANUALLY,,0.0,0.0
@@ -1119,8 +1119,8 @@ Eloy,1,1986,Spain,SEARCH MANUALLY,,0.0,0.0
 Jose Maria Fuste,1,1966,Spain,SEARCH MANUALLY,,0.0,0.0
 Alberto Gorriz,1,1990,Spain,Irun,,0.0,0.0
 Guardiola,1,0,Spain,SEARCH MANUALLY,,0.0,0.0
-Silvestre Igoa,1,1950,Spain,San Sebasti·n,,0.0,0.0
-Isco,1,2018,Spain,Benalm·dena,,0.0,0.0
+Silvestre Igoa,1,1950,Spain,San Sebasti√°n,,0.0,0.0
+Isco,1,2018,Spain,Benalm√°dena,,0.0,0.0
 Juanito,1,2006,Spain,SEARCH MANUALLY,,0.0,0.0
 Kiko,1,1998,Spain,SEARCH MANUALLY,,0.0,0.0
 Isidoro Langara,1,1934,Spain,Pasaia,,0.0,0.0
@@ -1131,32 +1131,32 @@ Joaquin Peiro,1,1962-1966,Spain,Madrid,,0.0,0.0
 Pirri,1,1966-1978,Spain,Ceuta,,0.0,0.0
 Carles Puyol,1,2002-2006-2010,Spain,La Pobla de Segur,,0.0,0.0
 Manuel Sanchis,1,1966,Spain,SEARCH MANUALLY,,0.0,0.0
-"Enrique Saura,1,1982,Spain,""Onda, CastellÛn"",,0.0,0.0"
+"Enrique Saura,1,1982,Spain,""Onda, Castell√≥n"",,0.0,0.0"
 Juan Antonio Senor,1,1986,Spain,Madrid,,0.0,0.0
 Lopez Ufarte,1,1982,Spain,SEARCH MANUALLY,,0.0,0.0
-Juan Carlos Valeron,1,2002,Spain,ArguineguÌn,,0.0,0.0
+Juan Carlos Valeron,1,2002,Spain,Arguinegu√≠n,,0.0,0.0
 Jesus Zamora,1,1982,Spain,SEARCH MANUALLY,,0.0,0.0
 Niclas Alexandersson,1,2002-2006,Sweden,Halmstad,,0.0,0.0
 Marcus Allback,1,2002-2006,Sweden,Gothenburg,,0.0,0.0
 Ludwig Augustinsson,1,2018,Sweden,Stockholm,,0.0,0.0
 Gosta Dunker,1,1934,Sweden,Sweden,,0.0,0.0
-Johnny Ekstrom,1,1990,Sweden,Kalleb‰ck,,0.0,0.0
+Johnny Ekstrom,1,1990,Sweden,Kalleb√§ck,,0.0,0.0
 Emil Forsberg,1,2018,Sweden,Sundsvall,,0.0,0.0
-Ove Grahn,1,1970-1974,Sweden,Norra FÂgelÂs,,0.0,0.0
+Ove Grahn,1,1970-1974,Sweden,Norra F√•gel√•s,,0.0,0.0
 Gunnar Gren,1,1958,Sweden,Gothenburg,,0.0,0.0
-Tore Keller,1,1934-1938,Sweden,Norrkˆping,,0.0,0.0
+Tore Keller,1,1934-1938,Sweden,Norrk√∂ping,,0.0,0.0
 Knut Kroon,1,1934,Sweden,Sweden,,0.0,0.0
 Roger Ljung,1,1990-1994,Sweden,Lomma,,0.0,0.0
-Fredrik Ljungberg,1,2002-2006,Sweden,Vittsjˆ,,0.0,0.0
-Bror Mellberg,1,1950-1958,Sweden,Ambjˆrby,,0.0,0.0
-Hakan Mild,1,1994,Sweden,Trollh‰ttan,,0.0,0.0
+Fredrik Ljungberg,1,2002-2006,Sweden,Vittsj√∂,,0.0,0.0
+Bror Mellberg,1,1950-1958,Sweden,Ambj√∂rby,,0.0,0.0
+Hakan Mild,1,1994,Sweden,Trollh√§ttan,,0.0,0.0
 Thomas Sjoberg,1,1978,Sweden,Helsingborg,,0.0,0.0
 Lennart Skoglund,1,1950-1958,Sweden,Stockholm,,0.0,0.0
 Glenn Stromberg,1,0,Sweden,Gothenburg,,0.0,0.0
 Anders Svensson,1,2002-2006,Sweden,Gothenburg,,0.0,0.0
 Ola Toivonen,1,2018,Sweden,Degerfors,,0.0,0.0
 Conny Torstensson,1,1974,Sweden,Lofta,,0.0,0.0
-Tom Turesson,1,1970,Sweden,÷stervÂla,,0.0,0.0
+Tom Turesson,1,1970,Sweden,√ñsterv√•la,,0.0,0.0
 Rene Bader,1,1950,Switzerland,Basel,,0.0,0.0
 Tranquillo Barnetta,1,2006-2010,Switzerland,St. Gallen,,0.0,0.0
 Fredy Bickel,1,1938-1950,Switzerland,SEARCH MANUALLY,,0.0,0.0
@@ -1175,13 +1175,13 @@ Jean Tamini,1,0,Switzerland,Switzerland,,0.0,0.0
 Genia Walaschek,1,1938,Switzerland,SEARCH MANUALLY,,0.0,0.0
 Rolf Wuethrich,1,1962,Switzerland,Switzerland,,0.0,0.0
 Steven Zuber,1,2018,Switzerland,Winterthur,,0.0,0.0
-Mohamed Kader,1,2006,Togo,SokodÈ,,0.0,0.0
+Mohamed Kader,1,2006,Togo,Sokod√©,,0.0,0.0
 Fakhreddine Ben Youssef,1,2018,Tunisia,Tunis,,0.0,0.0
 Raouf Bouzaiene,1,2002,Tunisia,Sousse,,0.0,0.0
 Dylan Bronn,1,2018,Tunisia,Cannes,,0.0,0.0
 Mokhtar Douieb,1,1978,Tunisia,SEARCH MANUALLY,,0.0,0.0
 Nejib Ghommidh,1,1978,Tunisia,Tunisia,,0.0,0.0
-Radhi Jaidi,1,2002-2006,Tunisia,GabËs,,0.0,0.0
+Radhi Jaidi,1,2002-2006,Tunisia,Gab√®s,,0.0,0.0
 Zied Jaziri,1,2002-2006,Tunisia,Sousse,,0.0,0.0
 Ali Kaabi,1,1978,Tunisia,Tunisia,,0.0,0.0
 "Jaouhar Mnari,1,2006,Tunisia,""Monastir, Tunisia"",,0.0,0.0"
@@ -1273,12 +1273,12 @@ Branislav Sekulic,1,1930,Yugoslavia,Belgrade,,0.0,0.0
 Aleksandar Tirnanic,1,1930,Yugoslavia,Krnjevo,,0.0,0.0
 Djordje Vujadinovic,1,1930,Yugoslavia,SEARCH MANUALLY,,0.0,0.0
 Branko Zebec,1,1954-1958,Yugoslavia,Zagreb,,0.0,0.0
-"Nahuel Molina,1,2022,Argentina,""Embalse, CÛrdoba"",,0.0,0.0"
+"Nahuel Molina,1,2022,Argentina,""Embalse, C√≥rdoba"",,0.0,0.0"
 "Alexis Mac Allister,1,2022,Argentina,""Santa Rosa, La Pampa"",,0.0,0.0"
-"Enzo Fernandez,1,2022,Argentina,""San MartÌn, Buenos Aires"",,0.0,0.0"
+"Enzo Fernandez,1,2022,Argentina,""San Mart√≠n, Buenos Aires"",,0.0,0.0"
 Theo Hernandez,1,2022,France,Marseille,,0.0,0.0
 "Adrien Rabiot,1,2022,France,""Saint-Maurice, Val-de-Marne"",,0.0,0.0"
-Aurelien Tchouam√©ni,1,2022,France,SEARCH MANUALLY,,0.0,0.0
+Aurelien Tchouam√É¬©ni,1,2022,France,SEARCH MANUALLY,,0.0,0.0
 Randal Kolo Muani,1,2022,France,Bondy,,0.0,0.0
 Marcus Thuram,1,2022,France,Parma,,0.0,0.0
 Josko Gvardiol,1,2022,Croatia,Zagreb,,0.0,0.0
@@ -1297,11 +1297,11 @@ Jordan Henderson,1,2022,England,Sunderland,,0.0,0.0
 Phil Foden,1,2022,England,Stockport,,0.0,0.0
 Jack Grealish,1,2022,England,Birmingham,,0.0,0.0
 "Raheem Sterling,1,2022,England,""Kingston, Jamaica"",,0.0,0.0"
-Casemiro,1,2022,Brazil,S„o JosÈ dos Campos,,0.0,0.0
+Casemiro,1,2022,Brazil,S√£o Jos√© dos Campos,,0.0,0.0
 Lucas Paqueta,1,2022,Brazil,SEARCH MANUALLY,,0.0,0.0
-"Vinicius Jr,1,2022,Brazil,""S„o GonÁalo, Rio de Janeiro"",,0.0,0.0"
+"Vinicius Jr,1,2022,Brazil,""S√£o Gon√ßalo, Rio de Janeiro"",,0.0,0.0"
 Raphael Guerreiro,1,2022,Portugal,Le Blanc-Mesnil,,0.0,0.0
-Cristiano Ronaldo üêê,1,2022,Portugal,SEARCH MANUALLY,,0.0,0.0
+Cristiano Ronaldo √∞≈∏¬ê¬ê,1,2022,Portugal,SEARCH MANUALLY,,0.0,0.0
 Joao Felix,1,2022,Portugal,Viseu,,0.0,0.0
 Ricardo Horta,1,2022,Portugal,Sobreda,,0.0,0.0
 Mathew Leckie,1,2022,Australia,Melbourne,,0.0,0.0
@@ -1310,7 +1310,7 @@ Craig Goodwin,1,2022,Australia,Adelaide,,0.0,0.0
 "Christian Pulisic,1,2022,USA,""Hershey, Pennsylvania"",,0.0,0.0"
 Tim Weah,1,2022,USA,Brooklyn,,0.0,0.0
 Haji Wright,1,2022,USA,Los Angeles,,0.0,0.0
-Kalidou Koulibaly,1,2022,Senegal,Saint-DiÈ-des-Vosges,,0.0,0.0
+Kalidou Koulibaly,1,2022,Senegal,Saint-Di√©-des-Vosges,,0.0,0.0
 Boulaye Dia,1,2022,Senegal,Oyonnax,,0.0,0.0
 Ismalia Sarr,1,2022,Senegal,SEARCH MANUALLY,,0.0,0.0
 Bamba Dieng,1,2022,Senegal,Pikine,,0.0,0.0
@@ -1321,7 +1321,7 @@ Bamba Dieng,1,2022,Senegal,Pikine,,0.0,0.0
 Kim Young-gwon,1,2022,South Korea,Jeonju,,0.0,0.0
 Paik Seung-ho,1,2022,South Korea,Seoul,,0.0,0.0
 Hwang Hee-chan,1,2022,South Korea,Chuncheon,,0.0,0.0
-Hugo Guillamon,1,2022,Spain,San Sebasti·n,,0.0,0.0
+Hugo Guillamon,1,2022,Spain,San Sebasti√°n,,0.0,0.0
 Gavi,1,2022,Spain,SEARCH MANUALLY,,0.0,0.0
 Carlos Soler,1,2022,Spain,SEARCH MANUALLY,,0.0,0.0
 "Marco Asensio,1,2022,Spain,""Palma, Majorca"",,0.0,0.0"
@@ -1335,11 +1335,11 @@ Gareth Bale,1,2022,Wales,Cardiff,,0.0,0.0
 Luis Chavez,1,2022,Mexico ,SEARCH MANUALLY,,0.0,0.0
 Henry Martin,1,2022,Mexico ,SEARCH MANUALLY,,0.0,0.0
 Saleh Al-Shehri,1,2022,Saudi Arabia,Jeddah,,0.0,0.0
-Andreas Christensen,1,2022,Denmark,Liller¯d,,0.0,0.0
+Andreas Christensen,1,2022,Denmark,Liller√∏d,,0.0,0.0
 Ilkay Gundogan,1,2022,Germany,Gelsenkirchen,,0.0,0.0
 Serge Gnabry,1,2022,Germany,Stuttgart,,0.0,0.0
-Keysher Fuller,1,2022,Costa Rica,LimÛn,,0.0,0.0
-Yeltsin Tejeda,1,2022,Costa Rica,LimÛn,,0.0,0.0
+Keysher Fuller,1,2022,Costa Rica,Lim√≥n,,0.0,0.0
+Yeltsin Tejeda,1,2022,Costa Rica,Lim√≥n,,0.0,0.0
 Jean Charles Castelletto,1,2022,Cameroon,SEARCH MANUALLY,,0.0,0.0
 Eric Maxim Choupo-Moting,1,2022,Cameroon,Hamburg,,0.0,0.0
 Strahinja Pavlovic,1,2022,Serbia,SEARCH MANUALLY,,0.0,0.0
