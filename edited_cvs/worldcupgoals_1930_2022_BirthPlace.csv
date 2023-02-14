@@ -421,7 +421,7 @@ Patrick Kluivert,2,1998,Netherlands,Amsterdam,,0.0,0.0
 Daniel Amokachi,2,1994-1998,Nigeria,Kaduna,,0.0,0.0
 Emmanuel Amunike,2,1994,Nigeria,Eziobodo,,0.0,0.0
 Kalu Uche,2,2010,Nigeria,Aba - Abia,,0.0,0.0
-Pak Seung Zin,2,1966,North Korea,NOT FOUND,,0.0,0.0
+Pak Seung Zin,2,1966,North Korea,Wonsan,,0.0,0.0
 Billy Hamilton,2,1982-1986,Northern Ireland,Subdivisions of Belfast,,0.0,0.0
 Kjetil Rekdal,2,1994-1998,Norway,Molde,,0.0,0.0
 Juan Aguero,2,1958,Paraguay,Caacupé,,0.0,0.0
@@ -429,7 +429,7 @@ Florencio Amarilla,2,1958,Paraguay,Coronel Bogado,,0.0,0.0
 Roberto Cabanas,2,1986,Paraguay,Pilar - Paraguay,,0.0,0.0
 Jose Parodi,2,1958,Paraguay,Luque,,0.0,0.0
 Julio Cesar Romero,2,1986,Paraguay,Luque,,0.0,0.0
-Jorge Romero,2,1958,Paraguay,NOT FOUND,,0.0,0.0
+Jorge Romero,2,1958,Paraguay,Luque,,0.0,0.0
 Alberto Gallardo,2,1970,Peru,Lima,,0.0,0.0
 Wlodimierz Smolarek,2,1982-1986,Poland,Aleksandrów ?ódzki,,0.0,0.0
 Maniche,2,2006,Portugal,Lisbon,,0.0,0.0
@@ -594,7 +594,7 @@ Edin Dzeko,1,2014,Bosnia Herz,Sarajevo,,0.0,0.0
 Vedad Ibisevic,1,2014,Bosnia Herz,Vlasenica,,0.0,0.0
 Miralem Pjanic,1,2014,Bosnia Herz,Tuzla,,0.0,0.0
 Carlos Alberto Torres,1,1970,Brazil,Rio de Janeiro,,0.0,0.0
-Alfredo,1,1950,Brazil,Jacareí,,0.0,0.0
+Alfredo ii,1,1950,Brazil,Jacareí,,0.0,0.0
 Renato Augusto,1,2018,Brazil,Rio de Janeiro,,0.0,0.0
 Jose Oscar Bernardi,1,1978-1982,Brazil,Monte Siao - Brazil,,0.0,0.0
 Branco,1,1986-1990-1994,Brazil,Bagé,,0.0,0.0
@@ -664,7 +664,7 @@ Leider Preciado,1,1998,Colombia,Tumaco,,0.0,0.0
 Antonio Rada,1,1962,Colombia,Sabanalarga - Atlántico,,0.0,0.0
 Freddy Rincon,1,1990-1994-1998,Colombia,Buenaventura - Valle del Cauca,,0.0,0.0
 Carlos Valderrama,1,1990-1994-1998,Colombia,Santa Marta,,0.0,0.0
-Francisco Zuluaga,1,1962,Colombia,NOT FOUND,,0.0,0.0
+Francisco Zuluaga,1,1962,Colombia,Medellín,,0.0,0.0
 Joel Campbell,1,2014,Costa Rica,San José - Costa Rica,,0.0,0.0
 Juan Cayasso,1,1990,Costa Rica,Limón,,0.0,0.0
 Oscar Duarte,1,2014,Costa Rica,Catarina-Masaya,,0.0,0.0
@@ -686,7 +686,7 @@ Ivan Rakitic,1,2018,Croatia,Rheinfelden (Aargau),,0.0,0.0
 Ante Rebic,1,2018,Croatia,Split - Croatia,,0.0,0.0
 Mario Stanic,1,1998-2002,Croatia,Sarajevo,,0.0,0.0
 Tomas Fernandez,1,1938,Cuba,unknown - spain,,0.0,0.0
-Carlos Oliveira,1,1938,Cuba,NOT FOUND,,0.0,0.0
+Carlos Oliveira,1,1938,Cuba,NULL,Cuba,0.0,0.0
 Juan Tunas,1,1938,Cuba,Havana,,0.0,0.0
 Lubos Kubik,1,1990,Czech,Vysoké Mýto,,0.0,0.0
 Vaclav Masek,1,1962,Czech,Prague,,0.0,0.0
@@ -834,7 +834,7 @@ Erno Solymosi,1,1962,Hungary,Kingdom of Hungary,,0.0,0.0
 Lazar Szentes,1,1982,Hungary,Bonyhád,,0.0,0.0
 Pavel Teleki,1,1934,Hungary,Arad County (former),,0.0,0.0
 Jozsef Toth,1,1978-1982,Hungary,Mosonmagyaróvár,,0.0,0.0
-Andras Toth,1,1978,Hungary,NOT FOUND,,0.0,0.0
+Andras Toth,1,1978,Hungary,Budapest,,0.0,0.0
 Jozsef Varga,1,1982-1986,Hungary,Budapest,,0.0,0.0
 Jeno Vincze,1,1934-1938,Hungary,Kingdom of Hungary,,0.0,0.0
 Sandor Zombori,1,1978,Hungary,Pécs,,0.0,0.0
@@ -903,7 +903,7 @@ Masashi Nakayama,1,1998-2002,Japan,Fujieda - Shizuoka,,0.0,0.0
 Yuya Osako,1,2018,Japan,Kaseda - Kagoshima,,0.0,0.0
 Takayuki Suzuki,1,2002,Japan,Hitachi - Ibaraki,,0.0,0.0
 Keiji Tamada,1,2006-2010,Japan,Urayasu,,0.0,0.0
-Abdulaziz Al-Buloushi,1,1982,Kuwait,NOT FOUND,,0.0,0.0
+Abdulaziz Al-Buloushi,1,1982,Kuwait,NULL,Kuwait,0.0,0.0
 Faisal Al-Dakhil,1,1982,Kuwait,Kuwait City,,0.0,0.0
 Tomas Balcazar,1,1954,Mexico,Guadalajara,,0.0,0.0
 Ignacio Basaguren,1,1970,Mexico,Mexico City,,0.0,0.0
@@ -912,12 +912,12 @@ Marcelino Bernal,1,1994-1998,Mexico,Tepic,,0.0,0.0
 Enrique Borja,1,1966,Mexico,Mexico City,,0.0,0.0
 Juan Carreno,1,1930,Mexico,Mexico,,0.0,0.0
 Horacio Casarin,1,1950,Mexico,Mexico City,,0.0,0.0
-Alfredo Del Aguila,1,1962,Mexico,NOT FOUND,,0.0,0.0
+Alfredo Del Aguila,1,1962,Mexico,Mexico City,,0.0,0.0
 Isidoro Diaz,1,1962-1966,Mexico,Acatlán de Juárez,,0.0,0.0
 Giovani Dos Santos,1,2014,Mexico,Monterrey,,0.0,0.0
 Luis Flores,1,1986,Mexico,Mexico City,,0.0,0.0
 Francisco Fonseca,1,2006,Mexico,León - Guanajuato,,0.0,0.0
-Rodriguez Fragoso,1,1966-1970,Mexico,Mexico City,,0.0,0.0
+Javier Fragoso,1,1966-1970,Mexico,Mexico City,,0.0,0.0
 Roberto Gayon,1,1930,Mexico,San José - Costa Rica,,0.0,0.0
 Jose Gonzalez,1,1970,Mexico,Mexico City,,0.0,0.0
 Andres Guardado,1,2014,Mexico,Guadalajara,,0.0,0.0
@@ -925,21 +925,21 @@ Hector Hernandez,1,1962,Mexico,Guadalajara,,0.0,0.0
 Jose Lamadrid,1,1954,Mexico,Mexico City,,0.0,0.0
 Hirving Lozano,1,2018,Mexico,Mexico City,,0.0,0.0
 Manuel Negrete,1,1986,Mexico,Ciudad Altamirano-Guerrero,,0.0,0.0
-Hector Ortiz,1,1950,Mexico,NOT FOUND,,0.0,0.0
+Hector Ortiz,1,1950,Mexico,NULL,Mexico,0.0,0.0
 Gustavo Pena,1,1966-1970,Mexico,Talpa de Allende,,0.0,0.0
 Oribe Peralta,1,2014,Mexico,Torreón,,0.0,0.0
 Victor Rangel,1,1978,Mexico,Mexico City,,0.0,0.0
 Hugo Sanchez,1,1978-1986-1994,Mexico,Mexico City,,0.0,0.0
 Raul Servin,1,1986,Mexico,Mexico City,,0.0,0.0
 Gerardo Torrado,1,2002-2006-2010,Mexico,Mexico City,,0.0,0.0
-Arturo Vazquez,1,1978,Mexico,NOT FOUND,,0.0,0.0
+Arturo Vazquez,1,1978,Mexico,Mexico City,,0.0,0.0
 Carlos Vela,1,2018,Mexico,Cancún,,0.0,0.0
 Zinha,1,2006,Mexico,Itajá - Rio Grande do Norte,,0.0,0.0
 Khalid Boutaib,1,2018,Morocco,Bagnols-sur-Cèze,,0.0,0.0
 Mohammed Chaouch,1,1994,Morocco,Aklim,,0.0,0.0
 Youssef En Nesyri,1,2018,Morocco,Fez - Morocco,,0.0,0.0
 Mahjoub Ghazouani,1,1970,Morocco,Hay Mohammadi,,0.0,0.0
-Mustafa El Hadji,1,1994-1998,Morocco,Tiznit,,0.0,0.0
+Mustafa Hadji,1,1994-1998,Morocco,Tiznit,,0.0,0.0
 Houmane Jarir,1,1970,Morocco,Casablanca - Morocco,,0.0,0.0
 Abdelkarim Krimau,1,1986,Morocco,Casablanca,,0.0,0.0
 Hassan Nader,1,1994,Morocco,Casablanca,,0.0,0.0
@@ -981,10 +981,10 @@ Wilson Oruma,1,1998,Nigeria,Warri - Nigeria,,0.0,0.0
 Samson Siasia,1,1994,Nigeria,Lagos,,0.0,0.0
 Yakubu Aiyegbeni,1,2010,Nigeria,Benin City,,0.0,0.0
 Rasheed Yekini,1,1994-1998,Nigeria,Kaduna,,0.0,0.0
-Ji Yun Nam,1,2010,North Korea,NOT FOUND,,0.0,0.0
-Lee Dong Woon,1,1966,North Korea,NOT FOUND,,0.0,0.0
-Pak Doo Ik,1,1966,North Korea,NOT FOUND,,0.0,0.0
-Yang Seung Kook,1,1966,North Korea,NOT FOUND,,0.0,0.0
+Ji Yun Nam,1,2010,North Korea,Pyongyang,,0.0,0.0
+Lee Dong Woon,1,1966,North Korea,Pyongyang,,0.0,0.0
+Pak Doo Ik,1,1966,North Korea,Pyongyang,,0.0,0.0
+Yang Seung Kook,1,1966,North Korea,Pyongyang,,0.0,0.0
 Colin Clarke,1,1986,Northern Ireland,Newry,,0.0,0.0
 Wilbur Cush,1,1958,Northern Ireland,Lurgan - County Armagh,,0.0,0.0
 Norman Whiteside,1,1982-1986,Northern Ireland,Belfast,,0.0,0.0
@@ -1001,7 +1001,7 @@ Jorge Campos,1,1998-2002,Paraguay,Acapulco,,0.0,0.0
 Jose Cardozo,1,1998-2002,Paraguay,Nueva Italia - Paraguay,,0.0,0.0
 Roque Santa Cruz,1,2002-2006-2010,Paraguay,Asunción,,0.0,0.0
 Atilio Lopez,1,1950,Paraguay,Villarrica - Paraguay,,0.0,0.0
-Cesar Lopez,1,1950,Paraguay,NOT FOUND,,0.0,0.0
+César López Fretes,1,1950,Paraguay,Asunción,,0.0,0.0
 Luis Vargas Pena,1,1930,Paraguay,Paraguay,,0.0,0.0
 Cayetano Re,1,1958,Paraguay,Asunción,,0.0,0.0
 Cristian Riveros,1,2006-2010,Paraguay,Juan Augusto Saldívar,,0.0,0.0
@@ -1053,7 +1053,7 @@ Dmitri Sychev,1,2002,Russia,Omsk,,0.0,0.0
 Egor Titov,1,2002,Russia,Moscow,,0.0,0.0
 Salem Aldawsari,1,2018,Saudi Arabia,Jeddah,,0.0,0.0
 Salman Alfaraj,1,2018,Saudi Arabia,Al Madinah Al Munawwarah,,0.0,0.0
-Fahad Al Ghesheyan,1,1994,Saudi Arabia,NOT FOUND,,0.0,0.0
+Fahad Al Ghesheyan,1,1994,Saudi Arabia,Riyadh,,0.0,0.0
 Saeed Owairan,1,1994-1998,Saudi Arabia,Riyadh,,0.0,0.0
 Yasser Al Kahtani,1,2006,Saudi Arabia,Riyadh,,0.0,0.0
 Yousuf Al-Thunayan,1,1994-1998,Saudi Arabia,Riyadh,,0.0,0.0
@@ -1178,7 +1178,7 @@ Mohamed Kader,1,2006,Togo,Sokodé,,0.0,0.0
 Fakhreddine Ben Youssef,1,2018,Tunisia,Tunis,,0.0,0.0
 Raouf Bouzaiene,1,2002,Tunisia,Sousse,,0.0,0.0
 Dylan Bronn,1,2018,Tunisia,Cannes,,0.0,0.0
-Mokhtar Dhouieb,1,1978,Tunisia,NOT FOUND,,0.0,0.0
+Mokhtar Dhouieb,1,1978,Tunisia,Sfax,Tunisia,0.0,0.0
 Nejib Ghommidh,1,1978,Tunisia,Tunisia,,0.0,0.0
 Radhi Jaidi,1,2002-2006,Tunisia,Gabès,,0.0,0.0
 Zied Jaziri,1,2002-2006,Tunisia,Sousse,,0.0,0.0
@@ -1187,12 +1187,12 @@ Jaouhar Mnari,1,2006,Tunisia,Monastir - Tunisia,,0.0,0.0
 Ferjani Sassi,1,2018,Tunisia,Aryanah,,0.0,0.0
 Skander Souayah,1,1998,Tunisia,Sfax,,0.0,0.0
 Emre Belozoglu,1,2002,Turkey,Istanbul,,0.0,0.0
-Mustafa Erton,1,1954,Turkey,Ankara,,0.0,0.0
+Mustafa Ertan,1,1954,Turkey,Ankara,,0.0,0.0
 Erol Keskin,1,1954,Turkey,Istanbul,,0.0,0.0
 Bulent Korkmaz,1,2002,Turkey,Malatya,,0.0,0.0
 Hakan ?ükür,1,2002,Turkey,Sapanca-Sakarya,,0.0,0.0
 Ali Thani Jumaa,1,1990,UAE,Sharjah (city),,0.0,0.0
-Khalid Mubarak,1,1990,UAE,NOT FOUND,,0.0,0.0
+Khalid Mubarak,1,1990,UAE,NULL,UAE,0.0,0.0
 Maksym Kalinichenko,1,2006,Ukraine,Kharkiv,,0.0,0.0
 Serhiy Rebrov,1,2006,Ukraine,Horlivka,,0.0,0.0
 Andriy Rusol,1,2006,Ukraine,Kropyvnytskyi,,0.0,0.0
