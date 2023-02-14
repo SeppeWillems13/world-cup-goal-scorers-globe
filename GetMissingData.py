@@ -5,10 +5,13 @@ with open('edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'r', 
     reader = csv.reader(csvfile)
     header = next(reader)  # skip header row
     for row in reader:
-        if row[2] == '0' or row[4] == 'SEARCH MANUALLY' or row[5] == '':
+        # if row[2] == '0' or row[4] == 'SEARCH MANUALLY' or row[5] == '':
+        #     player_goals.append(row)
+        # if row[3] != row[5]:
+        #     player_goals.append(row)
+        if row[6] == 0.0 or row[7] == 0.0:
             player_goals.append(row)
-        if row[3] != row[5]:
-            player_goals.append(row)
+
 
 # print the rows where Years is 0
 for player in player_goals:
