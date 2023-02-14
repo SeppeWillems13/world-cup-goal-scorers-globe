@@ -71,7 +71,7 @@ Marc Wilmots,5,1994-1998-2002,Belgium,Dongelberg,,0.0,0.0
 Garrincha,5,1958-1962-1966,Brazil,Magé,,0.0,0.0
 Romario,5,1990-1994,Brazil,Rio de Janeiro,,0.0,0.0
 Zico,5,1978-1982,Brazil,Rio de Janeiro,,0.0,0.0
-Roger Milla,5,0,Cameroon,Yaoundé,,0.0,0.0
+Roger Milla,5,1982-1990-1994,Cameroon,Yaoundé,,0.0,0.0
 Mario Mandzukic,5,2014-2018,Croatia,Slavonski Brod,,0.0,0.0
 Jon Dahl Tomasson,5,2002-2010,Denmark,Copenhagen,,0.0,0.0
 Geoff Hurst,5,1966-1970,England,Ashton-under-Lyne,,0.0,0.0
@@ -187,7 +187,7 @@ Yerry Mina,3,2018,Colombia,Guachené,,0.0,0.0
 Ronald Gomez,3,2002-2006,Costa Rica,Puntarenas,,0.0,0.0
 Paulo Wanchope,3,2002-2006,Costa Rica,Heredia - Costa Rica,,0.0,0.0
 Adolf Scherer,3,1962,Czech,Czechoslovakia,,0.0,0.0
-Jesper Olsen,3,0,Denmark,Faxe,,0.0,0.0
+Jesper Olsen,3,1986,Denmark,Faxe,,0.0,0.0
 Agustin Delgado,3,2002-2006,Ecuador,Ambuquí,,0.0,0.0
 David Beckham,3,1998-2002-2006,England,London,,0.0,0.0
 Steven Gerrard,3,2006-2010,England,Whiston - Merseyside,,0.0,0.0
@@ -205,7 +205,7 @@ Wolfgang Overath,3,1966-1970-1974,Germany,Siegburg,,0.0,0.0
 Andre Schuerrle,3,2014,Germany,Ludwigshafen,,0.0,0.0
 Fritz Walter,3,1954-1958,Germany,Kaiserslautern,,0.0,0.0
 Zoltan Czibor,3,1954,Hungary,Kaposvár,,0.0,0.0
-Laszlo Kiss,3,0,Hungary,Taszár,,0.0,0.0
+Laszlo Kiss,3,1982,Hungary,Taszár,,0.0,0.0
 Geza Toldi,3,1934-1938,Hungary,Budapest,,0.0,0.0
 Robbie Keane,3,2002,Ireland,Tallaght,,0.0,0.0
 Giuseppe Meazza,3,1934-1938,Italy,Milan,,0.0,0.0
@@ -404,7 +404,7 @@ Alberto Garcia Aspe,2,1994-1998-2002,Mexico,Mexico City,,0.0,0.0
 Jared Borgetti,2,2002-2006,Mexico,Culiacán,,0.0,0.0
 Omar Bravo,2,2006,Mexico,Los Mochis,,0.0,0.0
 Luis Garcia,2,1994,Mexico,Mexico City,,0.0,0.0
-Ricardo Pelaez,2,0,Mexico,Mexico City,,0.0,0.0
+Ricardo Pelaez,2,1994-1998,Mexico,Mexico City,,0.0,0.0
 Fernando Quirarte,2,1986,Mexico,Guadalajara,,0.0,0.0
 Manuel Rosas,2,1930,Mexico,Mexico City,,0.0,0.0
 Javier Valdivia,2,1970,Mexico,Guadalajara,,0.0,0.0
@@ -516,7 +516,7 @@ Yacine Brahimi,1,2014,Algeria,Paris - France,,0.0,0.0
 Sofiane Feghouli,1,2014,Algeria,Levallois-Perret,,0.0,0.0
 Rafik Halliche,1,2014,Algeria,Algiers,,0.0,0.0
 Rabah Madjer,1,1982-1986,Algeria,Hussein Dey District,,0.0,0.0
-Djamel Zidane,1,0,Algeria,Algiers,,0.0,0.0
+Djamel Zidane,1,1982-1986,Algeria,Algiers,,0.0,0.0
 Flavio Amado,1,2006,Angola,Luanda,,0.0,0.0
 Osvaldo Ardiles,1,1978-1982,Argentina,Córdoba - Argentina,,0.0,0.0
 Ludovico Avio,1,1958,Argentina,Argentina,,0.0,0.0
@@ -555,7 +555,7 @@ John Aloisi,1,2006,Australia,Adelaide,,0.0,0.0
 Harry Kewell,1,2006-2010,Australia,Sydney,,0.0,0.0
 Craig Moore,1,2006-2010,Australia,Sydney,,0.0,0.0
 Pepi Bican,1,1934,Austria,Vienna,,0.0,0.0
-Andreas Herzog,1,0,Austria,Vienna,,0.0,0.0
+Andreas Herzog,1,1990-1998,Austria,Vienna,,0.0,0.0
 Reinhold Hintermaier,1,1982,Austria,Altheim - Austria,,0.0,0.0
 Karl Koller,1,1954-1958,Austria,Matzendorf-Hölles,,0.0,0.0
 Alfred Korner,1,1954-1958,Austria,Vienna - Austria,,0.0,0.0
@@ -630,10 +630,10 @@ Plamen Getov,1,1986,Bulgaria,Sungurlare,,0.0,0.0
 Todor Kolev,1,1970,Bulgaria,Veliko Tarnovo,,0.0,0.0
 Emil Kostadinov,1,1994-1998,Bulgaria,Sofia,,0.0,0.0
 Asparukh Nikodimov,1,1970-1974,Bulgaria,Sofia Province,,0.0,0.0
-Georgi Sokolov,1,0,Bulgaria,Sofia - Bulgaria,,0.0,0.0
+Georgi Sokolov,1,1962,Bulgaria,Sofia - Bulgaria,,0.0,0.0
 Dobromir Zhechev,1,1962-1970,Bulgaria,Sofia,,0.0,0.0
-Eugene Ekeke,1,0,Cameroon,Bonabéri,,0.0,0.0
-David Embe,1,0,Cameroon,Yaoundé,,0.0,0.0
+Eugene Ekeke,1,1990,Cameroon,Bonabéri,,0.0,0.0
+David Embe,1,1994,Cameroon,Yaoundé,,0.0,0.0
 Emmanuel Kunde,1,1982-1990,Cameroon,Ndom - Cameroon,,0.0,0.0
 Joel Matip,1,2014,Cameroon,Bochum,,0.0,0.0
 Gregoire Mbida,1,1982,Cameroon,Yaoundé,,0.0,0.0
@@ -648,7 +648,7 @@ Miguel Neira,1,1982,Chile,Chiguayante,,0.0,0.0
 Andres Prieto,1,1950,Chile,Santiago,,0.0,0.0
 Fernando Riera,1,1950,Chile,Santiago - Chile,,0.0,0.0
 Jorge Robledo,1,1950,Chile,Iquique,,0.0,0.0
-Jose Sierra,1,0,Chile,Santiago,,0.0,0.0
+Jose Sierra,1,1998,Chile,Santiago,,0.0,0.0
 Jorge Valdivia,1,2014,Chile,Maracay,,0.0,0.0
 Eduardo Vargas,1,2014,Chile,Santiago - Chile,,0.0,0.0
 Carlos Vidal,1,1930,Chile,Chile,,0.0,0.0
@@ -659,8 +659,8 @@ Radamel Falcao,1,2018,Colombia,Santa Marta,,0.0,0.0
 Herman Gaviria,1,1994,Colombia,Carepa,,0.0,0.0
 Teofilo Gutierrez,1,2014,Colombia,Barranquilla,,0.0,0.0
 Marino Klinger,1,1962,Colombia,Buenaventura - Valle del Cauca,,0.0,0.0
-Harold Lozano,1,0,Colombia,Cali,,0.0,0.0
-Leider Preciado,1,0,Colombia,Tumaco,,0.0,0.0
+Harold Lozano,1,1994-1998,Colombia,Cali,,0.0,0.0
+Leider Preciado,1,1998,Colombia,Tumaco,,0.0,0.0
 Antonio Rada,1,1962,Colombia,Sabanalarga - Atlántico,,0.0,0.0
 Freddy Rincon,1,1990-1994-1998,Colombia,Buenaventura - Valle del Cauca,,0.0,0.0
 Carlos Valderrama,1,1990-1994-1998,Colombia,Santa Marta,,0.0,0.0
@@ -670,7 +670,7 @@ Juan Cayasso,1,1990,Costa Rica,Limón,,0.0,0.0
 Oscar Duarte,1,2014,Costa Rica,Catarina-Masaya,,0.0,0.0
 Roger Flores,1,1990,Costa Rica,San José - Costa Rica,,0.0,0.0
 Ronald Gonzalez,1,1990,Costa Rica,San José - Costa Rica,,0.0,0.0
-Hernan Medford,1,0,Costa Rica,San Jose Province,,0.0,0.0
+Hernan Medford,1,1990-2002,Costa Rica,San Jose Province,,0.0,0.0
 Winston Parks,1,2002,Costa Rica,Limón,,0.0,0.0
 Marcos Urena,1,2014,Costa Rica,San José - Costa Rica,,0.0,0.0
 Kendall Waston,1,2018,Costa Rica,San José - Costa Rica,,0.0,0.0
@@ -695,13 +695,13 @@ Josef Stibranyi,1,1962,Czech,Vl?kovce,,0.0,0.0
 Josef Zeman,1,1938,Czech,Drun?e,,0.0,0.0
 Jan Koller,1,2006,Czech Republic,Prague,,0.0,0.0
 Nicklas Bendtner,1,2010,Denmark,Copenhagen,,0.0,0.0
-John Eriksen,1,0,Denmark,Assens - Denmark,,0.0,0.0
+John Eriksen,1,1986,Denmark,Assens - Denmark,,0.0,0.0
 Christian Eriksen,1,2018,Denmark,Middelfart,,0.0,0.0
 Thomas Helveg,1,1998-2002,Denmark,Odense,,0.0,0.0
 Martin Jorgensen,1,1998-2002-2010,Denmark,Ryomgård,,0.0,0.0
 Mathias Jorgensen,1,2018,Denmark,Copenhagen,,0.0,0.0
 Soren Lerby,1,1986,Denmark,Copenhagen,,0.0,0.0
-Peter Moller,1,0,Denmark,Abildgård,,0.0,0.0
+Peter Moller,1,1998,Denmark,Abildgård,,0.0,0.0
 Allan Nielsen,1,1998,Denmark,Esbjerg,,0.0,0.0
 Yussuf Yurary Poulsen,1,2018,Denmark,Copenhagen,,0.0,0.0
 Marc Rieper,1,1998,Denmark,Rødovre,,0.0,0.0
@@ -709,7 +709,7 @@ Ebbe Sand,1,1998-2002,Denmark,Aalborg,,0.0,0.0
 Ivan Kaviedes,1,2002-2006,Ecuador,Santo Domingo de Los Colorados,,0.0,0.0
 Edison Mendez,1,2002-2006,Ecuador,Ibarra - Ecuador,,0.0,0.0
 Magdy Abedelghani,1,1990,Egypt,Cairo,,0.0,0.0
-Luis Ramirez,1,0,El Salvador,San Salvador,,0.0,0.0
+Luis Ramirez,1,1982,El Salvador,San Salvador,,0.0,0.0
 Dele Alli,1,2018,England,Milton Keynes,,0.0,0.0
 Darren Anderton,1,1998,England,Southampton,,0.0,0.0
 Peter Beardsley,1,1986-1990,England,Hexham,,0.0,0.0
@@ -745,7 +745,7 @@ Alain Couriol,1,1982,France,Paris - France,,0.0,0.0
 Hector De Bourgoing,1,1966,France,Posadas - Misiones,,0.0,0.0
 Youri Djorkaeff,1,1998-2002,France,Lyon,,0.0,0.0
 Yvon Douis,1,1958,France,Les Andelys,,0.0,0.0
-Christophe Dugarry,1,0,France,Lormont,,0.0,0.0
+Christophe Dugarry,1,1998-2002,France,Lormont,,0.0,0.0
 Leroy Fer,1,2014,France,Zoetermeer,,0.0,0.0
 Luis Fernandez,1,1986,France,Tarifa,,0.0,0.0
 Jean Marc Ferreri,1,1986,France,Charlieu,,0.0,0.0
@@ -798,11 +798,11 @@ Stanislaus Kobierski,1,1934,Germany,Düsseldorf,,0.0,0.0
 Philipp Lahm,1,2006-2010,Germany,Munich,,0.0,0.0
 Stan Libuda,1,1970,Germany,Dörentrup,,0.0,0.0
 Thomas Linke,1,2002,Germany,Sömmerda,,0.0,0.0
-Andreas Moller,1,0,Germany,Frankfurt,,0.0,0.0
+Andreas Möller,1,1990-1994-1998,Germany,Frankfurt,,0.0,0.0
 Hansi Muller,1,1978-1982,Germany,Stuttgart,,0.0,0.0
 Rudolf Noack,1,1934,Germany,Harburg - Hamburg,,0.0,0.0
 Alfred Pfaff,1,1954,Germany,Rödelheim (Frankfurt am Main),,0.0,0.0
-Uwe Reinders,1,0,Germany,Essen,,0.0,0.0
+Uwe Reinders,1,1982,Germany,Essen,,0.0,0.0
 Marco Reus,1,2018,Germany,Dortmund,,0.0,0.0
 Karlheinz Riedle,1,1990-1994,Germany,Weiler im Allgäu,,0.0,0.0
 Bernd Schneider,1,2002-2006,Germany,Jena,,0.0,0.0
@@ -819,7 +819,7 @@ Georgios Samaras,1,2014,Greece,Heraklion,,0.0,0.0
 Andreas Samaris,1,2014,Greece,Patras,,0.0,0.0
 Vasileios Torosidis,1,2010,Greece,Xanthi,,0.0,0.0
 Carlo Costly,1,2014,Honduras,San Pedro Sula,,0.0,0.0
-Eduardo Laing,1,0,Honduras,Puerto Cortes,,0.0,0.0
+Eduardo Laing,1,1982,Honduras,Puerto Cortes,,0.0,0.0
 Hector Zelaya,1,1982,Honduras,Trinidad - Santa Bárbara,,0.0,0.0
 Jozsef Bencsis,1,1958,Hungary,Szombathely,,0.0,0.0
 Jozsef Bozsik,1,1954-1958,Hungary,Kispest,,0.0,0.0
@@ -829,12 +829,12 @@ Marton Esterhazy,1,1986,Hungary,Budapest,,0.0,0.0
 Janos Farkas,1,1966,Hungary,Budapest,,0.0,0.0
 Vilmos Kohut,1,1938,Hungary,Budapest,,0.0,0.0
 Karoly Sandor,1,1958-1962,Hungary,Szeged,,0.0,0.0
-Ferenc Sas,1,0,Hungary,Budapest,,0.0,0.0
+Ferenc Sas,1,1938,Hungary,Budapest,,0.0,0.0
 Erno Solymosi,1,1962,Hungary,Kingdom of Hungary,,0.0,0.0
-Lazar Szentes,1,0,Hungary,Bonyhád,,0.0,0.0
+Lazar Szentes,1,1982,Hungary,Bonyhád,,0.0,0.0
 Pavel Teleki,1,1934,Hungary,Arad County (former),,0.0,0.0
 Jozsef Toth,1,1978-1982,Hungary,Mosonmagyaróvár,,0.0,0.0
-Andras Toth,1,0,Hungary,NOT FOUND,,0.0,0.0
+Andras Toth,1,1978,Hungary,NOT FOUND,,0.0,0.0
 Jozsef Varga,1,1982-1986,Hungary,Budapest,,0.0,0.0
 Jeno Vincze,1,1934-1938,Hungary,Kingdom of Hungary,,0.0,0.0
 Sandor Zombori,1,1978,Hungary,Pécs,,0.0,0.0
@@ -847,9 +847,9 @@ Hamid Estili,1,1998,Iran,Tehran,,0.0,0.0
 Reza Ghoochannejad,1,2014,Iran,Mashhad,,0.0,0.0
 Yahya Golmohammadi,1,2006,Iran,Minabad - Ardabil,,0.0,0.0
 Mehdi Mahdavikia,1,1998-2006,Iran,Ray - Iran,,0.0,0.0
-Hassan Rowshan,1,0,Iran,Tehran,,0.0,0.0
+Hassan Rowshan,1,1978,Iran,Tehran,,0.0,0.0
 Ahmed Radhi,1,1986,Iraq,Baghdad,,0.0,0.0
-John Aldridge,1,0,Ireland,Liverpool,,0.0,0.0
+John Aldridge,1,1990-1994,Ireland,Liverpool,,0.0,0.0
 Gary Breen,1,2002,Ireland,Hendon,,0.0,0.0
 Damien Duff,1,2002,Ireland,Ballyboden,,0.0,0.0
 Matt Holland,1,2002,Ireland,Bury - Greater Manchester,,0.0,0.0
@@ -888,11 +888,11 @@ Ermes Muccinelli,1,1950-1954,Italy,Lugo di Romagna,,0.0,0.0
 Fulvio Nesti,1,1954,Italy,Lastra a Signa,,0.0,0.0
 Andrea Pirlo,1,2006-2010,Italy,Flero,,0.0,0.0
 Fabio Quagliarella,1,2010,Italy,Castellammare di Stabia,,0.0,0.0
-Aldo Serena,1,0,Italy,Montebelluna,,0.0,0.0
+Aldo Serena,1,1986-1990,Italy,Montebelluna,,0.0,0.0
 Francesco Totti,1,2002-2006,Italy,Rome,,0.0,0.0
 Renato Zaccarelli,1,1978,Italy,Ancona,,0.0,0.0
 Gianluca Zambrotta,1,2002-2006-2010,Italy,Como,,0.0,0.0
-Robbie Earle,1,0,Jamaica,Newcastle-under-Lyme,,0.0,0.0
+Robbie Earle,1,1998,Jamaica,Newcastle-under-Lyme,,0.0,0.0
 Yasuhito Endo,1,2010,Japan,Kagoshima,,0.0,0.0
 Genki Haraguchi,1,2018,Japan,Kumagaya - Saitama,,0.0,0.0
 Shinji Kagawa,1,2018,Japan,Kobe,,0.0,0.0
@@ -906,7 +906,7 @@ Keiji Tamada,1,2006-2010,Japan,Urayasu,,0.0,0.0
 Abdulaziz Al-Buloushi,1,1982,Kuwait,NOT FOUND,,0.0,0.0
 Faisal Al-Dakhil,1,1982,Kuwait,Kuwait City,,0.0,0.0
 Tomas Balcazar,1,1954,Mexico,Guadalajara,,0.0,0.0
-Ignacio Basaguren,1,0,Mexico,Mexico City,,0.0,0.0
+Ignacio Basaguren,1,1970,Mexico,Mexico City,,0.0,0.0
 Jaime Belmonte,1,1958,Mexico,Mexico City,,0.0,0.0
 Marcelino Bernal,1,1994-1998,Mexico,Tepic,,0.0,0.0
 Enrique Borja,1,1966,Mexico,Mexico City,,0.0,0.0
@@ -944,22 +944,22 @@ Houmane Jarir,1,1970,Morocco,Casablanca - Morocco,,0.0,0.0
 Abdelkarim Krimau,1,1986,Morocco,Casablanca,,0.0,0.0
 Hassan Nader,1,1994,Morocco,Casablanca,,0.0,0.0
 Edgar Davids,1,1998,Netherlands,Paramaribo,,0.0,0.0
-Theo de Jong,1,0,Netherlands,Leeuwarden,,0.0,0.0
+Theo de Jong,1,1974,Netherlands,Leeuwarden,,0.0,0.0
 Stefan De Vrij,1,2014,Netherlands,Ouderkerk aan den IJssel,,0.0,0.0
 Ruud Gullit,1,1990,Netherlands,Amsterdam,,0.0,0.0
 Wim Kieft,1,1990,Netherlands,Amsterdam,,0.0,0.0
 Ronald Koeman,1,1990-1994,Netherlands,Zaandam,,0.0,0.0
 Ruud Krol,1,1974-1978,Netherlands,Amsterdam,,0.0,0.0
 Dirk Kuyt,1,2006-2010,Netherlands,Katwijk,,0.0,0.0
-Dick Nanninga,1,0,Netherlands,Groningen (city),,0.0,0.0
+Dick Nanninga,1,1978,Netherlands,Groningen (city),,0.0,0.0
 Marc Overmars,1,1994-1998,Netherlands,Emst,,0.0,0.0
 Bryan Roy,1,1994,Netherlands,Amsterdam,,0.0,0.0
 Kick Smit,1,1934-1938,Netherlands,Bloemendaal,,0.0,0.0
-Gaston Taument,1,0,Netherlands,The Hague,,0.0,0.0
+Gaston Taument,1,1994,Netherlands,The Hague,,0.0,0.0
 Giovanni Van Bronckhorst,1,2006-2010,Netherlands,Rotterdam,,0.0,0.0
 Rene Van De Kerkhof,1,1974-1978,Netherlands,Helmond,,0.0,0.0
 Willy Van De Kerkhof,1,1978,Netherlands,Helmond,,0.0,0.0
-Pierre van Hooijdonk,1,0,Netherlands,Steenbergen,,0.0,0.0
+Pierre van Hooijdonk,1,1998,Netherlands,Steenbergen,,0.0,0.0
 Ruud Van Nistelrooy,1,2006,Netherlands,Oss,,0.0,0.0
 Leen Vente,1,1934-1938,Netherlands,Rotterdam,,0.0,0.0
 Georginio Wijnaldum,1,2014,Netherlands,Rotterdam,,0.0,0.0
@@ -977,7 +977,7 @@ Victor Ikpeba,1,1998,Nigeria,Benin City,,0.0,0.0
 Victor Moses,1,2018,Nigeria,Lagos,,0.0,0.0
 Peter Odemwingie,1,2014,Nigeria,Tashkent,,0.0,0.0
 Sunday Oliseh,1,1994-1998,Nigeria,Delta State,,0.0,0.0
-Wilson Oruma,1,0,Nigeria,Warri - Nigeria,,0.0,0.0
+Wilson Oruma,1,1998,Nigeria,Warri - Nigeria,,0.0,0.0
 Samson Siasia,1,1994,Nigeria,Lagos,,0.0,0.0
 Yakubu Aiyegbeni,1,2010,Nigeria,Benin City,,0.0,0.0
 Rasheed Yekini,1,1994-1998,Nigeria,Kaduna,,0.0,0.0
@@ -1053,10 +1053,10 @@ Dmitri Sychev,1,2002,Russia,Omsk,,0.0,0.0
 Egor Titov,1,2002,Russia,Moscow,,0.0,0.0
 Salem Aldawsari,1,2018,Saudi Arabia,Jeddah,,0.0,0.0
 Salman Alfaraj,1,2018,Saudi Arabia,Al Madinah Al Munawwarah,,0.0,0.0
-Fahad Al Ghesheyan,1,0,Saudi Arabia,NOT FOUND,,0.0,0.0
+Fahad Al Ghesheyan,1,1994,Saudi Arabia,NOT FOUND,,0.0,0.0
 Saeed Owairan,1,1994-1998,Saudi Arabia,Riyadh,,0.0,0.0
 Yasser Al Kahtani,1,2006,Saudi Arabia,Riyadh,,0.0,0.0
-Youssef Al Tunian,1,0,Saudi Arabia,Tunis,,0.0,0.0
+Yousuf Al-Thunayan,1,1994-1998,Saudi Arabia,Riyadh,,0.0,0.0
 Steve Archibald,1,1982-1986,Scotland,Glasgow,,0.0,0.0
 Sammy Baird,1,1958,Scotland,Denny-Falkirk,,0.0,0.0
 Craig Burley,1,1998,Scotland,Ayr,,0.0,0.0
@@ -1103,7 +1103,7 @@ Lee Chun Soo,1,2002-2006,South Korea,Incheon,,0.0,0.0
 Lee Eul Yong,1,2002-2006,South Korea,Taebaek,,0.0,0.0
 Park Chang Sun,1,1986,South Korea,Gimhae,,0.0,0.0
 Park Chu Young,1,2006-2010,South Korea,Daegu,,0.0,0.0
-Seo Jung Won,1,0,South Korea,Gwangju-si,,0.0,0.0
+Seo Jung Won,1,1998-2002,South Korea,Gwangju-si,,0.0,0.0
 Seol Ki Hyeon,1,2002-2006,South Korea,Jeongseon,,0.0,0.0
 Song Chong Gug,1,2002-2006,South Korea,Danyang,,0.0,0.0
 Kim Younggwon,1,2018,South Korea,Jeonju,,0.0,0.0
@@ -1111,13 +1111,13 @@ Adelardo Rodríguez,1,1962-1966,Spain,Badajoz,,0.0,0.0
 Amancio Amaro Varela,1,1966,Spain,A Coruña,,0.0,0.0
 Juan Manuel Asensi,1,1978,Spain,Alicante,,0.0,0.0
 Iago Aspas,1,2018,Spain,Moaña,,0.0,0.0
-Txiki Begiristain,1,0,Spain,Olaberria,,0.0,0.0
+Txiki Begiristain,1,1986,Spain,Olaberria,,0.0,0.0
 Luis Regueiro (Corso),1,1934,Spain,Irun - Euskadi,,0.0,0.0
 Daniel Ruiz-Bazán Justa (Dani),1,1978,Spain,Sopuerta,,0.0,0.0
 Eloy Olaya,1,1986,Spain,Gijón,,0.0,0.0
 Jose Maria Fuste,1,1966,Spain,Linyola,,0.0,0.0
 Alberto Gorriz,1,1990,Spain,Irun,,0.0,0.0
-Guardiola,1,0,Spain,Santpedor,,0.0,0.0
+Pep Guardiola,1,1994-1998,Spain,Santpedor,,0.0,0.0
 Silvestre Igoa,1,1950,Spain,San Sebastián,,0.0,0.0
 Isco,1,2018,Spain,Benalmádena,,0.0,0.0
 Juan Gutiérrez Moreno (Juanito),1,2006,Spain,Cádiz,,0.0,0.0
@@ -1151,7 +1151,7 @@ Bror Mellberg,1,1950-1958,Sweden,Ambjörby,,0.0,0.0
 Hakan Mild,1,1994,Sweden,Trollhättan,,0.0,0.0
 Thomas Sjoberg,1,1978,Sweden,Helsingborg,,0.0,0.0
 Lennart Skoglund,1,1950-1958,Sweden,Stockholm,,0.0,0.0
-Glenn Stromberg,1,0,Sweden,Gothenburg,,0.0,0.0
+Glenn Stromberg,1,1990,Sweden,Gothenburg,,0.0,0.0
 Anders Svensson,1,2002-2006,Sweden,Gothenburg,,0.0,0.0
 Ola Toivonen,1,2018,Sweden,Degerfors,,0.0,0.0
 Conny Torstensson,1,1974,Sweden,Lofta,,0.0,0.0
@@ -1170,7 +1170,7 @@ Heinz Schneiter,1,1962-1966,Switzerland,Thun,,0.0,0.0
 Haris Seferovic,1,2014,Switzerland,Sursee,,0.0,0.0
 Philippe Senderos,1,2006-2010,Switzerland,Geneva,,0.0,0.0
 Alain Sutter,1,1994,Switzerland,Bern,,0.0,0.0
-Jean Tamini,1,0,Switzerland,Switzerland,,0.0,0.0
+Jean Tamini,1,1950,Switzerland,Switzerland,,0.0,0.0
 "Eugène (""Genia"") Walaschek ,1,1938,Switzerland,Moscow,,0.0,0.0"
 Rolf Wuethrich,1,1962,Switzerland,Switzerland,,0.0,0.0
 Steven Zuber,1,2018,Switzerland,Winterthur,,0.0,0.0
@@ -1196,9 +1196,9 @@ Khalid Mubarak,1,1990,UAE,NOT FOUND,,0.0,0.0
 Maksym Kalinichenko,1,2006,Ukraine,Kharkiv,,0.0,0.0
 Serhiy Rebrov,1,2006,Ukraine,Horlivka,,0.0,0.0
 Andriy Rusol,1,2006,Ukraine,Kropyvnytskyi,,0.0,0.0
-Antonio Alzamendi,1,0,Uruguay,Durazno,,0.0,0.0
+Antonio Alzamendi,1,1986-1990,Uruguay,Durazno,,0.0,0.0
 Javier Ambrois,1,1954,Uruguay,Uruguay,,0.0,0.0
-Pablo Bengoechea,1,0,Uruguay,Rivera,,0.0,0.0
+Pablo Bengoechea,1,1990,Uruguay,Rivera,,0.0,0.0
 Angel Cabrera,1,1962,Uruguay,Mercedes,,0.0,0.0
 Julio Cortes,1,1962-1966-1970,Uruguay,Montevideo - Uruguay,,0.0,0.0
 Victor Esparrago,1,1970-1974,Uruguay,Montevideo,,0.0,0.0
@@ -1250,7 +1250,7 @@ Vasili Rats,1,1986-1990,USSR,Fanchykovo,,0.0,0.0
 Sergei Rodionov,1,1986,USSR,Moscow,,0.0,0.0
 Ramaz Shengelia,1,1982,USSR,Kutaisi,,0.0,0.0
 Nikita Simonian,1,1958,USSR,Armavir - Russia,,0.0,0.0
-Pavel Yakovenko,1,0,USSR,Nikopol - Ukraine,,0.0,0.0
+Pavel Yakovenko,1,1986,USSR,Nikopol - Ukraine,,0.0,0.0
 Andrei Zygmantovich,1,1990,USSR,Minsk,,0.0,0.0
 John Charles,1,1958,Wales,Swansea,,0.0,0.0
 Terry Medwin,1,1958,Wales,Swansea,,0.0,0.0
