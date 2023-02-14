@@ -52,7 +52,7 @@ def update_csv(_filename):
         player["Longitude"] = 0.0
 
     # Write the updated player data back to the CSV file
-    with open("edited_cvs/worldcupgoals_1930_2022_TWO.csv", 'w', newline='', encoding='ISO-8859-1') as file:
+    with open("edited_cvs/worldcupgoals_1930_2022_BirthPlace.csv", 'w', newline='', encoding='ISO-8859-1') as file:
         writer = csv.DictWriter(file, fieldnames=["Player", "Goals", "Years", "Country", "BirthPlace", "CountryOfBirth",
                                                   "Latitude",
                                                   "Longitude"])
