@@ -27,6 +27,8 @@ def get_birthplace(player_name):
     if not birthplace:
         response = requests.get(f"https://en.wikipedia.org/wiki/{player_name} + (footballer)")
         birthplace = get_birthplace_info(response)
+    if birthplace and "," in birthplace:
+        birthplace = birthplace.replace(",", " -")
     return birthplace or "SEARCH MANUALLY"
 
 
@@ -50,7 +52,7 @@ def update_csv(_filename):
         player["Longitude"] = 0.0
 
     # Write the updated player data back to the CSV file
-    with open(filename, 'w', newline='', encoding='ISO-8859-1') as file:
+    with open("edited_cvs/worldcupgoals_1930_2022_TWO.csv", 'w', newline='', encoding='ISO-8859-1') as file:
         writer = csv.DictWriter(file, fieldnames=["Player", "Goals", "Years", "Country", "BirthPlace", "CountryOfBirth",
                                                   "Latitude",
                                                   "Longitude"])
@@ -73,5 +75,5 @@ def update_csv(_filename):
 
 
 if __name__ == '__main__':
-    filename = "original_cvs/worldcupgoals.csv"
+    filename = "edited_cvs/worldcupgoals_1930_2022.csv"
     update_csv(filename)
