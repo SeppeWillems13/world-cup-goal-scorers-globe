@@ -7,6 +7,7 @@ import streamlit as st
 # Set the app title
 st.set_page_config(page_title="World Cup Goals")
 
+
 # Allow CORS (Cross-Origin Resource Sharing)
 def allow_cors():
     header = st.header("")
@@ -29,13 +30,19 @@ world_cup_years = [1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1
 
 
 @st.cache_data()
-def filter_data(selected_years, name_search, goals):
+def filter_data(selected_years, name_search, goals, selected_countries):
     # Convert the integer values in selected_years to strings
     selected_years = list(map(str, selected_years))
 
     # Filter the DataFrame based on the selected World Cup year
     if selected_years:
         df_filtered = df[df['Years'].str.contains('|'.join(selected_years))]
+    else:
+        df_filtered = df
+
+    # Filter the DataFrame based on the selected World Cup year
+    if selected_countries:
+        df_filtered = df[df['Country'].str.contains('|'.join(selected_countries))]
     else:
         df_filtered = df
 
@@ -55,6 +62,11 @@ def filter_data(selected_years, name_search, goals):
 # Add a multiselect to select World Cup years
 selected_world_cup_years = st.sidebar.multiselect('Select World Cup years:', world_cup_years)
 
+# Filter the list to obtain distinct values
+selected_countries_list = list(set(df['Country']))
+selected_countries_list.sort()
+# Obtain list of selected countries
+selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
 # Add a name search input
 name_search = st.sidebar.text_input("Search for a player by name:")
 
@@ -66,7 +78,7 @@ detailed = st.sidebar.checkbox('Player details')
 
 if not detailed:
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
@@ -79,7 +91,7 @@ if not detailed:
     # Display the map in Streamlit app
     st.map(df_filtered)
 else:
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
 
     # Add a selectbox to select the map scope
     map_scopes = ['world', 'europe', 'asia', 'africa', 'north america', 'south america']
@@ -105,7 +117,7 @@ else:
     fig.update_geos(showcountries=True, countrycolor="Black", showsubunits=True, subunitcolor="Blue")
 
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
