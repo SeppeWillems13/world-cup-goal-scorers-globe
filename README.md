@@ -7,3 +7,9 @@ How more goals the player scored how bigger/darker the circle will be.
 # prototype:
 
 https://seppewillems13-world-cup-goal-scorers-globe-main-8yliy1.streamlit.app/
+
+## Used data from
+- https://www.kaggle.com/datasets/darinhawley/fifa-world-cup-goalscorers-19302018
+- https://www.kaggle.com/datasets/rhugvedbhojane/fifa-world-cup-2022-players-statistics
+- https://www.wikipedia.org/
+- https://www.thesoccerworldcups.com/
