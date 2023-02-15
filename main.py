@@ -3,6 +3,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# your app routes go here
+# Set the app title
+st.set_page_config(page_title="World Cup Goals")
 
 # Allow CORS (Cross-Origin Resource Sharing)
 def allow_cors():
@@ -12,10 +15,6 @@ def allow_cors():
 
 
 allow_cors()
-
-# your app routes go here
-# Set the app title
-st.set_page_config(page_title="World Cup Goals")
 
 # Get the absolute path of the current directory
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
