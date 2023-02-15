@@ -6,7 +6,7 @@ How more goals the player scored how bigger/darker the circle will be.
 
 # prototype:
 
-- https://seppewillems13-world-cup-goal-scorers-globe-main-pmwhc8.streamlit.app/
+- https://worldcupscorers.streamlit.app/
 ### backup if streamlit won't load
 - ...
 
