@@ -1,9 +1,19 @@
 import os
-
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+
+# Allow CORS (Cross-Origin Resource Sharing)
+def allow_cors():
+    header = st.header("")
+    header.markdown("<script src='https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.10.0/dist/tf.min.js'></script>",
+                    unsafe_allow_html=True)
+
+
+allow_cors()
+
+# your app routes go here
 # Set the app title
 st.set_page_config(page_title="World Cup Goals")
 
@@ -108,4 +118,5 @@ else:
     st.plotly_chart(fig)
 # Add the disclaimer at the bottom of the page
 st.markdown('---')
-st.write("Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")
+st.write(
+    "Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")
