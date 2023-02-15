@@ -1,7 +1,8 @@
 import os
+
 import pandas as pd
-import streamlit as st
 import plotly.express as px
+import streamlit as st
 
 # Set the app title
 st.set_page_config(page_title="World Cup Goals")
@@ -91,4 +92,5 @@ st.title(f"World Cup Goals ({total_players} Players, {total_goals} Goals, {num_c
 st.plotly_chart(fig)
 # Add the disclaimer at the bottom of the page
 st.markdown('---')
-st.write("Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")
+st.write(
+    "Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")

@@ -1,6 +1,7 @@
 import csv
-from geopy.geocoders import Nominatim
+
 from geopy.exc import GeocoderTimedOut
+from geopy.geocoders import Nominatim
 
 # Initialize a geolocator with a custom user agent
 geolocator = Nominatim(user_agent="my-application-1")

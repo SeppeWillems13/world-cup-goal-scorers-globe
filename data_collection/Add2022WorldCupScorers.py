@@ -1,6 +1,4 @@
-import csv
-
-#Only do once now its done
+# Only do once now its done
 # def update_player_goals(file1_path, file2_path):
 #     player_goals = {}
 #     with open(file1_path, 'r', encoding='ISO-8859-1') as csvfile1:

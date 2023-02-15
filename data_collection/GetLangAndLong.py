@@ -1,4 +1,5 @@
 import csv
+
 from geopy.geocoders import Nominatim
 
 # Initialize the geolocator
@@ -8,12 +9,14 @@ geolocator = Nominatim(user_agent="myGeocoder")
 with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlace.csv', 'r', encoding='ISO-8859-1') as input_file:
     # Create a CSV reader
     reader = csv.reader(input_file)
-    with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'w', newline='', encoding='ISO-8859-1') as output_file:
+    with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'w', newline='',
+              encoding='ISO-8859-1') as output_file:
         # Create a CSV writer
         writer = csv.writer(output_file)
 
         # Write the header row
-        writer.writerow(['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth', 'Latitude', 'Longitude'])
+        writer.writerow(
+            ['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth', 'Latitude', 'Longitude'])
 
         # Loop through each row in the input CSV file
         for row in reader:
