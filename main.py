@@ -53,44 +53,59 @@ name_search = st.sidebar.text_input("Search for a player by name:")
 max_goals = int(df['Goals'].max())
 goals = st.sidebar.slider("Filter by number of goals scored:", min_value=1, max_value=max_goals, value=1)
 
-# Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+detailed = st.sidebar.checkbox('Player details')
 
-# Add a selectbox to select the map scope
-map_scopes = ['world', 'europe', 'asia', 'africa', 'north america', 'south america']
-scope = st.sidebar.selectbox('Map scope', map_scopes, index=0)
+if not detailed:
+    # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
 
-fig = px.scatter_geo(df_filtered,
-                     lat="Latitude",
-                     lon="Longitude",
-                     color="Country",
-                     hover_name="Player",
-                     size="Goals",
-                     size_max=max_goals,
-                     projection="natural earth",
-                     scope=scope,
-                     hover_data={
-                         'CountryOfBirth': True,
-                         'Goals': True,
-                         'Country': False,
-                         'Latitude': False,
-                         'Longitude': False,
-                     },
-                     )
-fig.update_geos(showcountries=True, countrycolor="Black", showsubunits=True, subunitcolor="Blue")
+    total_players = len(df_filtered)
+    total_goals = df_filtered['Goals'].sum()
 
-# Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+    st.header(f"World Cup Goals ({total_players} Players, {total_goals} Goals, {num_countries} Countries)")
 
-total_players = len(df_filtered)
-total_goals = df_filtered['Goals'].sum()
+    # Rename the 'Latitude' column to 'lat'
+    df_filtered = df_filtered.rename(columns={'Latitude': 'LAT'})
+    df_filtered = df_filtered.rename(columns={'Longitude': 'LON'})
+    # Display the map in Streamlit app
+    st.map(df_filtered)
+else:
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
 
-# Title
-st.title(f"World Cup Goals ({total_players} Players, {total_goals} Goals, {num_countries} Countries)")
+    # Add a selectbox to select the map scope
+    map_scopes = ['world', 'europe', 'asia', 'africa', 'north america', 'south america']
+    scope = st.sidebar.selectbox('Map scope', map_scopes, index=0)
 
-# Display the chart in Streamlit app
-st.plotly_chart(fig)
+    fig = px.scatter_geo(df_filtered,
+                         lat="Latitude",
+                         lon="Longitude",
+                         color="Country",
+                         hover_name="Player",
+                         size="Goals",
+                         size_max=max_goals,
+                         projection="natural earth",
+                         scope=scope,
+                         hover_data={
+                             'CountryOfBirth': True,
+                             'Goals': True,
+                             'Country': False,
+                             'Latitude': False,
+                             'Longitude': False,
+                         },
+                         )
+    fig.update_geos(showcountries=True, countrycolor="Black", showsubunits=True, subunitcolor="Blue")
+
+    # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals)
+
+    total_players = len(df_filtered)
+    total_goals = df_filtered['Goals'].sum()
+
+    # Title
+    st.title(f"World Cup Goals ({total_players} Players, {total_goals} Goals, {num_countries} Countries)")
+
+    # Display the chart in Streamlit app
+    st.plotly_chart(fig)
 # Add the disclaimer at the bottom of the page
 st.markdown('---')
-st.write(
-    "Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")
+st.write("Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")

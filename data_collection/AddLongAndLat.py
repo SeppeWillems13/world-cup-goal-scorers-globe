@@ -1,4 +1,5 @@
 import csv
+import time
 
 from geopy.exc import GeocoderTimedOut
 from geopy.geocoders import Nominatim
