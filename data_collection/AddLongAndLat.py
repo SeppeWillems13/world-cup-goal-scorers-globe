@@ -7,11 +7,11 @@ geolocator = Nominatim(user_agent="my-application-1")
 geolocator.timeout = 10
 
 # Open the input CSV file
-with open('edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'r',
+with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'r',
           encoding='ISO-8859-1') as input_file:
     # Create a CSV reader
     reader = csv.reader(input_file)
-    with open('edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountriesAndLatLong.csv', 'w', newline='',
+    with open('../edited_cvs/worldcupgoals_1930_2022.csv', 'w', newline='',
               encoding='ISO-8859-1') as output_file:
         # Create a CSV writer
         writer = csv.writer(output_file)

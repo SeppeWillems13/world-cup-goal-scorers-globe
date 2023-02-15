@@ -10,7 +10,7 @@ st.set_page_config(page_title="World Cup Goals")
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 
 # Read in the CSV file as a DataFrame
-df = pd.read_csv(os.path.join(BASE_DIR, 'edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountriesAndLatLong.csv'),
+df = pd.read_csv(os.path.join(BASE_DIR, 'edited_cvs/worldcupgoals_1930_2022.csv'),
                  encoding='iso-8859-1')
 
 # Define a list of all the World Cup years
