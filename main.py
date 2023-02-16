@@ -2,7 +2,6 @@ import os
 import pandas as pd
 import plotly.express as px
 import streamlit as st
-
 # your app routes go here
 # Set the app title
 st.set_page_config(page_title="World Cup Goals")
@@ -13,6 +12,7 @@ def allow_cors():
     header = st.header("")
     header.markdown("<script src='https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.10.0/dist/tf.min.js'></script>",
                     unsafe_allow_html=True)
+
 
 
 allow_cors()
@@ -30,7 +30,7 @@ world_cup_years = [1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1
 
 
 @st.cache_data()
-def filter_data(selected_years, name_search, goals, selected_countries):
+def filter_data(selected_years, name_search, goals, selected_countries, birthplace_search):
     # Convert the integer values in selected_years to strings
     selected_years = list(map(str, selected_years))
 
@@ -40,11 +40,14 @@ def filter_data(selected_years, name_search, goals, selected_countries):
     else:
         df_filtered = df
 
-    # Filter the DataFrame based on the selected World Cup year
+    # Filter the DataFrame based on the selected countries
     if selected_countries:
-        df_filtered = df[df['Country'].str.contains('|'.join(selected_countries))]
-    else:
-        df_filtered = df
+        df_filtered = df_filtered[(df_filtered['Country'].isin(selected_countries)) |
+                                  (df_filtered['CountryOfBirth'].isin(selected_countries))]
+
+    # Filter the DataFrame based on birthplace search
+    if birthplace_search:
+        df_filtered = df_filtered[df_filtered['BirthPlace'] == birthplace_search]
 
     # Filter the DataFrame based on name search input
     if name_search:
@@ -67,18 +70,36 @@ selected_countries_list = list(set(df['Country']))
 selected_countries_list.sort()
 # Obtain list of selected countries
 selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
-# Add a name search input
-name_search = st.sidebar.text_input("Search for a player by name:")
+
+# Filter the list of birthplaces based on the selected country
+if selected_countries:
+    filtered_birthplaces = list(set(df.loc[(df['Country'].isin(selected_countries)) | (
+        df['CountryOfBirth'].isin(selected_countries)), 'BirthPlace'].unique()))
+    filtered_birthplaces.sort()
+else:
+    filtered_birthplaces = list(df['BirthPlace'].unique())
+
+# Create the birthplace search box with the filtered options
+birthplace_search = st.sidebar.selectbox("Search for a player by birthplace:", options=[''] + filtered_birthplaces,
+                                         index=0)
 
 # Add a slider to filter by goals scored
 max_goals = int(df['Goals'].max())
 goals = st.sidebar.slider("Filter by number of goals scored:", min_value=1, max_value=max_goals, value=1)
 
+# Add a name search input with autocomplete
+df_filtered, num_countries = filter_data(selected_world_cup_years, 0, goals, selected_countries, birthplace_search)
+
+all_player_names = list(df_filtered['Player'])
+all_player_names.sort()
+name_search = st.sidebar.selectbox("Search for a player by name:", options=[''] + all_player_names, index=0)
+
 detailed = st.sidebar.checkbox('Player details')
 
 if not detailed:
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
+                                             birthplace_search)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
@@ -90,8 +111,20 @@ if not detailed:
     df_filtered = df_filtered.rename(columns={'Longitude': 'LON'})
     # Display the map in Streamlit app
     st.map(df_filtered)
+
+    st.subheader("Filtered Players (first 25 rows):")
+    player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace']]
+    list_df = [player_data[i:i + 25] for i in range(0, player_data.shape[0], 25)]
+    if len(list_df) > 0:
+        merged_df = pd.concat(list_df, ignore_index=True)
+        st.table(merged_df.head(25))
+    else:
+        st.warning("No players found matching the selected criteria.")
+
+
 else:
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
+                                             birthplace_search)
 
     # Add a selectbox to select the map scope
     map_scopes = ['world', 'europe', 'asia', 'africa', 'north america', 'south america']
@@ -117,7 +150,8 @@ else:
     fig.update_geos(showcountries=True, countrycolor="Black", showsubunits=True, subunitcolor="Blue")
 
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
+                                             birthplace_search)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
