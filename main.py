@@ -42,8 +42,7 @@ def filter_data(selected_years, name_search, goals, selected_countries, birthpla
 
     # Filter the DataFrame based on the selected countries
     if selected_countries:
-        df_filtered = df_filtered[(df_filtered['Country'].isin(selected_countries)) |
-                                  (df_filtered['CountryOfBirth'].isin(selected_countries))]
+        df_filtered = df_filtered[(df_filtered['Country'].isin(selected_countries))]
 
     # Filter the DataFrame based on birthplace search
     if birthplace_search:
@@ -71,10 +70,8 @@ selected_countries_list.sort()
 # Obtain list of selected countries
 selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
 
-# Filter the list of birthplaces based on the selected country
 if selected_countries:
-    filtered_birthplaces = list(set(df.dropna(subset=['BirthPlace']).loc[(df['Country'].isin(selected_countries)) | (
-        df['CountryOfBirth'].isin(selected_countries)), 'BirthPlace'].unique()))
+    filtered_birthplaces = list(set(df.dropna(subset=['BirthPlace']).loc[(df['Country'].isin(selected_countries)), 'BirthPlace'].unique()))
     filtered_birthplaces.sort()
 else:
     filtered_birthplaces = list(df['BirthPlace'].unique())
@@ -113,7 +110,7 @@ if not detailed:
     st.map(df_filtered)
 
     st.subheader("Filtered Players (first 25 rows):")
-    player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace']]
+    player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth']]
     list_df = [player_data[i:i + 25] for i in range(0, player_data.shape[0], 25)]
     if len(list_df) > 0:
         merged_df = pd.concat(list_df, ignore_index=True)
