@@ -67,8 +67,11 @@ selected_countries_list = list(set(df['Country']))
 selected_countries_list.sort()
 # Obtain list of selected countries
 selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
-# Add a name search input
-name_search = st.sidebar.text_input("Search for a player by name:")
+# Add a name search input with autocomplete
+all_player_names = list(df['Player'])
+all_player_names.sort()
+name_search = st.sidebar.selectbox("Search for a player by name:", options=[''] + all_player_names, index=0)
+
 
 # Add a slider to filter by goals scored
 max_goals = int(df['Goals'].max())
