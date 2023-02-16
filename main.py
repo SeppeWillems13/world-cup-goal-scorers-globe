@@ -2,6 +2,7 @@ import os
 import pandas as pd
 import plotly.express as px
 import streamlit as st
+
 # your app routes go here
 # Set the app title
 st.set_page_config(page_title="World Cup Goals")
@@ -12,7 +13,6 @@ def allow_cors():
     header = st.header("")
     header.markdown("<script src='https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@3.10.0/dist/tf.min.js'></script>",
                     unsafe_allow_html=True)
-
 
 
 allow_cors()
@@ -65,9 +65,10 @@ def filter_data(selected_years, name_search, goals, selected_countries, birthpla
     return df_filtered, num_countries
 
 
-
 # Add a multiselect to select World Cup years
 selected_world_cup_years = st.sidebar.multiselect('Select World Cup years:', world_cup_years)
+
+different_country = st.sidebar.checkbox('Different country than birthplace')
 
 # Filter the list to obtain distinct values
 selected_countries_list = list(set(df['Country']))
@@ -76,7 +77,8 @@ selected_countries_list.sort()
 selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
 
 if selected_countries:
-    filtered_birthplaces = list(set(df.dropna(subset=['BirthPlace']).loc[(df['Country'].isin(selected_countries)), 'BirthPlace'].unique()))
+    filtered_birthplaces = list(
+        set(df.dropna(subset=['BirthPlace']).loc[(df['Country'].isin(selected_countries)), 'BirthPlace'].unique()))
     filtered_birthplaces.sort()
 else:
     filtered_birthplaces = list(df['BirthPlace'].unique())
@@ -90,22 +92,22 @@ max_goals = int(df['Goals'].max())
 goals = st.sidebar.slider("Filter by number of goals scored:", min_value=1, max_value=max_goals, value=1)
 
 # Add a name search input with autocomplete
-df_filtered, num_countries = filter_data(selected_world_cup_years, 0, goals, selected_countries, birthplace_search)
+df_filtered, num_countries = filter_data(selected_world_cup_years, 0, goals, selected_countries, birthplace_search,
+                                         different_country)
 
 all_player_names = list(df_filtered['Player'])
 all_player_names.sort()
 name_search = st.sidebar.selectbox("Search for a player by name:", options=[''] + all_player_names, index=0)
 
-different_country = st.sidebar.checkbox('Different country than birthplace')
-
 if different_country:
-    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries, birthplace_search, True)
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
+                                             birthplace_search, True)
 detailed = st.sidebar.checkbox('Player details')
 
 if not detailed:
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
-                                             birthplace_search,different_country)
+                                             birthplace_search, different_country)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
@@ -157,7 +159,7 @@ else:
 
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
-                                             birthplace_search,different_country)
+                                             birthplace_search, different_country)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
