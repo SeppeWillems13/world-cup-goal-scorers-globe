@@ -30,7 +30,7 @@ world_cup_years = [1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1
 
 
 @st.cache_data()
-def filter_data(selected_years, name_search, goals, selected_countries, birthplace_search):
+def filter_data(selected_years, name_search, goals, selected_countries, birthplace_search, different_country=False):
     # Convert the integer values in selected_years to strings
     selected_years = list(map(str, selected_years))
 
@@ -55,10 +55,15 @@ def filter_data(selected_years, name_search, goals, selected_countries, birthpla
     # Filter the DataFrame based on goals scored
     df_filtered = df_filtered[(df_filtered['Goals'] >= goals)]
 
+    # Filter the DataFrame based on country of birth
+    if different_country:
+        df_filtered = df_filtered[df_filtered['Country'] != df_filtered['CountryOfBirth']]
+
     # Count the number of distinct countries in the filtered DataFrame
     num_countries = len(df_filtered['Country'].unique())
 
     return df_filtered, num_countries
+
 
 
 # Add a multiselect to select World Cup years
@@ -91,12 +96,16 @@ all_player_names = list(df_filtered['Player'])
 all_player_names.sort()
 name_search = st.sidebar.selectbox("Search for a player by name:", options=[''] + all_player_names, index=0)
 
+different_country = st.sidebar.checkbox('Different country than birthplace')
+
+if different_country:
+    df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries, birthplace_search, True)
 detailed = st.sidebar.checkbox('Player details')
 
 if not detailed:
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
-                                             birthplace_search)
+                                             birthplace_search,different_country)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
@@ -109,19 +118,19 @@ if not detailed:
     # Display the map in Streamlit app
     st.map(df_filtered)
 
-    st.subheader("Filtered Players (first 25 rows):")
+    st.subheader("Filtered Players (first 100 rows):")
     player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth']]
-    list_df = [player_data[i:i + 25] for i in range(0, player_data.shape[0], 25)]
+    list_df = [player_data[i:i + 100] for i in range(0, player_data.shape[0], 100)]
     if len(list_df) > 0:
         merged_df = pd.concat(list_df, ignore_index=True)
-        st.table(merged_df.head(25))
+        st.table(merged_df.head(100))
     else:
         st.warning("No players found matching the selected criteria.")
 
 
 else:
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
-                                             birthplace_search)
+                                             birthplace_search, different_country)
 
     # Add a selectbox to select the map scope
     map_scopes = ['world', 'europe', 'asia', 'africa', 'north america', 'south america']
@@ -148,7 +157,7 @@ else:
 
     # Filter the DataFrame based on selected World Cup years, name search input, and goals scored
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries,
-                                             birthplace_search)
+                                             birthplace_search,different_country)
 
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
