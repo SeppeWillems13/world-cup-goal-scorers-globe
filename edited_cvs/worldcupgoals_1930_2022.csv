@@ -1,188 +1,376 @@
 Player,Goals,Years,Country,BirthPlace,CountryOfBirth,Latitude,Longitude
 Miroslav Klose,16,2002-2006-2010-2014,Germany,Opole,Poland,50.6668184,17.9236408
-Ronaldo,15,1998-2002-2006,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
+Ronaldo,15,1998-2002-2006,Brazil,Rio de Janeiro,Brazil,-22.91345060778097,-43.21668781774473
+Jairzinho,9,1966-1970-1974,Brazil,Rio de Janeiro,Brazil,-22.898153053855346,-43.1987097276278
+Leonidas,8,1934-1938,Brazil,Rio de Janeiro,Brazil,-22.909962063413683,-43.205373754306116
+Romario,5,1990-1994,Brazil,Rio de Janeiro,Brazil,-22.917031113950276,-43.201497955237556
+Zico,5,1978-1982,Brazil,Rio de Janeiro,Brazil,-22.92307454453052,-43.206406476545965
+Preguinho,3,1930,Brazil,Rio de Janeiro,Brazil,-22.899062918513234,-43.204182236496266
+Adriano,2,2006,Brazil,Rio de Janeiro,Brazil,-22.92205534062862,-43.21306142015515
+Philippe Coutinho,2,2018,Brazil,Rio de Janeiro,Brazil,-22.916406013570246,-43.217975930735506
+Josimar,2,1986,Brazil,Rio de Janeiro,Brazil,-22.92356339363556,-43.21349349113155
+Nelinho,2,1974-1978,Brazil,Rio de Janeiro,Brazil,-22.904659297656135,-43.223565520580415
+Thiago Silva,2,2014-2018,Brazil,Rio de Janeiro,Brazil,-22.913341010090615,-43.20503375115902
+Carlos Alberto Torres,1,1970,Brazil,Rio de Janeiro,Brazil,-22.91544633744093,-43.199522102882774
+Renato Augusto,1,2018,Brazil,Rio de Janeiro,Brazil,-22.90867883357847,-43.22005790479392
+Edinho,1,1978-1986,Brazil,Rio de Janeiro,Brazil,-22.902220948775575,-43.204970621414645
+Friaca,1,1950,Brazil,Rio de Janeiro,Brazil,-22.92095017494342,-43.22314134767196
+Juan,1,2006-2010,Brazil,Rio de Janeiro,Brazil,-22.90424471995416,-43.206245626748874
+Gilberto Melo,1,2006-2010,Brazil,Rio de Janeiro,Brazil,-22.902673270058997,-43.223295638784386
+Nilton Santos,1,1954-1958-1962,Brazil,Rio de Janeiro,Brazil,-22.90897016069677,-43.19500872407444
+Lucas Paqueta,1,2022,Brazil,Rio de Janeiro,Brazil,-22.921348108612083,-43.19725951409736
 Gerd Muller,14,1970-1974,Germany,Nördlingen,Germany,48.8516578,10.4885873
 Just Fontaine,13,1958,France,Marrakech,Morocco,31.6258257,-7.9891608
 Pele,12,1958-1962-1966-1970,Brazil,Três Corações,Brazil,-21.695625,-45.2543675
-Kylian Mbappe,12,2018-2022,France,Paris,France,48.8588897,2.3200410217200766
-Jurgen Klinsmann,11,1990-1994-1998,Germany,Göppingen,Germany,48.7031377,9.6541116
-Sandor Kocsis,11,1954,Hungary,Budapest,Hungary,47.4979937,19.0403594
+Kylian Mbappe,12,2018-2022,France,Paris,France,48.87365748179044,2.328516820882685
+Yacine Brahimi,1,2014,Algeria,Paris,France,48.86975893762562,2.316517807248679
+Jurgen Klinsmann,11,1990-1994-1998,Germany,Göppingen,Germany,48.6898181376557,9.640466319796582
+Shane Smeltz,1,2010,New Zealand,Göppingen,Germany,48.70978411875986,9.654079640766275
+Sandor Kocsis,11,1954,Hungary,Budapest,Hungary,47.5123596950563,19.038118731549442
+Lajos Tichy,7,1958-1962,Hungary,Budapest,Hungary,47.48582881409599,19.040980241046544
+Gyorgy Sarosi,6,1934-1938,Hungary,Budapest,Hungary,47.49020304043829,19.054319119255524
+Nandor Hidegkuti,4,1954-1958,Hungary,Budapest,Hungary,47.48319471228884,19.048224575377585
+Ferenc Puskas,4,1954-1962,Hungary,Budapest,Hungary,47.48570310452471,19.032152529413032
+Geza Toldi,3,1934-1938,Hungary,Budapest,Hungary,47.50063680120436,19.051444306607976
+Laszlo Fazekas,2,1978-1982,Hungary,Budapest,Hungary,47.486444280469165,19.041913542104762
+Mihaly Lantos,2,1954,Hungary,Budapest,Hungary,47.49681548380999,19.038201726613266
+Kalman Meszoly,2,1962-1966,Hungary,Budapest,Hungary,47.48727910965518,19.044005335420664
+Peter Palotas,2,1954,Hungary,Budapest,Hungary,47.50983765313318,19.036369441390313
+Pal Titkos,2,1938,Hungary,Budapest,Hungary,47.50560300892602,19.05229237028387
+Lajos Detari,1,1986,Hungary,Budapest,Hungary,47.51172800009257,19.039637063176862
+Marton Esterhazy,1,1986,Hungary,Budapest,Hungary,47.492107675509004,19.03698640512105
+Janos Farkas,1,1966,Hungary,Budapest,Hungary,47.49379122888682,19.04250193524191
+Vilmos Kohut,1,1938,Hungary,Budapest,Hungary,47.48667149450474,19.045670788144644
+Ferenc Sas,1,1938,Hungary,Budapest,Hungary,47.49839171299385,19.03963680764765
+Andras Toth,1,1978,Hungary,Budapest,Hungary,47.5073555562739,19.053487238269028
+Jozsef Varga,1,1982-1986,Hungary,Budapest,Hungary,47.48897069734904,19.02584413235465
 Gabriel Batistuta,10,1994-1998-2002,Argentina,Reconquista,Argentina,-29.1443478,-59.6437728
-Gary Lineker,10,1986-1990,England,Leicester,United Kingdom,52.6362,-1.1331969
+Gary Lineker,10,1986-1990,England,Leicester,United Kingdom,52.650928279090415,-1.1221945932533746
+Emile Heskey,1,2002-2010,England,Leicester,United Kingdom,52.64247570099426,-1.1213455065502107
 Thomas Muller,10,2010-2014,Germany,Weilheim in Oberbayern,Germany,47.8475207,11.1485495
-Helmut Rahn,10,1954-1958,Germany,Essen,Germany,51.4582235,7.0158171
-Teofilo Cubillas,10,1970-1978-1982,Peru,Lima,Peru,-12.0621065,-77.0365256
+Helmut Rahn,10,1954-1958,Germany,Essen,Germany,51.456387574098976,7.025222979715942
+Uwe Reinders,1,1982,Germany,Essen,Germany,51.45177936401885,7.02664600295805
+Teofilo Cubillas,10,1970-1978-1982,Peru,Lima,Peru,-12.052465550318642,-77.0327222451865
+Alberto Gallardo,2,1970,Peru,Lima,Peru,-12.070984544814134,-77.02282868874057
+Andre Carrillo,1,2018,Peru,Lima,Peru,-12.066575207006318,-77.0459484511481
+Roberto Challe,1,1970,Peru,Lima,Peru,-12.050252004764312,-77.04481742314428
+Cesar Cueto,1,1978-1982,Peru,Lima,Peru,-12.06289663715393,-77.0444807293911
+Ruben Diaz,1,1978-1982,Peru,Lima,Peru,-12.072225036908565,-77.02792555237569
+Paolo Guerrero,1,2018,Peru,Lima,Peru,-12.057855549364191,-77.04966383161538
+Guillermo La Rosa,1,1978-1982,Peru,Lima,Peru,-12.049014655213638,-77.04989192978685
+Luis Souza,1,1930,Peru,Lima,Peru,-12.062295802775704,-77.03484086540239
+Jose Velasquez,1,1978-1982,Peru,Lima,Peru,-12.057143619570326,-77.02563516015505
 Grzegorz Lato,10,1974-1978-1982,Poland,Malbork,Poland,54.0287383,19.039396385383558
-Ademir,9,1950,Brazil,Recife,Brazil,-8.0584933,-34.8848193
-Jairzinho,9,1966-1970-1974,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Vava,9,1958-1962,Brazil,Recife,Brazil,-8.0584933,-34.8848193
+Ademir,9,1950,Brazil,Recife,Brazil,-8.06789290766423,-34.88474495950635
+Vava,9,1958-1962,Brazil,Recife,Brazil,-8.06877773086763,-34.87033562976859
+Rivaldo,8,1998-2002,Brazil,Recife,Brazil,-8.054368102671951,-34.87920950211439
+Juninho Pernambucano,1,2006,Brazil,Recife,Brazil,-8.061454007018119,-34.8844014803076
+Rildo,1,1966,Brazil,Recife,Brazil,-8.054687873214581,-34.88480051354707
 Karl Heinz Rummenigge,9,1978-1982-1986,Germany,Lippstadt,Germany,51.6747074,8.347194
-Uwe Seeler,9,1958-1962-1966-1970,Germany,Hamburg,Germany,53.550341,10.000654
+Uwe Seeler,9,1958-1962-1966-1970,Germany,Hamburg,Germany,53.55260348532939,10.01082290141436
+Andreas Brehme,4,1986-1990-1994,Germany,Hamburg,Germany,53.55887609442857,9.994334133471726
+Eric Maxim Choupo-Moting,1,2022,Cameroon,Hamburg,Germany,53.552033506964335,10.0039741657594
 Roberto Baggio,9,1990-1994-1998,Italy,Caldogno,Italy,45.6118362,11.5075805
 Paolo Rossi,9,1978-1982,Italy,Prato,Italy,43.935718050000006,11.09414726770089
-Christian Vieri,9,1998-2002,Italy,Bologna,Italy,44.4939334,11.3425798
+Christian Vieri,9,1998-2002,Italy,Bologna,Italy,44.49031264090392,11.33596494522568
+Angelo Schiavio,4,1934,Italy,Bologna,Italy,44.50378489484121,11.345159038340046
 Eusebio,9,1966,Portugal,Maputo,Mozambique,-25.966213,32.56745
 David Villa,9,2006-2010-2014,Spain,Langreo,Spain,43.2950131,-5.683431
 Diego Maradona,8,1982-1986-1990-1994,Argentina,Lanús,Argentina,-34.70213445,-58.395079732244895
-Guillermo Stabile,8,1930,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Leonidas,8,1934-1938,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Rivaldo,8,1998-2002,Brazil,Recife,Brazil,-8.0584933,-34.8848193
+Guillermo Stabile,8,1930,Argentina,Buenos Aires,Argentina,-34.615332915719854,-58.42518999422515
+Carlos Peucelle,3,1930,Argentina,Buenos Aires,Argentina,-34.60904850858025,-58.43585716589582
+Sergio Aguero,2,2018,Argentina,Buenos Aires,Argentina,-34.607038565716,-58.43897982967354
+Luis Monti,2,1930-1934,Argentina,Buenos Aires,Argentina,-34.61738603112937,-58.433725413629624
+Adolfo Zumelzu,2,1930,Argentina,Buenos Aires,Argentina,-34.61088236559415,-58.441207707765976
+Carlos Babington,1,1974,Argentina,Buenos Aires,Argentina,-34.61069134600579,-58.43045692234086
+Miguel Brindisi,1,1974,Argentina,Buenos Aires,Argentina,-34.613220394932156,-58.43199744501627
+Esteban Cambiasso,1,2006,Argentina,Buenos Aires,Argentina,-34.59702955257242,-58.43762400137624
+Mario Evaristo,1,1930,Argentina,Buenos Aires,Argentina,-34.6018676174655,-58.44563251555507
+Hector Facundo,1,1962,Argentina,Buenos Aires,Argentina,-34.60844775171894,-58.43644558686478
+Norberto Menendez,1,1958,Argentina,Buenos Aires,Argentina,-34.59378219605772,-58.43030695442913
+Mauricio Pineda,1,1998,Argentina,Buenos Aires,Argentina,-34.61450247737946,-58.449070824465096
+Jose Sanfilippo,1,1962,Argentina,Buenos Aires,Argentina,-34.6064737208645,-58.440384091795096
+Javier Saviola,1,2006,Argentina,Buenos Aires,Argentina,-34.59859392817438,-58.446376412377845
+Pedro Troglio,1,1990,Argentina,Buenos Aires,Argentina,-34.597527559059436,-58.42847662482971
+Javier Zanetti,1,1998-2002,Argentina,Buenos Aires,Argentina,-34.60204572515064,-58.43500133252016
 Rudi Voller,8,1986-1990-1994,Germany,Hanau,Germany,50.135429099999996,8.918817903264163
-Oscar Miguez,8,1950-1954,Uruguay,Uruguay,Uruguay,-32.8755548,-56.0201525
+Oscar Miguez,8,1950-1954,Uruguay,Uruguay,Uruguay,-32.87648264233476,-56.02434240099969
+Javier Ambrois,1,1954,Uruguay,Uruguay,Uruguay,-32.888719025152305,-56.0266470751777
 Neymar,8,2014-2018-2022,Brazil,Mogi das Cruzes,Brazil,-23.5234284,-46.1926671
 Harry Kane,8,2018-2022,England,Leytonstone,United Kingdom,51.5710783,0.0064237
 Careca,7,1986-1990,Brazil,Araraquara,Brazil,-21.7886713,-48.1773096
 Hans Schafer,7,1954-1958-1962,Germany,Zollstock,Germany,48.9765313,9.502444
-Lajos Tichy,7,1958-1962,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Johnny Rep,7,1974-1978,Netherlands,Zaandam,Netherlands,52.4424926,4.8298607
+Johnny Rep,7,1974-1978,Netherlands,Zaandam,Netherlands,52.4372668367456,4.827430836853984
+Ronald Koeman,1,1990-1994,Netherlands,Zaandam,Netherlands,52.43669758455461,4.831063332114408
 Cristiano Ronaldo,8,2006-2010-2014-2018-2022,Portugal,Funchal,Portugal,32.6496497,-16.9086783
-Luis Suarez,7,2010-2014-2018,Uruguay,Salto,Uruguay,-31.38889,-57.9608876
-Lionel Messi,13,2006-2010-2014-2018-2022,Argentina,Rosario,Argentina,-32.9595004,-60.6615415
+Luis Suarez,7,2010-2014-2018,Uruguay,Salto,Uruguay,-31.392637548031907,-57.97238479351614
+Edinson Cavani,5,2010-2014-2018,Uruguay,Salto,Uruguay,-31.387080104083267,-57.94986228403844
+Pedro Rocha,1,1962-1966-1970-1974,Uruguay,Salto,Uruguay,-31.365972287486354,-56.99376151931014
+Lionel Messi,13,2006-2010-2014-2018-2022,Argentina,Rosario,Argentina,-32.9556231554835,-60.66984332996551
+Maxi Rodriguez,3,2006-2010,Argentina,Rosario,Argentina,-32.9597496127127,-60.65577725416516
+Angel Di Maria,3,2014-2018-2022,Argentina,Rosario,Argentina,-32.971976278350205,-60.67003793164252
+Oscar Ruggeri,1,1986-1990-1994,Argentina,Rosario,Argentina,-32.946739171696045,-60.665012493831775
+Diego Godin,1,2014,Uruguay,Rosario,Uruguay,-34.30544751371397,-57.356383367082934
 Mario Kempes,6,1974-1978-1982,Argentina,Bell Ville,Argentina,-32.6300707,-62.6888782
-Erich Probst,6,1954,Austria,Vienna,Austria,48.2083537,16.3725042
+Erich Probst,6,1954,Austria,Vienna,Austria,48.20784127270429,16.376034586154297
+Hans Krankl,5,1978-1982,Austria,Vienna,Austria,48.21411805414319,16.385075640312234
+Theodor Wagner,3,1954,Austria,Vienna,Austria,48.21584666946609,16.364848407086697
+Ernst Ocwirk,2,1954,Austria,Vienna,Austria,48.214561506687396,16.36420157102456
+Frantisek Svoboda,2,1934,Czech,Vienna,Austria,48.21648351138479,16.384698635812445
+Brian Laudrup,2,1998,Denmark,Vienna,Austria,48.207231907452936,16.37834782810037
+Pepi Bican,1,1934,Austria,Vienna,Austria,48.20661347318891,16.370831096807287
+Andreas Herzog,1,1990-1998,Austria,Vienna,Austria,48.19386988663923,16.377075241873808
+Alfred Korner,1,1954-1958,Austria,Vienna,Austria,48.20989071709635,16.362054303598626
+Erich Obermayer,1,1978-1982,Austria,Vienna,Austria,48.1999373277263,16.377721635395403
+Andeas Ogris,1,1990,Austria,Vienna,Austria,48.21105723428195,16.3584209814882
+Toni Polster,1,1990-1998,Austria,Vienna,Austria,48.21693922090667,16.383717129820834
+Toni Schall,1,1934,Austria,Vienna,Austria,48.213424362744476,16.368412833227655
+Willhelm Hahnemann,1,1938,Germany,Vienna,Austria,48.22076223483478,16.378734942402662
 Bebeto,6,1994-1998,Brazil,Salvador-Bahia,Brazil,-12.9822499,-38.4812772
-Rivelino,6,1970-1974-1978,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
-Hristo Stoichkov,6,1994-1998,Bulgaria,Plovdiv,Bulgaria,42.1418541,24.7499297
+Rivelino,6,1970-1974-1978,Brazil,São Paulo,Brazil,-23.537554033614935,-46.642441289639315
+Cesar Sampaio,3,1998,Brazil,São Paulo,Brazil,-23.564537199471733,-46.64404030053163
+Julinho,2,1954,Brazil,São Paulo,Brazil,-23.5452670694659,-46.63348611175529
+Pinga,2,1954,Brazil,São Paulo,Brazil,-23.559460382967757,-46.64214979025561
+Serginho,2,1982,Brazil,São Paulo,Brazil,-23.55804572056623,-46.63413626675514
+Paulinho,1,2018,Brazil,São Paulo,Brazil,-23.5611956996846,-46.628990821653304
+Ze Roberto,1,2006,Brazil,São Paulo,Brazil,-23.55589175774019,-46.63820662476365
+Djalma Santos,1,1954-1958-1962-1966,Brazil,São Paulo,Brazil,-23.562268598528057,-46.619711795608005
+Marcio Santos,1,1994,Brazil,São Paulo,Brazil,-23.5626781776415,-46.637381375749996
+Hristo Stoichkov,6,1994-1998,Bulgaria,Plovdiv,Bulgaria,42.14303787729391,24.739324788440367
+Hristo Bonev,2,1970-1974,Bulgaria,Plovdiv,Bulgaria,42.127823443978826,24.75398834928821
+Dinko Dermendzhiev,1,1962-1966-1970,Bulgaria,Plovdiv,Bulgaria,42.12810356541652,24.744403385322432
 James Rodriguez,6,2014,Colombia,Cúcuta,Colombia,7.8971458,-72.5080387
 Davor Suker,6,1998-2002,Croatia,Osijek,Croatia,45.5548793,18.6953685
 Thierry Henry,6,1998-2002-2006-2010,France,Les Ulis,France,48.681708,2.1701573
-Helmut Haller,6,1962-1966-1970,Germany,Augsburg,Germany,48.3668041,10.8986971
+Helmut Haller,6,1962-1966-1970,Germany,Augsburg,Germany,48.36603134738675,10.904428293962313
+Ernest Lehner,2,1934-1938,Germany,Augsburg,Germany,48.37231192937078,10.884729782126533
 Lothar Matthaus,6,1986-1990-1994-1998,Germany,Erlangen,Germany,49.5928616,11.0056
 Max Morlock,6,1954,Germany,Nuremberg,Germany,49.453872,11.077298
-Asamoah Gyan,6,2006-2010-2014,Ghana,Accra,Ghana,5.5571096,-0.2012376
-Gyorgy Sarosi,6,1934-1938,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Salvatore Schillaci,6,1990,Italy,Palermo,Italy,38.1112268,13.3524434
-Dennis Bergkamp,6,1994-1998,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Rob Rensenbrink,6,1974-1978,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
+Asamoah Gyan,6,2006-2010-2014,Ghana,Accra,Ghana,5.5529742935123565,-0.2122836069159128
+Stephen Appiah,1,2006-2010,Ghana,Accra,Ghana,5.546351631693939,-0.21318553492160666
+Osman Bukari,1,2022,Ghana,Accra,Ghana,5.565382659645821,-0.21005986542995111
+Salvatore Schillaci,6,1990,Italy,Palermo,Italy,38.1090800650664,13.356832949843861
+Mario Balotelli,1,2014,Italy,Palermo,Italy,38.12183075145526,13.363606310604684
+Dennis Bergkamp,6,1994-1998,Netherlands,Amsterdam,Netherlands,52.375515015293246,4.897433004059929
+Rob Rensenbrink,6,1974-1978,Netherlands,Amsterdam,Netherlands,52.35946878641609,4.897083472972228
+Johan Cruyff,3,1974,Netherlands,Amsterdam,Netherlands,52.38425041422737,4.894689614316222
+Patrick Kluivert,2,1998,Netherlands,Amsterdam,Netherlands,52.38782617363708,4.8872183925371715
+Daley Blind,2,2014-2022,Netherlands,Amsterdam,Netherlands,52.38379325739634,4.8872743321754575
+Ruud Gullit,1,1990,Netherlands,Amsterdam,Netherlands,52.38076090601637,4.882059632650858
+Wim Kieft,1,1990,Netherlands,Amsterdam,Netherlands,52.364093078695795,4.8887098924807395
+Ruud Krol,1,1974-1978,Netherlands,Amsterdam,Netherlands,52.36728447186222,4.888693663851301
+Bryan Roy,1,1994,Netherlands,Amsterdam,Netherlands,52.372508225480715,4.885299638563675
 Arjen Robben,6,2006-2010-2014,Netherlands,Bedum,Netherlands,53.3003141,6.5961866
 Wesley Sneijder,6,2006-2010-2014,Netherlands,Utrecht,Netherlands,52.080985600000005,5.12768396945229
-Robin Van Persie,6,2006-2010-2014,Netherlands,Rotterdam,Netherlands,51.9244424,4.47775
-Zbigniew Boniek,6,1978-1982-1986,Poland,Bydgoszcz,Poland,53.1219648,18.0002529
-Oleg Salenko,6,1994,Russia,Saint Petersburg,Russia,59.938732,30.316229
+Robin Van Persie,6,2006-2010-2014,Netherlands,Rotterdam,Netherlands,51.91806715941338,4.470208756878185
+Giovanni Van Bronckhorst,1,2006-2010,Netherlands,Rotterdam,Netherlands,51.9235698484162,4.482575356856722
+Leen Vente,1,1934-1938,Netherlands,Rotterdam,Netherlands,51.91863434783945,4.464635862032406
+Georginio Wijnaldum,1,2014,Netherlands,Rotterdam,Netherlands,51.915219235358784,4.4906634646042445
+Denzel Dumfries,1,2022,Netherlands,Rotterdam,Netherlands,51.92804194757805,4.479772339784977
+Zbigniew Boniek,6,1978-1982-1986,Poland,Bydgoszcz,Poland,53.11218670702415,18.011697466322072
+Stefan Majewski,1,1982-1986,Poland,Bydgoszcz,Poland,53.11520362949028,18.010917289924155
+Oleg Salenko,6,1994,Russia,Saint Petersburg,Russia,59.93550312759508,30.328444434521884
+Aleksandr Ivanov,1,1958,USSR,Saint Petersburg,Russia,59.952367786541885,30.30138324539488
 Josef Hugi,6,1954,Switzerland,Riehen,Switzerland,47.5816927,7.6479737
-Diego Forlan,6,2002-2010,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Ivan Perisic,6,2014-2018-2022,Croatia,Split,Croatia,43.5116383,16.4399659
-Enner Valencia,6,2014-2022,Ecuador,Esmeraldas,Ecuador,0.7343619,-79.3858867
+Diego Forlan,6,2002-2010,Uruguay,Montevideo,Uruguay,-34.903507495885655,-56.19603825093545
+Pedro Cea,5,1930,Uruguay,Montevideo,Uruguay,-34.917200062887616,-56.1933443652725
+Juan Schiaffino,5,1950-1954,Uruguay,Montevideo,Uruguay,-34.90122719234641,-56.18002874994787
+Carlos Borges,4,1954,Uruguay,Montevideo,Uruguay,-34.9106239031561,-56.20157778936633
+Alcides Ghiggia,4,1950,Uruguay,Montevideo,Uruguay,-34.911205517029536,-56.20324760228112
+Juan Anselmo,3,1930,Uruguay,Montevideo,Uruguay,-34.92079291660618,-56.19209273097968
+Julio Abbadie,2,1954,Uruguay,Montevideo,Uruguay,-34.909789509173855,-56.19933667261022
+Hector Castro,2,1930,Uruguay,Montevideo,Uruguay,-34.89651640894293,-56.203709286513885
+Pablo Dorado,2,1930,Uruguay,Montevideo,Uruguay,-34.9001188385896,-56.18324829347812
+Obdulio Varela,2,1950-1954,Uruguay,Montevideo,Uruguay,-34.90734522845442,-56.18163880674055
+Julio Cortes,1,1962-1966-1970,Uruguay,Montevideo,Uruguay,-34.89837518571681,-56.18664144076398
+Victor Esparrago,1,1970-1974,Uruguay,Montevideo,Uruguay,-34.901309353363104,-56.18300417307136
+Daniel Fonseca,1,1990,Uruguay,Montevideo,Uruguay,-34.9159210504013,-56.180064429446674
+Enzo Francescoli,1,1986-1990,Uruguay,Montevideo,Uruguay,-34.89254341566911,-56.20593508485718
+Ricardo Pavoni,1,1974,Uruguay,Montevideo,Uruguay,-34.89689648217584,-56.17648623725098
+Alvaro Pereira,1,2010,Uruguay,Montevideo,Uruguay,-34.90875441793741,-56.19762709749812
+Maximiliano Pereira,1,2010,Uruguay,Montevideo,Uruguay,-34.89985499613784,-56.188342852049615
+Julio Perez,1,1950,Uruguay,Montevideo,Uruguay,-34.90206348702363,-56.19812604960711
+Alvaro Recoba,1,2002,Uruguay,Montevideo,Uruguay,-34.89871752594105,-56.185567283270146
+Dario Rodriguez,1,2002,Uruguay,Montevideo,Uruguay,-34.91760066500968,-56.20473416054524
+Hector Scarone,1,1930,Uruguay,Montevideo,Uruguay,-34.91372451575585,-56.197000246174014
+Ivan Perisic,6,2014-2018-2022,Croatia,Split,Croatia,43.501371185321545,16.439640079755453
+Ivica Surjak,2,1974-1982,Yugoslavia,Split,Croatia,43.502766246867175,16.42545937176012
+Ivica Vastic,1,1998,Austria,Split,Croatia,43.49752990309155,16.45431567700462
+Ante Rebic,1,2018,Croatia,Split,Croatia,43.502728633141636,16.42787534262236
+Marko Livaja,1,2022,Croatia,Split,Croatia,43.51146227778251,16.431989257698834
+Enner Valencia,6,2014-2022,Ecuador,Esmeraldas,Ecuador,0.7411370659483685,-79.39994084689286
+Carlos Tenorio,2,2002-2006,Ecuador,Esmeraldas,Ecuador,0.7231743937531441,-79.39111637164329
 Gonzalo Higuain,5,2010-2014,Argentina,Brest,France,48.3905283,-4.4860088
-Tim Cahill,5,2006-2010-2014,Australia,Sydney,Australia,-33.8698439,151.2082848
-Hans Krankl,5,1978-1982,Austria,Vienna,Austria,48.2083537,16.3725042
-Romelu Lukaku,5,2014-2018,Belgium,Antwerp,Belgium,51.2211097,4.3997081
+Tim Cahill,5,2006-2010-2014,Australia,Sydney,Australia,-33.86283871782886,151.22284152039643
+Harry Kewell,1,2006-2010,Australia,Sydney,Australia,-33.85500200187224,151.19971839069188
+Craig Moore,1,2006-2010,Australia,Sydney,Australia,-33.88387282820293,151.20841567515288
+Romelu Lukaku,5,2014-2018,Belgium,Antwerp,Belgium,51.20640260606872,4.39128905440706
+Henri Coppens,1,1954,Belgium,Antwerp,Belgium,51.2083841976977,4.407928233174468
+Henri Isemborghs,1,1938,Belgium,Antwerp,Belgium,51.22169257772198,4.4027926566839515
 Marc Wilmots,5,1994-1998-2002,Belgium,Dongelberg,Belgium,50.6989511,4.8215443
 Garrincha,5,1958-1962-1966,Brazil,Magé,Brazil,-22.6604221,-43.0426162
-Romario,5,1990-1994,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Zico,5,1978-1982,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Roger Milla,5,1982-1990-1994,Cameroon,Yaoundé,Cameroon,3.8689867,11.5213344
+Roger Milla,5,1982-1990-1994,Cameroon,Yaoundé,Cameroon,3.865569887178511,11.532771065305166
+Breel Embolo,2,2022,Switzerland,Yaoundé,Cameroon,3.8791611724581667,11.517142567196128
+David Embe,1,1994,Cameroon,Yaoundé,Cameroon,3.8807910732333775,11.524831071268801
+Gregoire Mbida,1,1982,Cameroon,Yaoundé,Cameroon,3.8797122727261284,11.530501556720942
+Samuel Umtiti,1,2018,France,Yaoundé,Cameroon,3.8608886774132767,11.509157940825471
 Mario Mandzukic,5,2014-2018,Croatia,Slavonski Brod,Croatia,45.1665803,18.0121385
-Jon Dahl Tomasson,5,2002-2010,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
+Jon Dahl Tomasson,5,2002-2010,Denmark,Copenhagen,Denmark,55.68237089112982,12.583740895274305
+Preben Elkjaer Larsen,4,1986,Denmark,Copenhagen,Denmark,55.67969650625087,12.566467454260883
+Dennis Rommedahl,2,2002-2010,Denmark,Copenhagen,Denmark,55.690176747063994,12.556614873477473
+Nicklas Bendtner,1,2010,Denmark,Copenhagen,Denmark,55.68112076709074,12.56602043155397
+Mathias Jorgensen,1,2018,Denmark,Copenhagen,Denmark,55.683764407256085,12.581881348386743
+Soren Lerby,1,1986,Denmark,Copenhagen,Denmark,55.70007871273829,12.57370828220396
+Yussuf Yurary Poulsen,1,2018,Denmark,Copenhagen,Denmark,55.674005805615664,12.55528888907385
 Geoff Hurst,5,1966-1970,England,Ashton-under-Lyne,United Kingdom,53.4865407,-2.098691
 Michel Platini,5,1978-1982-1986,France,Jœuf,Switzerland,46.4454595,9.5797003
-Zinedine Zidane,5,1998-2002-2006,France,Marseille,France,43.2961743,5.3699525
-Franz Beckenbauer,5,1966-1970-1974,Germany,Munich,Germany,48.1371079,11.5753822
-Lukas Podolski,5,2006-2010,Germany,Gliwice,Poland,50.294113,18.6657306
+Zinedine Zidane,5,1998-2002-2006,France,Marseille,France,43.31052532276342,5.361620975395621
+Theo Hernandez,1,2022,France,Marseille,France,43.2891655660776,5.383309483695507
+Franz Beckenbauer,5,1966-1970-1974,Germany,Munich,Germany,48.133641816473826,11.560636488214776
+Philipp Lahm,1,2006-2010,Germany,Munich,Germany,48.14554249535781,11.560482816541674
+Lukas Podolski,5,2006-2010,Germany,Gliwice,Poland,50.28648496196739,18.679415466639462
+Andrzej Buncol,1,1982-1986,Poland,Gliwice,Poland,50.28540451591847,18.673266360633527
 Gyula Zsengeller,5,1938,Hungary,Cegléd,Hungary,47.1716447,19.7977516
 Silvio Piola,5,1938,Italy,Robbio,Italy,45.2899709,8.5932785
 Johan Neeskens,5,1974-1978,Netherlands,Heemstede,Netherlands,52.3528406,4.6217323
-Peter Mcparland,5,1958,Northern Ireland,Newry,United Kingdom,54.1775283,-6.337506
+Peter Mcparland,5,1958,Northern Ireland,Newry,United Kingdom,54.173006477238644,-6.322987424833352
+Colin Clarke,1,1986,Northern Ireland,Newry,United Kingdom,54.16778947642376,-6.350234142682653
 Estanislao Basora,5,1950,Spain,Valls,Spain,41.2835355,1.2473637
-Emilio Butragueno,5,1986-1990,Spain,Madrid,Spain,40.4167047,-3.7035825
+Emilio Butragueno,5,1986-1990,Spain,Madrid,Spain,40.41672320962655,-3.7104580906043387
+Raul,5,1998-2002-2006,Spain,Madrid,Spain,40.426442352171186,-3.7139242632615392
+Michel,4,1986-1990,Spain,Madrid,Spain,40.40561257186419,-3.700714440178925
+Jose Luis Caminero,3,1994,Spain,Madrid,Spain,40.41647718426817,-3.699789425724623
+Alvaro Morata,3,2022,Spain,Madrid,Spain,40.41374900999734,-3.6959538379634425
+Nacho,1,2018,Spain,Madrid,Spain,40.41883733122926,-3.716012742660328
+Joaquin Peiro,1,1962-1966,Spain,Madrid,Spain,40.417576405854845,-3.7138877731185587
+Juan Antonio Senor,1,1986,Spain,Madrid,Spain,40.41278298725468,-3.7029036014732863
 Fernando Hierro,5,1994-1998-2002,Spain,Vélez-Málaga,Spain,36.7818354,-4.0988099
 Fernando Morientes,5,1998-2002,Spain,Cilleros,Spain,40.1136479,-6.7914883
-Raul,5,1998-2002-2006,Spain,Madrid,Spain,40.4167047,-3.7035825
 Kennet Andersson,5,1994,Sweden,Eskilstuna,Sweden,59.3717379,16.5051474
-Edinson Cavani,5,2010-2014-2018,Uruguay,Salto,Uruguay,-31.38889,-57.9608876
-Pedro Cea,5,1930,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Juan Schiaffino,5,1950-1954,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
 Landon Donovan,5,2002-2006-2010,USA,Ontario,United States,34.065846,-117.6484304
-Valentin Ivanov,5,1958-1962,USSR,Moscow,Russia,55.7504461,37.6174943
+Valentin Ivanov,5,1958-1962,USSR,Moscow,Russia,55.74994049168198,37.62031228614873
+Igor Chislenko,4,1962-1966,USSR,Moscow,Russia,55.736632191914495,37.632186147290334
+Artem Dzyuba,3,2018,Russia,Moscow,Russia,55.745569260275836,37.608787564957254
+Anatoli Ilyin,2,1958,USSR,Moscow,Russia,55.76398285551768,37.62052747283821
+Vladimir Beschastnykh,1,2002,Russia,Moscow,Russia,55.74587082874623,37.6280608681132
+Egor Titov,1,2002,Russia,Moscow,Russia,55.76524135183304,37.60513786314172
+Eugène Walaschek,1,1938,Switzerland,Moscow,Russia,55.7463385729416,37.61934778207293
+Sergei Rodionov,1,1986,USSR,Moscow,Russia,55.75713622480436,37.616006093386325
 Xherdan Shaqiri,5,2014-2018-2022,Switzerland,Gjilan,Kosovo,42.463515,21.4693599
 Olivier Giroud,5,2014-2022,France,Chambéry,France,45.5662672,5.9203636
 Daniel Bertoni,4,1978-1982,Argentina,Bahía Blanca,Argentina,-38.7176522,-62.2654871
 Claudio Caniggia,4,1990-1994-2002,Argentina,Henderson,Argentina,-36.301954,-61.7139204
 Hernan Crespo,4,1998-2002-2006,Argentina,Florida,Argentina,-34.5322058,-58.4937312
 Rene Houseman,4,1974-1978,Argentina,La Banda,Argentina,-27.7357077,-64.2434402
-Leopoldo Luque,4,1978,Argentina,Santa Fe,Argentina,-30.3154739,-61.1645076
-Jorge Valdano,4,1982-1986,Argentina,Las Parejas,Argentina,-32.6818723,-61.5206966
-Jan Ceulemans,4,1982-1986-1990,Belgium,Lier,Belgium,51.131069,4.5696516
+Leopoldo Luque,4,1978,Argentina,Santa Fe,Argentina,-30.31687501950733,-61.15063951911053
+Pedro Pasculli,1,1986,Argentina,Santa Fe,Argentina,-30.328004538694753,-61.16029665276896
+Jorge Valdano,4,1982-1986,Argentina,Las Parejas,Argentina,-32.66899965409925,-61.521719771011185
+Erminio Onega,1,1966,Argentina,Las Parejas,Argentina,-32.68624768091858,-61.506701504939144
+Jan Ceulemans,4,1982-1986-1990,Belgium,Lier,Belgium,51.118102099203256,4.5700233339536585
+Bernard Voorhoof,2,1930-1934-1938,Belgium,Lier,Belgium,51.12024353400837,4.577582036293736
 Chico,4,1950,Brazil,Taquari,Brazil,-29.79433,-51.865346
 Socrates,4,1982-1986,Brazil,Belém,Brazil,-1.45056,-48.4682453
 Marcelo Salas,4,1998,Chile,Temuco,Chile,-38.7362611,-72.590546
-Leonel Sanchez,4,1962-1966,Chile,Santiago,Chile,-33.4377756,-70.6504502
-Guillermo Subiabre,4,1930,Chile,Osorno,Chile,-40.5732371,-73.1358145
-Zdenek Zikan,4,1958,Czech,Prague,Czechia,50.0874654,14.4212535
-Preben Elkjaer Larsen,4,1986,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
+Leonel Sanchez,4,1962-1966,Chile,Santiago,Chile,-33.423569463919044,-70.66125549192387
+Jean Beausejour,2,2010-2014,Chile,Santiago,Chile,-33.446252487920255,-70.64896641572004
+Jaime Ramirez,2,1962,Chile,Santiago,Chile,-33.44326491623265,-70.6570309623842
+Jorge Toro,2,1962,Chile,Santiago,Chile,-33.43730307438242,-70.65370804827116
+Andres Prieto,1,1950,Chile,Santiago,Costa Rica,9.879367664015955,-83.79515321474375
+Fernando Riera,1,1950,Chile,Santiago,Chile,-33.428389081407154,-70.6379669679958
+Jose Sierra,1,1998,Chile,Santiago,Costa Rica,9.874982591373136,-83.807996157706
+Eduardo Vargas,1,2014,Chile,Santiago,Chile,-33.42414282762361,-70.63781704074492
+Guillermo Subiabre,4,1930,Chile,Osorno,Chile,-40.56815477085622,-73.12457192263368
+Ruben Marcos,2,1966,Chile,Osorno,Chile,-40.585182385011755,-73.14238383109458
+Zdenek Zikan,4,1958,Czech,Prague,Czechia,50.09655165895035,14.409013575039886
+Michal Bilek,2,1990,Czech,Prague,Czechia,50.100813642463685,14.41372893848271
+Milan Dvorak,2,1958,Czech,Prague,Czechia,50.09027493562987,14.411749925567957
+Antonin Panenka,2,1982,Czech,Prague,Czechia,50.07272373803953,14.416490082392542
+Tomas Rosicky,2,2006,Czech Republic,Prague,Czechia,50.08514895368391,14.423794551064846
+Vaclav Masek,1,1962,Czech,Prague,Czechia,50.08618818785446,14.421255716574295
+Jan Koller,1,2006,Czech Republic,Prague,Czechia,50.074110386136276,14.435387534912406
 Bobby Charlton,4,1962-1966-1970,England,Ashington,United Kingdom,55.1832364,-1.57027
 Michael Owen,4,1998-2002-2006,England,Chester,United Kingdom,53.1908873,-2.8908955
 Antoine Griezmann,4,2018,France,Mâcon,France,46.3036683,4.8322266
 Roger Piantoni,4,1958,France,Étain,France,49.21335,5.6363489
 Dominique Rocheteau,4,1978-1982-1986,France,Saintes,France,45.7460663,-0.6300671
 Oliver Bierhoff,4,1998-2002,Germany,Karlsruhe,Germany,49.0068705,8.4034195
-Andreas Brehme,4,1986-1990-1994,Germany,Hamburg,Germany,53.550341,10.000654
-Paul Breitner,4,1974-1982,Germany,Kolbermoor,Germany,47.8556623,12.0595795
+Paul Breitner,4,1974-1982,Germany,Kolbermoor,Germany,47.851764212753366,12.070457057675506
+Bastian Schweinsteiger,2,2006-2010,Germany,Kolbermoor,Germany,47.85236339805386,12.057278508320758
 Edmund Conen,4,1934,Germany,Ürzig,Germany,49.9793057,7.0056384
-Ottmar Walter,4,1954,Germany,Kaiserslautern,Germany,49.4432174,7.7689951
+Ottmar Walter,4,1954,Germany,Kaiserslautern,Germany,49.43929520190523,7.764350807991228
+Fritz Walter,3,1954-1958,Germany,Kaiserslautern,Germany,49.44017197437608,7.776825493495932
 Florian Albert,4,1962-1966,Hungary,Hercegszántó,Hungary,45.950602,18.93584
 Ferenc Bene,4,1966,Hungary,Balatonújlak,Hungary,46.6759752,17.383049
-Nandor Hidegkuti,4,1954-1958,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Ferenc Puskas,4,1954-1962,Hungary,Budapest,Hungary,47.4979937,19.0403594
 Alessandro Altobelli,4,1982-1986,Italy,Sonnino,Italy,41.4142717,13.2415295
 Gino Colaussi,4,1938,Italy,Gradisca d'Isonzo,Italy,45.8895509,13.5003287
-Angelo Schiavio,4,1934,Italy,Bologna,Italy,44.4939334,11.3425798
 Keisuke Honda,4,2010-2014-2018,Japan,Settsu,Japan,34.782761,135.553584
 Luis Hernandez,4,1998-2002,Mexico,Poza Rica,Mexico,20.5320852,-97.4536355
-Javier Hernandez,4,2010-2014-2018,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
+Javier Hernandez,4,2010-2014-2018,Mexico,Guadalajara,Mexico,20.665459563638468,-103.33858512636503
+Fernando Quirarte,2,1986,Mexico,Guadalajara,Mexico,20.66621364909273,-103.32674722789177
+Javier Valdivia,2,1970,Mexico,Guadalajara,Mexico,20.67002799178997,-103.34542232873885
+Tomas Balcazar,1,1954,Mexico,Guadalajara,Mexico,20.660790059014754,-103.34677202029592
+Andres Guardado,1,2014,Mexico,Guadalajara,Mexico,20.67021892754071,-103.3441671996529
+Hector Hernandez,1,1962,Mexico,Guadalajara,Mexico,20.684193797298803,-103.32863957923276
 Ahmed Musa,4,2014-2018,Nigeria,Jos,Nigeria,9.9175125,8.8979401
-Ernest Wilimowski,4,1938,Poland,Katowice,Poland,50.2598987,19.0215852
+Ernest Wilimowski,4,1938,Poland,Katowice,Poland,50.2475229228174,19.014889195729335
+Richard Herrmann,1,1954,Germany,Katowice,Poland,50.272618579323044,19.015456302227438
 Pauleta,4,2002-2006,Portugal,Ponta Delgada,Portugal,37.74769635,-25.67269695415345
-Florin Raducioiu,4,1990-1994,Romania,Bucharest,Romania,44.4361414,26.1027202
+Florin Raducioiu,4,1990-1994,Romania,Bucharest,Romania,44.43750244737151,26.106248184965963
+Florea Dumitrache,2,1970,Romania,Bucharest,Romania,44.44332144752381,26.116089843099093
+Ilie Dumitrescu,2,1994-1998,Romania,Bucharest,Romania,44.424505253622854,26.095993605639418
+Dan Petrescu,2,1994-1998,Romania,Bucharest,Romania,44.43748710275156,26.109590062746953
+Alexandru Neagu,1,1970,Romania,Bucharest,Romania,44.43884696414563,26.10896135975564
+Constantin Stanciu,1,1930,Romania,Bucharest,Romania,44.44787407347891,26.09801036244549
 Denis Cheryshev,4,2018,Russia,Nizhny Novgorod,Russia,56.3264816,44.0051395
 Robert Vittek,4,2010,Slovakia,Bratislava,Slovakia,48.1516988,17.1093063
-Michel,4,1986-1990,Spain,Madrid,Spain,40.4167047,-3.7035825
 Fernando Torres,4,2006-2010-2014,Spain,Fuenlabrada,Spain,40.282476,-3.7923422
 Zarra,4,1950,Spain,Erandio,Spain,43.3055981,-2.9729697
 Tomas Brolin,4,1990-1994,Sweden,Hudiksvall,Sweden,61.7281607,17.105575
 Martin Dahlin,4,1994,Sweden,Uddevalla,Sweden,58.3490555,11.9382855
-Ralf Edstrom,4,1974-1978,Sweden,Degerfors,Sweden,59.266667,14.433333
-Kurt Hamrin,4,1958,Sweden,Stockholm,Sweden,59.3251172,18.0710935
-Henrik Larsson,4,1994-2002-2006,Sweden,Helsingborg,Sweden,56.0442098,12.703706
+Ralf Edstrom,4,1974-1978,Sweden,Degerfors,Sweden,59.261398051608694,14.447260912034505
+Ola Toivonen,1,2018,Sweden,Degerfors,Sweden,59.254492381810145,14.42508930111023
+Kurt Hamrin,4,1958,Sweden,Stockholm,Sweden,59.323583303494736,18.075717457406103
+Ludwig Augustinsson,1,2018,Sweden,Stockholm,Sweden,59.32631405363548,18.06423822643893
+Lennart Skoglund,1,1950-1958,Sweden,Stockholm,Sweden,59.321552032209105,18.07953168700943
+Henrik Larsson,4,1994-2002-2006,Sweden,Helsingborg,Sweden,56.036486638963346,12.706509119883439
+Thomas Sjoberg,1,1978,Sweden,Helsingborg,Sweden,56.03843410499861,12.689433873494163
 Agne Simonsson,4,1958,Sweden,Göteborg,Sweden,57.7072326,11.9670171
 Andre Abegglen,4,1934-1938,Switzerland,Neuchatel,Switzerland,46.9895828,6.9292641
 Robert Ballaman,4,1954,Switzerland,Reconvilier,Switzerland,47.2357712,7.2247648
-Carlos Borges,4,1954,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Alcides Ghiggia,4,1950,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
 Clint Dempsey,4,2006-2010-2014,USA,Nacogdoches,United States,31.5970503,-94.5927451
-Bert Patenaude,4,1930,USA,Fall River,United States,41.7010642,-71.1546367
+Bert Patenaude,4,1930,USA,Fall River,United States,41.711633176032905,-71.16362191848037
+John Souza,2,1950,USA,Fall River,United States,41.70296101594212,-71.15786152561013
 Igor Belanov,4,1986,USSR,Odesa,Ukraine,46.4843023,30.7322878
-Anatoly Bishovets,4,1970,USSR,Kyiv,Ukraine,50.4500336,30.5241361
-Igor Chislenko,4,1962-1966,USSR,Moscow,Russia,55.7504461,37.6174943
+Anatoly Bishovets,4,1970,USSR,Kyiv,Ukraine,50.44162801456941,30.522987019487374
+Oleg Blokhin,1,1982-1986,USSR,Kyiv,Ukraine,50.44436810029939,30.525975108168122
 Valeriy Porkuyan,4,1966,USSR,Kirovohrad,Ukraine,48.3725226,31.7834817
 Julian Alvarez,4,2022,Argentina,Calchín,Argentina,-30.5364232,-64.3616107
 Luis Artime,3,1966,Argentina,Parque Civit,Argentina,-32.9202045,-68.8660004
 Jorge Burruchaga,3,1986-1990,Argentina,Gualeguay,Argentina,-33.1504259,-59.3106789
 Orestes Corbatta,3,1958,Argentina,Daireaux,Argentina,-36.6034232,-61.7477079
 Daniel Passarella,3,1978-1982,Argentina,Chacabuco,Argentina,-34.6423582,-60.4708815
-Carlos Peucelle,3,1930,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Maxi Rodriguez,3,2006-2010,Argentina,Rosario,Argentina,-32.9595004,-60.6615415
 Carlos Tevez,3,2006-2010,Argentina,Ciudadela,Argentina,-34.633603,-58.5426528
 Mile Jedinak,3,2014-2018,Australia,Camperdown,Australia,-33.8896116,151.1800986
-Ernst Stojaspal,3,1954,Austria,Simmering,Austria,48.1694815,16.419897106301242
-Theodor Wagner,3,1954,Austria,Vienna,Austria,48.2083537,16.3725042
+Ernst Stojaspal,3,1954,Austria,Simmering,Austria,48.15572393207132,16.405385264743764
+Karl Sesta,1,1934,Austria,Simmering,Austria,48.17908814506433,16.427919663978216
 Leopold Anoul,3,1954,Belgium,Saint-Nicolas,Belgium,50.6316662,5.5376342
 Nico Claesen,3,1986-1990,Belgium,Maasmechelen,Belgium,50.9635024,5.696445
-Eden Hazard,3,2018,Belgium,La Louvière,Belgium,50.479487,4.1852682
-Enzo Scifo,3,1986-1990-1994-1998,Belgium,La Louvière,Belgium,50.479487,4.1852682
-Amarildo,3,1962,Brazil,Campos dos Goytacazes,Brazil,-21.7558619,-41.3326895
+Eden Hazard,3,2018,Belgium,La Louvière,Belgium,50.46989793180682,4.191112456462003
+Enzo Scifo,3,1986-1990-1994-1998,Belgium,La Louvière,Belgium,50.48252748679949,4.191368473146474
+Amarildo,3,1962,Brazil,Campos dos Goytacazes,Brazil,-21.752320832514144,-41.341184780874826
+Didi,3,1954-1958-1962,Brazil,Campos dos Goytacazes,Brazil,-21.745930387884403,-41.334350253706134
 Baltazar,3,1950-1954,Brazil,Goiânia,Brazil,-16.680882,-49.2532691
-Didi,3,1954-1958-1962,Brazil,Campos dos Goytacazes,Brazil,-21.7558619,-41.3326895
 Roberto Dinamite,3,1978,Brazil,Duque de Caxias,Brazil,-22.7896225,-43.309929
 Dirceu,3,1974-1978-1982,Brazil,Curitiba,Brazil,-25.4295963,-49.2712724
 Luis Fabiano,3,2010,Brazil,Campinas,Brazil,-22.90556,-47.06083
 Falcao,3,1982,Brazil,Abelardo Luz,Brazil,-26.5705893,-52.3280339
 Peracio,3,1938,Brazil,Nova Lima,Brazil,-19.9854089,-43.8470691
-Preguinho,3,1930,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Romeu,3,1938,Brazil,Jundiai,Brazil,-23.1887668,-46.884506
-Cesar Sampaio,3,1998,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
-Tostao,3,1966-1970,Brazil,Belo Horizonte,Brazil,-19.9225776,-43.9451356
-Samuel Eto'o,3,2002-2010,Cameroon,Douala,Cameroon,4.0429408,9.706203
+Tostao,3,1966-1970,Brazil,Belo Horizonte,Brazil,-19.928343612199015,-43.933324444260265
+Fred,2,2006-2014,Brazil,Belo Horizonte,Brazil,-19.937091619089667,-43.94574139056503
+Samuel Eto'o,3,2002-2010,Cameroon,Douala,Cameroon,4.04628473912791,9.699436508842897
+Patrick Mboma,2,1998-2002,Cameroon,Douala,Cameroon,4.055549664217764,9.708470212308548
+Pierre Njanka,1,1998-2002,Cameroon,Douala,Cameroon,4.0350004149231475,9.69801526082126
 Yerry Mina,3,2018,Colombia,Guachené,Colombia,3.1323331,-76.3916018
 Ronald Gomez,3,2002-2006,Costa Rica,Puntarenas,Costa Rica,9.0954373,-84.2004310002738
 Paulo Wanchope,3,2002-2006,Costa Rica,Heredia,Costa Rica,10.376781300000001,-84.01397213865732
@@ -194,85 +382,154 @@ Steven Gerrard,3,2006-2010,England,Whiston,United Kingdom,53.4169156,-2.7905803
 Roger Hunt,3,1966,England,Culcheth and Glazebury,United Kingdom,53.4566938,-2.5160818282354303
 Nat Lofthouse,3,1954,England,Bolton,United Kingdom,53.5782863,-2.4300367
 David Platt,3,1990,England,Chadderton,United Kingdom,53.545462,-2.1378267
-Karim Benzema,3,2014,France,Lyon,France,45.7578137,4.8320114
+Karim Benzema,3,2014,France,Lyon,France,45.750125518877546,4.8426009870366
+Youri Djorkaeff,1,1998-2002,France,Lyon,France,45.769719952371304,4.828701066992266
+Bernard Lacombe,1,1978-1982,France,Lyon,France,45.75384520533422,4.828584737090648
 Bernard Genghini,3,1982-1986,France,Soultz-Haut-Rhin,France,47.8870216,7.2288038
 Alain Giresse,3,1982-1986,France,Langoiran,France,44.7081826,-0.4009928
 Jean Nicolas,3,1934-1938,France,Nanterre,France,48.8924273,2.2071267
 Michael Ballack,3,2002-2006,Germany,Görlitz,Germany,51.1563185,14.991018
 Toni Kroos,3,2014-2018,Germany,Greifswald,Germany,54.095791,13.3815238
-Pierre Littbarski,3,1982-1986-1990,Germany,Berlin,Germany,52.5170365,13.3888599
+Pierre Littbarski,3,1982-1986-1990,Germany,Berlin,Germany,52.502132793042534,13.401917058925473
+Kevin Prince Boateng,1,2010,Ghana,Berlin,Germany,52.513675485133554,13.401168621196668
+John Brooks,1,2014,USA,Berlin,Germany,52.516642966853695,13.39106615236202
 Wolfgang Overath,3,1966-1970-1974,Germany,Siegburg,Germany,50.7928332,7.2070774
 Andre Schuerrle,3,2014,Germany,Ludwigshafen,Germany,49.4704113,8.4381568
-Fritz Walter,3,1954-1958,Germany,Kaiserslautern,Germany,49.4432174,7.7689951
 Zoltan Czibor,3,1954,Hungary,Kaposvár,Hungary,46.3564692,17.7886886
 Laszlo Kiss,3,1982,Hungary,Taszár,Hungary,46.3736269,17.9051541
-Geza Toldi,3,1934-1938,Hungary,Budapest,Hungary,47.4979937,19.0403594
 Robbie Keane,3,2002,Ireland,Tallaght,Ireland,53.2878314,-6.3622774
 Giuseppe Meazza,3,1934-1938,Italy,Milan,Italy,45.4641943,9.1896346
-Raimondo Orsi,3,1934,Italy,Avellaneda,Argentina,-34.6648394,-58.3628061
+Raimondo Orsi,3,1934,Italy,Avellaneda,Argentina,-34.662476485511085,-58.36561644546409
+Hector Yazalde,2,1974,Argentina,Avellaneda,Argentina,-34.65406714087197,-58.37682494982913
 Gigi Riva,3,1970-1974,Italy,Leggiuno,Italy,45.875366,8.6204535
-Gianni Rivera,3,1962-1966-1970-1974,Italy,Alessandria,Italy,44.83495335,8.745030418605868
-Cuauhtemoc Blanco,3,1998-2002-2010,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
+Gianni Rivera,3,1962-1966-1970-1974,Italy,Alessandria,Italy,44.822321925894656,8.731168156472105
+Giovanni Ferrari,2,1934-1938,Italy,Alessandria,Italy,44.8229207560666,8.759515229431766
+Cuauhtemoc Blanco,3,1998-2002-2010,Mexico,Mexico City,Mexico,19.426022899137713,-99.12665216775348
+Alberto Garcia Aspe,2,1994-1998-2002,Mexico,Mexico City,Mexico,19.423143765788673,-99.14190579541199
+Luis Garcia,2,1994,Mexico,Mexico City,Mexico,19.437745958571245,-99.12260633166493
+Ricardo Pelaez,2,1994-1998,Mexico,Mexico City,Mexico,19.422085796306515,-99.13464071203218
+Manuel Rosas,2,1930,Mexico,Mexico City,Mexico,19.432568354205344,-99.13470375355926
+Ignacio Basaguren,1,1970,Mexico,Mexico City,Mexico,19.420855416556225,-99.12924504985801
+Jaime Belmonte,1,1958,Mexico,Mexico City,Mexico,19.42893376228335,-99.12493412550336
+Enrique Borja,1,1966,Mexico,Mexico City,Mexico,19.418584283497093,-99.13720802806674
+Horacio Casarin,1,1950,Mexico,Mexico City,Mexico,19.432998890209966,-99.14594171583427
+Alfredo Del Aguila,1,1962,Mexico,Mexico City,Mexico,19.417945649722192,-99.12074940738378
+Luis Flores,1,1986,Mexico,Mexico City,Mexico,19.442216031011558,-99.12852429200652
+Javier Fragoso,1,1966-1970,Mexico,Mexico City,Mexico,19.421616228107677,-99.14737328600012
+Jose Gonzalez,1,1970,Mexico,Mexico City,Mexico,19.43444115372235,-99.14809571644327
+Jose Lamadrid,1,1954,Mexico,Mexico City,Mexico,19.423026778549833,-99.13748439405377
+Hirving Lozano,1,2018,Mexico,Mexico City,Mexico,19.42021315374301,-99.12661247384146
+Victor Rangel,1,1978,Mexico,Mexico City,Mexico,19.42896668612562,-99.13174631134902
+Hugo Sanchez,1,1978-1986-1994,Mexico,Mexico City,Mexico,19.447072927379985,-99.14490738800951
+Raul Servin,1,1986,Mexico,Mexico City,Mexico,19.437042435958237,-99.12446015707627
+Gerardo Torrado,1,2002-2006-2010,Mexico,Mexico City,Mexico,19.438475422970964,-99.13283403916624
+Arturo Vazquez,1,1978,Mexico,Mexico City,Mexico,19.434341661953468,-99.12147268754444
 Rafael Marquez,3,2002-2006-2010-2014,Mexico,Zamora,Mexico,20.0290033,-102.27126866876873
-Johan Cruyff,3,1974,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Gerry Armstrong,3,1982,Northern Ireland,Belfast,United Kingdom,54.596391,-5.9301829
-Nelson Cuevas,3,2002-2006,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
+Gerry Armstrong,3,1982,Northern Ireland,Belfast,United Kingdom,54.60400221125331,-5.9215688272196
+Norman Whiteside,1,1982-1986,Northern Ireland,Belfast,United Kingdom,54.59385874466718,-5.9334273051793875
+Nelson Cuevas,3,2002-2006,Paraguay,Asunción,Paraguay,-25.285521187446175,-57.64626019458735
+Celso Ayala,1,1998-2002,Paraguay,Asunción,Paraguay,-25.27641356582704,-57.641515662915786
+Roque Santa Cruz,1,2002-2006-2010,Paraguay,Asunción,Paraguay,-25.268473310979747,-57.636367173432895
+César López Fretes,1,1950,Paraguay,Asunción,Paraguay,-25.292501667090114,-57.64828884775801
+Cayetano Re,1,1958,Paraguay,Asunción,Paraguay,-25.278977352290827,-57.64917668574489
+Enrique Vera,1,2010,Paraguay,Asunción,Paraguay,-25.27605205506532,-57.6388582012438
 Jose Augusto,3,1966,Portugal,Barreiro,Portugal,38.6340657,-9.047855912091004
 Jose Torres,3,1966,Portugal,Torres Novas,Portugal,39.47962,-8.53955
-Artem Dzyuba,3,2018,Russia,Moscow,Russia,55.7504461,37.6174943
-Sami Al Jaber,3,1994-1998-2002-2006,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
+Sami Al Jaber,3,1994-1998-2002-2006,Saudi Arabia,Riyadh,Saudi Arabia,24.630165074767874,46.72033599041455
+Fuad Amin,2,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.62765471692865,46.72336345514125
+Fahad Al Ghesheyan,1,1994,Saudi Arabia,Riyadh,Saudi Arabia,24.63319499917173,46.71529086550434
+Saeed Owairan,1,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.641304751694587,46.706216978861406
+Yasser Al Kahtani,1,2006,Saudi Arabia,Riyadh,Saudi Arabia,24.634936093191794,46.72542313307359
+Yousuf Al-Thunayan,1,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.651056845944865,46.72129903805476
 Joe Jordan,3,1974-1978-1982,Scotland,Cleland,United Kingdom,55.8017247,-3.9156483
-Bouba Diop,3,2002,Senegal,Dakar,Senegal,14.693425,-17.447938
+Bouba Diop,3,2002,Senegal,Dakar,Senegal,14.707404335019245,-17.439162805055233
+Patrick Vieira,2,1998-2002-2006,France,Dakar,Senegal,14.69806940706936,-17.450208753438805
+Henri Camara,2,2002,Senegal,Dakar,Senegal,14.704384741884788,-17.455482944126867
+Khalilou Fadiga,1,2002,Senegal,Dakar,Senegal,14.705699083542706,-17.45803026992154
 Ahn Jung Hwan,3,2002-2006,South Korea,Paju,South Korea,37.7598955,126.7801502
-Son Heungmin,3,2014-2018,South Korea,Chuncheon,South Korea,37.8810569,127.7297641
-Park Ji Sung,3,2002-2006-2010,South Korea,Seoul,South Korea,37.5666791,126.9782914
-Jose Luis Caminero,3,1994,Spain,Madrid,Spain,40.4167047,-3.7035825
+Son Heungmin,3,2014-2018,South Korea,Chuncheon,South Korea,37.87111502590483,127.74070665000043
+Hwang Hee-chan,1,2022,South Korea,Chuncheon,South Korea,37.88108963833567,127.71648355381961
+Park Ji Sung,3,2002-2006-2010,South Korea,Seoul,South Korea,37.57630613692774,126.98469790774132
+Hong Myung Bo,2,1990-1994-1998-2002,South Korea,Seoul,South Korea,37.58136193575074,126.98647839795952
+Lee Chung Yong,2,2010,South Korea,Seoul,South Korea,37.557917473633246,126.98182530552016
+Yoo Sang Chul,2,1998-2002,South Korea,Seoul,South Korea,37.56606554291173,126.97923702783395
+Paik Seung-ho,1,2022,South Korea,Seoul,South Korea,37.55539626355632,126.96900159406567
 Diego Costa,3,2018,Spain,Lagarto,Brazil,-10.9141791,-37.6715308
-Julio Salinas,3,1986-1990-1994,Spain,Bilbao,Spain,43.2630018,-2.9350039
-Harry Andersson,3,1938,Sweden,Norrköping,Sweden,58.5909124,16.1903511
+Julio Salinas,3,1986-1990-1994,Spain,Bilbao,Spain,43.27491017976256,-2.936677216276282
+Gaizka Mendieta,1,2002,Spain,Bilbao,Spain,43.26214749050938,-2.9489047446291714
+Harry Andersson,3,1938,Sweden,Norrköping,Sweden,58.586259414079805,16.1842468276015
+Gustav Wetterstrom,3,1938,Sweden,Norrköping,Sweden,58.59347827873823,16.19696515267814
+Tore Keller,1,1934-1938,Sweden,Norrköping,Sweden,58.604587167392154,16.182676498486906
 Sven Jonasson,3,1934-1938,Sweden,Borås,Sweden,57.7210839,12.9407407
 Arne Nyberg,3,1938,Sweden,Säffle,Sweden,59.116667,12.85
 Karl Erik Palmer,3,1950,Sweden,Malmö,Sweden,55.6052931,13.0001566
 Stig Sundqvist,3,1950,Sweden,Boden,Sweden,65.833333,21.666667
-Gustav Wetterstrom,3,1938,Sweden,Norrköping,Sweden,58.5909124,16.1903511
 Jackie Fatton,3,1950-1954,Switzerland,Exincourt,France,47.5009,6.83595
-Leopold Kielholz,3,1934,Switzerland,Basel,Switzerland,47.5581077,7.5878261
-Sargun Burhan,3,1954,Turkey,Ankara,Turkey,39.9207886,32.8540482
+Leopold Kielholz,3,1934,Switzerland,Basel,Switzerland,47.54803851432355,7.58439945142553
+Alexander Frei,2,2006-2010,Switzerland,Basel,Switzerland,47.54742892778102,7.585688329756727
+Granit Xhaka,2,2014-2018,Switzerland,Basel,Switzerland,47.56997657485794,7.602078335658478
+Rene Bader,1,1950,Switzerland,Basel,Switzerland,47.572357353473286,7.595025146550975
+Sargun Burhan,3,1954,Turkey,Ankara,Turkey,39.91259107267554,32.850853454025376
+Mustafa Ertan,1,1954,Turkey,Ankara,Turkey,39.91760207111456,32.8529443315406
 Ilhan Mansiz,3,2002,Turkey,Kempten im Allgäu,Germany,47.7281973,10.3372194
-Juan Anselmo,3,1930,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Juan Hohberg,3,1954,Uruguay,Córdoba,Argentina,-31.4166867,-64.1834193
+Juan Hohberg,3,1954,Uruguay,Córdoba,Argentina,-31.406353323887455,-64.18390533560371
+Osvaldo Ardiles,1,1978-1982,Argentina,Córdoba,Argentina,-31.403046381171617,-64.18955804776893
+Ramon Heredia,1,1974,Argentina,Córdoba,Argentina,-31.429335978965106,-64.18494164086692
 Brian Mcbride,3,1998-2002-2006,USA,Arlington Heights,United States,42.0811563,-87.9802164
 Eduard Malofeyev,3,1966,USSR,Krasnoyarsk,Russia,63.3233807,97.0979974
 Dusan Bajevic,3,1974,Yugoslavia,Mostar,Bosnia and Herzegovina,43.3435855,17.8076584
-Ivica Bek,3,1930,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
+Ivica Bek,3,1930,Yugoslavia,Belgrade,Serbia,44.80935168942637,20.457555462339755
+Stanislav Karasi,2,1974,Yugoslavia,Belgrade,Serbia,44.82867681197271,20.471150078074007
+Aleksandar Petakovic,2,1958,Yugoslavia,Belgrade,Serbia,44.81438829226681,20.46449961572276
+Aleksandar Kolarov,1,2018,Serbia,Belgrade,Serbia,44.8168916240245,20.449093465365006
+Marko Pantelic,1,2010,Serbia,Belgrade,Serbia,44.81634398152952,20.471173360994726
+Vladislav Bogicevic,1,1974,Yugoslavia,Belgrade,Serbia,44.81982803386692,20.450131018305385
+Blagoje Marjanovic,1,1930,Yugoslavia,Belgrade,Serbia,44.82282077211448,20.45835579377143
+Vladimir Petrovic,1,1974-1982,Yugoslavia,Belgrade,Serbia,44.81976223433206,20.46631296442719
+Branislav Sekulic,1,1930,Yugoslavia,Belgrade,Serbia,44.82621351865994,20.46600320257109
+Dusan Vlahovic,1,2022,Serbia,Belgrade,Serbia,44.823799905323625,20.470077027244937
 Milan Galic,3,1962,Yugoslavia,Bosansko Grahovo,Bosnia and Herzegovina,44.1794878,16.3639977
 Robert Prosinecki,3,1990-1998-2002,Yugoslavia,Villingen,Germany,50.500066950000004,8.956022385961145
 Dragan Stojkovic,3,1990-1998,Yugoslavia,Niš,Serbia,43.3211301,21.8959232
 Toza Veselinovic,3,1958,Yugoslavia,Novi Sad,Serbia,45.2551338,19.8451756
-Angel Di Maria,3,2014-2018-2022,Argentina,Rosario,Argentina,-32.9595004,-60.6615415
 Andre Ayew,3,2014-2022,Ghana,Seclin,France,50.5452102,3.0252819
 Memphis Depay,3,2014-2022,Netherlands,Moordrecht,Netherlands,51.9865065,4.6698314
 Wahbi Khazri,3,2018-2022,Tunisia,Ajaccio,France,41.9263991,8.7376029
-Andrej Kramaric,3,2018-2022,Croatia,Zagreb,Croatia,45.84264135,15.962231476593626
-Cody Gakpo,3,2022,Netherlands,Eindhoven,Netherlands,51.4392648,5.478633
+Andrej Kramaric,3,2018-2022,Croatia,Zagreb,Croatia,45.84343877429883,15.956326032870622
+Zeljko Cajkovski,2,1950,Yugoslavia,Zagreb,Croatia,45.84410725032892,15.95469483761501
+Milan Badelj,1,2018,Croatia,Zagreb,Croatia,45.83760380065247,15.975923009742042
+Stjepan Bobek,1,1950-1954,Yugoslavia,Zagreb,Croatia,45.83029720334765,15.973451806260238
+Branko Zebec,1,1954-1958,Yugoslavia,Zagreb,Croatia,45.84654526888344,15.958567454087616
+Josko Gvardiol,1,2022,Croatia,Zagreb,Croatia,45.84570276854037,15.955616112632978
+Lovro Majer,1,2022,Croatia,Zagreb,Croatia,45.842458653481096,15.958723355006779
+Mislav Orsic,1,2022,Croatia,Zagreb,Croatia,45.830525712733014,15.970453334891847
+Cody Gakpo,3,2022,Netherlands,Eindhoven,Netherlands,51.435110312050455,5.484604341600553
+Phillip Cocu,2,1998-2006,Netherlands,Eindhoven,Netherlands,51.43657249556789,5.484191105372429
 Marcus Rashford,3,2022,England,Manchester,United Kingdom,53.4794892,-2.2451148
 Bukayo Saka,3,2022,England,Ealing,United Kingdom,51.5126553,-0.3051952
 Richarlison,3,2022,Brazil,Nova Venécia,Brazil,-18.7082527,-40.400152
 Goncalo Ramos,3,2022,Portugal,Olhão,Portugal,37.0270369,-7.8411287
-Alvaro Morata,3,2022,Spain,Madrid,Spain,40.4167047,-3.7035825
 Salah Assad,2,1982-1986,Algeria,Larbaâ Nath Irathen,Algeria,36.6374918,4.2028466
 Abdelmoumene Djabou,2,2014,Algeria,Sétif,Algeria,36.1892751,5.403493
-Islam Slimani,2,2014,Algeria,Algiers,Algeria,36.7753606,3.0601882
-Sergio Aguero,2,2018,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Luis Monti,2,1930-1934,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
+Islam Slimani,2,2014,Algeria,Algiers,Algeria,36.783526192504254,3.0485403079452382
+Rafik Halliche,1,2014,Algeria,Algiers,Algeria,36.76398971045514,3.0486834563796386
+Djamel Zidane,1,1982-1986,Algeria,Algiers,Algeria,36.78738333533479,3.0455071324275305
 Ariel Ortega,2,1994-1998-2002,Argentina,Libertador General San Martín,Argentina,-23.8093358,-64.7921741
-Marcos Rojo,2,2014-2018,Argentina,La Plata,Argentina,-34.9206797,-57.9537638
-Hector Yazalde,2,1974,Argentina,Avellaneda,Argentina,-34.6648394,-58.3628061
-Adolfo Zumelzu,2,1930,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
+Marcos Rojo,2,2014-2018,Argentina,La Plata,Argentina,-34.92984796243386,-57.950729168948634
+Martin Palermo,1,2010,Argentina,La Plata,Argentina,-34.919460981146514,-57.96804722550891
+Alejandro Scopelli,1,1930,Argentina,La Plata,Argentina,-34.92518818537485,-57.95894525160435
+Francisco Varallo,1,1930,Argentina,La Plata,Argentina,-34.92548039636051,-57.95764528216222
 Brett Holman,2,2010,Australia,Bankstown,Australia,-33.9171897,151.0335881
-Hans Horvath,2,1934,Austria-Hungary,,Austria,48.2233046,16.341677
-Robert Korner,2,1954,Austria,,Austria,48.2233046,16.341677
-Ernst Ocwirk,2,1954,Austria,Vienna,Austria,48.2083537,16.3725042
+Hans Horvath,2,1934,Austria-Hungary,,Austria,48.23649587598196,16.347182348029122
+Robert Korner,2,1954,Austria,,Austria,48.212671294611035,16.338186323998453
+Vaclav Hovorka,2,1958,Czech,,Czechoslovakia,50.095809711518704,14.414795931489737
+Alberto Galateo,1,1934,Argentina,,Argentina,-32.75512314122967,-60.7659064635634
+Karl Zischek,1,1934,Austria,,Austria,48.16984322359057,16.330494421590238
+Tomas Fernandez,1,1938,Cuba,,Spain,43.33704493840048,-4.0509184600171775
+Carlos Oliveira,1,1938,Cuba,,Cuba,21.95419188215991,-78.64563952714248
+Abdulaziz Al-Buloushi,1,1982,Kuwait,,Kuwait,29.36190756679632,47.988408295462406
+Hector Ortiz,1,1950,Mexico,,Mexico,19.393001980354818,-99.1368940098413
+Khalid Mubarak,1,1990,UAE,,UAE,24.271930144368714,54.5241102344103
 Walter Schachner,2,1978-1982,Austria,Leoben,Austria,47.3805128,15.0947756
 Philippe Albert,2,1990-1994,Belgium,Bouillon,Belgium,49.7949836,5.0672528
 Kevin De Bruyne,2,2014-2018,Belgium,Drongen,Belgium,51.0504639,3.6639157
@@ -282,143 +539,139 @@ Raoul Lambert,2,1970,Belgium,Bruges,Belgium,51.2085526,3.226772
 Dries Mertens,2,2014-2018,Belgium,Leuven,Belgium,50.879202,4.7011675
 Wilfried Van Moer,2,1970-1982,Belgium,Beveren,Belgium,51.21288495,4.249081329859443
 Jan Vertonghen,2,2014-2018,Belgium,Sint-Niklaas,Belgium,51.1646685,4.1395124
-Bernard Voorhoof,2,1930-1934-1938,Belgium,Lier,Belgium,51.131069,4.5696516
-Adriano,2,2006,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Jose Altafini,2,1958-1962,Brazil,Piracicaba,Brazil,-22.725165,-47.6493269
-Philippe Coutinho,2,2018,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Eder,2,1982,Brazil,Vespasiano,Brazil,-19.6940958,-43.9186521
 Elano,2,2010,Brazil,Iracemápolis,Brazil,-22.5869091,-47.5160966
-Fred,2,2006-2014,Brazil,Belo Horizonte,Brazil,-19.9225776,-43.9451356
 Jair,2,1950,Brazil,Quatis,Brazil,-22.4066444,-44.2577453
-Josimar,2,1986,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Julinho,2,1954,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
 David Luiz,2,2014,Brazil,Diadema,Brazil,-23.681347,-46.62052
 Moderato,2,1930,Brazil,Alegrete,Brazil,-29.790166,-55.794862
 Muller,2,1986-1990,Brazil,Campo Grande,Brazil,-20.4640173,-54.6162947
-Nelinho,2,1974-1978,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Oscar,2,2014,Brazil,Americana-Sao Paulo,Brazil,-22.7392463,-47.3306032
-Pinga,2,1954,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
 Robinho,2,2006-2010,Brazil,São Vicente,Brazil,-23.9627118,-46.3846595
 Ronaldinho,2,2002-2006,Brazil,Porto Alegre,Brazil,-30.0324999,-51.2303767
-Serginho,2,1982,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
-Thiago Silva,2,2014-2018,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Zagallo,2,1958-1962,Brazil,Atalaia - Alagoas,Brazil,-9.4843131,-36.0154002
 Zizinho,2,1950,Brazil,São Gonçalo - Rio de Janeiro,Brazil,-22.8219014,-43.0309252
-Georgi Asparukhov,2,1962-1966-1970,Bulgaria,Sofia,Bulgaria,42.6977028,23.3217359
-Hristo Bonev,2,1970-1974,Bulgaria,Plovdiv,Bulgaria,42.1418541,24.7499297
+Georgi Asparukhov,2,1962-1966-1970,Bulgaria,Sofia,Bulgaria,42.70643893998541,23.3363980749255
+Emil Kostadinov,1,1994-1998,Bulgaria,Sofia,Bulgaria,42.705304071393215,23.314779180065944
+Asparukh Nikodimov,1,1970-1974,Bulgaria,Sofia,Bulgaria,42.693407841114244,23.314895770925716
+Georgi Sokolov,1,1962,Bulgaria,Sofia,Bulgaria,42.68332294487753,23.315367548601962
+Dobromir Zhechev,1,1962-1970,Bulgaria,Sofia,Bulgaria,42.70306966847032,23.307452597637774
 Iordan Letchkov,2,1994,Bulgaria,Sliven,Bulgaria,42.6817633,26.3153528
 Nasko Sirakov,2,1986-1994,Bulgaria,Stara Zagora,Bulgaria,42.4248111,25.6257479
-Patrick Mboma,2,1998-2002,Cameroon,Douala,Cameroon,4.0429408,9.706203
 Francois Omam Biyik,2,1990-1994-1998,Cameroon,Sackbayeme,Cameroon,4.0525817,10.5701519
-Jean Beausejour,2,2010-2014,Chile,Santiago,Chile,-33.4377756,-70.6504502
 Atilio Cremaschi,2,1950,Chile,Punta Arenas,Chile,-53.1625688,-70.907822
-Ruben Marcos,2,1966,Chile,Osorno,Chile,-40.5732371,-73.1358145
-Jaime Ramirez,2,1962,Chile,Santiago,Chile,-33.4377756,-70.6504502
 Eladio Rojas,2,1962,Chile,Tierra Amarilla,Chile,-27.4680505,-70.2649307
 Alexis Sanchez,2,2014,Chile,Tocopilla,Chile,-22.0887189,-70.1960657
-Jorge Toro,2,1962,Chile,Santiago,Chile,-33.4377756,-70.6504502
 Juan Cuadrado,2,2014-2018,Colombia,Necoclí,Colombia,8.4242821,-76.784019
 Jackson Martinez,2,2014,Colombia,Quibdó,Colombia,5.6923407,-76.6583801
-Bernardo Redin,2,1990,Colombia,Cali,Colombia,3.4517923,-76.5324943
-Adolfo Valencia,2,1994-1998,Colombia,Buenaventura,Colombia,3.8899335,-77.0786047
-Bryan Ruiz,2,2014,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
+Bernardo Redin,2,1990,Colombia,Cali,Colombia,3.441233907596108,-76.54397930095648
+Harold Lozano,1,1994-1998,Colombia,Cali,Colombia,3.448893866154113,-76.52704522630484
+Adolfo Valencia,2,1994-1998,Colombia,Buenaventura,Colombia,3.8990864557828693,-77.07109266487956
+Marino Klinger,1,1962,Colombia,Buenaventura,Colombia,3.9009906579787152,-77.09123051950357
+Freddy Rincon,1,1990-1994-1998,Colombia,Buenaventura,Colombia,3.9012917624003705,-77.08442312414977
+Bryan Ruiz,2,2014,Costa Rica,San José,Costa Rica,9.936443160823341,-84.0930203029851
+Joel Campbell,1,2014,Costa Rica,San José,Costa Rica,9.923810592594176,-84.07671951293557
+Roger Flores,1,1990,Costa Rica,San José,Costa Rica,9.943477959532428,-84.08592043933629
+Ronald Gonzalez,1,1990,Costa Rica,San José,Costa Rica,9.920577109638568,-84.0867717479666
+Marcos Urena,1,2014,Costa Rica,San José,Costa Rica,9.929680890307887,-84.07451881488447
+Kendall Waston,1,2018,Costa Rica,San José,Costa Rica,9.943070092286133,-84.079685399278
+Mauricio Wright,1,2002,Costa Rica,San José,Costa Rica,9.933889166667102,-84.07118624984948
 Wilfried Bony,2,2014,Côte d'Ivoire,Bingerville,Côte d'Ivoire,5.3577727,-3.8885591
-Aruna Dindane,2,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.320357,-4.016107
-Didier Drogba,2,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.320357,-4.016107
+Aruna Dindane,2,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.314513512628693,-4.0239160986907025
+Didier Drogba,2,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.312264685252949,-4.015553624072307
+Bakary Kone,1,2006,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.3322332325291715,-4.020113234485471
+Romaric,1,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.328407022935028,-4.025004323881305
 Gervinho,2,2014,Côte d'Ivoire,Anyama,Côte d'Ivoire,5.4958898,-4.056921
 Luka Modric,2,2018,Croatia,Zadar,Croatia,44.1168594,15.2353257
 Ivica Olic,2,2002-2006-2014,Croatia,Davor,Croatia,45.1133914,17.514995
 Hector Socorro,2,1938,Cuba,Cuba,Cuba,23.0131338,-80.8328748
-Michal Bilek,2,1990,Czech,Prague,Czechia,50.0874654,14.4212535
-Milan Dvorak,2,1958,Czech,Prague,Czechia,50.0874654,14.4212535
-Vaclav Hovorka,2,1958,Czech,,Czechoslovakia,50.09962910007528, 14.415676734973518
-Antonin Panenka,2,1982,Czech,Prague,Czechia,50.0874654,14.4212535
 Ladislav Petras,2,1970,Czech,Prievidza,Slovakia,48.7718361,18.6234916
 Antonin Puc,2,1934-1938,Czech,Jinonice,Czechia,50.0499638,14.3669683
-Frantisek Svoboda,2,1934,Czech,Vienna,Austria,48.2083537,16.3725042
-Tomas Rosicky,2,2006,Czech Republic,Prague,Czechia,50.0874654,14.4212535
-Brian Laudrup,2,1998,Denmark,Vienna,Austria,48.2083537,16.3725042
 Michael Laudrup,2,1986-1998,Denmark,Frederiksberg,Denmark,55.678016,12.5326186
-Dennis Rommedahl,2,2002-2010,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
-Juan Quintero,2,2014-2018,Colombia,Medellín,Colombia,6.2443382,-75.573553
-Carlos Tenorio,2,2002-2006,Ecuador,Esmeraldas,Ecuador,0.7343619,-79.3858867
+Juan Quintero,2,2014-2018,Colombia,Medellín,Colombia,6.230284916581849,-75.56475983259948
+Francisco Zuluaga,1,1962,Colombia,Medellín,Colombia,6.2413480253789,-75.56725011495053
 Abdel Fawzi,2,1934,Egypt,Port Said,Egypt,31.263235,32.305505
 Mohamed Salah,2,2018,Egypt,Nagrig,Egypt,30.974200,30.867670
 Ivor Broadis,2,1954,England,Isle of Dogs,United Kingdom,51.4978447,-0.0168854
-Tom Finney,2,1950-1954-1958,England,Preston - Lancashire,United Kingdom,53.7593363,-2.6992717
+Tom Finney,2,1950-1954-1958,England,Preston - Lancashire,United Kingdom,53.74854170449386,-2.6952234449923465
+Steve Sumner,1,1982,New Zealand,Preston - Lancashire,United Kingdom,53.76885043510611,-2.696070348520769
 Ron Flowers,2,1962,England,Edlington,United Kingdom,53.4701305,-1.1988364
 Trevor Francis,2,1982,England,Plymouth,United Kingdom,50.3712659,-4.1425658
 Derek Kevan,2,1958,England,Ripon,United Kingdom,54.1362169,-1.5238006
-Martin Peters,2,1966-1970,England,Plaistow - Newham,United Kingdom,51.5311544,0.0166833
+Martin Peters,2,1966-1970,England,Plaistow - Newham,United Kingdom,51.54509576371103,0.008376815195537056
+Sol Campbell,1,1998-2002-2006,England,Plaistow - Newham,United Kingdom,51.51634818916932,0.007487154887400135
 Bryan Robson,2,1982-1986-1990,England,Chester-le-Street,United Kingdom,54.8543237,-1.5750431
 Alan Shearer,2,1998,England,Gosforth,United Kingdom,55.0045826,-1.6196367
 John Stones,2,2018,England,Barnsley,United Kingdom,53.5527719,-1.4827755
 Andre Maschinot,2,1930,France,Valdoie,France,47.6651582,6.8413823
-Jean Pierre Papin,2,1986,France,Boulogne-sur-Mer,France,50.7259985,1.6118771
+Jean Pierre Papin,2,1986,France,Boulogne-sur-Mer,France,50.724159588868126,1.6012829613873132
+Franck Ribery,1,2006-2010,France,Boulogne-sur-Mer,France,50.711482317280094,1.617397685410335
 Emmanuel Petit,2,1998-2002,France,Dieppe,France,49.9246182,1.0791444
 Paul Pogba,2,2014-2018,France,Lagny-sur-Marne,France,48.8773018,2.7056056
-Didier Six,2,1978-1982,France,Lille,France,50.6365654,3.0635282
+Didier Six,2,1978-1982,France,Lille,France,50.6445555738906,3.0689876407753363
+Raphael Varane,1,2018,France,Lille,France,50.633463334084205,3.0766579871935598
 Yannick Stopyra,2,1986,France,Troyes,France,48.2971626,4.0746257
 Lilian Thuram,2,1998-2002-2006,France,Pointe-à-Pitre,France,16.2408636,-61.5334077
-Patrick Vieira,2,1998-2002-2006,France,Dakar,Senegal,14.693425,-17.447938
 Jean Vincent,2,1954-1958,France,Labeuvrière,France,50.5203758,2.5631102
 Maryan Wisnieski,2,1958,France,Calonne-Ricouart,France,50.4869689,2.481762
-Klaus Allofs,2,1986,Germany,Düsseldorf,Germany,51.2254018,6.7763137
+Klaus Allofs,2,1986,Germany,Düsseldorf,Germany,51.21660530275989,6.787628261788433
+Karl Hohmann,2,1934,Germany,Düsseldorf,Germany,51.23233559844582,6.782099201049774
+Stanislaus Kobierski,1,1934,Germany,Düsseldorf,Germany,51.23725636974223,6.786373938301321
 Klaus Fischer,2,1978-1982,Germany,West Germany,Germany,53.7979873,-1.7403375
 Heinz Flohe,2,1974-1978,Germany,Cologne,Germany,50.938361,6.959974
 Mario Goetze,2,2014,Germany,Memmingen,Germany,47.9867696,10.181319
-Karl Hohmann,2,1934,Germany,Düsseldorf,Germany,51.2254018,6.7763137
 Mats Hummels,2,2014,Germany,Bergisch Gladbach,Germany,50.9929303,7.1277379
-Sami Khedira,2,2010-2014,Germany,Stuttgart,Germany,48.7784485,9.1800132
-Ernest Lehner,2,1934-1938,Germany,Augsburg,Germany,48.3668041,10.8986971
+Sami Khedira,2,2010-2014,Germany,Stuttgart,Germany,48.78510285970808,9.174513150544653
+Hansi Muller,1,1978-1982,Germany,Stuttgart,Germany,48.78085501010847,9.187951370748657
+Serge Gnabry,1,2022,Germany,Stuttgart,Germany,48.78676893201073,9.181341915801532
 Dieter Muller,2,1978,Germany,Offenbach am Main,Germany,50.1055002,8.7610698
 Oliver Neuville,2,2002-2006,Germany,Locarno,Switzerland,46.1695112,8.7954217
-Mesut Ozil,2,2010-2014,Germany,Gelsenkirchen,Germany,51.5110321,7.0960124
-Bastian Schweinsteiger,2,2006-2010,Germany,Kolbermoor,Germany,47.8556623,12.0595795
+Mesut Ozil,2,2010-2014,Germany,Gelsenkirchen,Germany,51.51427569740921,7.094062302361876
+Ruediger Abramczik,1,1978,Germany,Gelsenkirchen,Germany,51.51962507422737,7.110628187468782
+Berni Klodt,1,1954-1958,Germany,Gelsenkirchen,Germany,51.51039838807505,7.093591071054324
+Ilkay Gundogan,1,2022,Germany,Gelsenkirchen,Germany,51.500503866555924,7.09512309199857
 Joachim Streich,2,1974,Germany,Wismar,Germany,53.8909832,11.4647932
 Sulley Muntari,2,2006-2010,Ghana,Konongo,Ghana,6.6231481,-1.2148111
-Emmanuel Sanon,2,1974,Haiti,Port-au-Prince,Haiti,18.547327,-72.3395928
-Laszlo Fazekas,2,1978-1982,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Mihaly Lantos,2,1954,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Kalman Meszoly,2,1962-1966,Hungary,Budapest,Hungary,47.4979937,19.0403594
+Emmanuel Sanon,2,1974,Haiti,Port-au-Prince,Haiti,18.537623379625597,-72.32532644028667
+Joseph Gaetjens,1,1950,USA,Port-au-Prince,Haiti,18.535907445194795,-72.33986437573743
 Tibor Nyilasi,2,1978-1982,Hungary,Várpalota,Hungary,47.198695,18.138157
-Peter Palotas,2,1954,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Gabor Poloskei,2,1982,Hungary,Mosonmagyaróvár,Hungary,47.8731793,17.2722342
-Pal Titkos,2,1938,Hungary,Budapest,Hungary,47.4979937,19.0403594
+Gabor Poloskei,2,1982,Hungary,Mosonmagyaróvár,Hungary,47.864980181099206,17.265075133185775
+Jozsef Toth,1,1978-1982,Hungary,Mosonmagyaróvár,Hungary,47.881823040976094,17.259606800634817
 Dino Baggio,2,1994-1998,Italy,Camposampiero,Italy,45.57176,11.9319294
 Romeo Benetti,2,1974-1978,Italy,Albaredo d'Adige,Italy,45.3170457,11.2744882
-Roberto Bettega,2,1978,Italy,Turin,Italy,45.0677551,7.6824892
+Roberto Bettega,2,1978,Italy,Turin,Italy,45.054884084650446,7.680559220360748
+Claudio Marchisio,1,2014,Italy,Turin,Italy,45.07589695155713,7.675348097501195
+Sandro Mazzola,1,1966-1970-1974,Italy,Turin,Italy,45.05536926131917,7.685358465355555
 Roberto Boninsegna,2,1970,Italy,Mantua,Italy,45.1692628,10.670836515673878
 Giacomo Bulgarelli,2,1962-1966,Italy,Medicina,Italy,44.4766739,11.6383385
 Riccardo Carapellese,2,1950,Italy,Cerignola,Italy,41.2648121,15.8996651
 Alessandro Del Piero,2,1998-2002-2006,Italy,Conegliano,Italy,45.8862172,12.2977566
-Giovanni Ferrari,2,1934-1938,Italy,Alessandria,Italy,44.83495335,8.745030418605868
 Vincenzo Iaquinta,2,2006-2010,Italy,Cutro,Italy,39.0354447,16.9792627
-Marco Materazzi,2,2002-2006,Italy,Lecce,Italy,40.152217300000004,18.2260628338229
-Egisto Pandolfini,2,1950-1954,Italy,Lastra a Signa,Italy,43.770985,11.107215
+Marco Materazzi,2,2002-2006,Italy,Lecce,Italy,40.1378709079822,18.223418412406595
+Franco Causio,1,1974-1978-1982,Italy,Lecce,Italy,40.144500819689604,18.21396818077183
+Egisto Pandolfini,2,1950-1954,Italy,Lastra a Signa,Italy,43.77266798592592,11.115753641570532
+Fulvio Nesti,1,1954,Italy,Lastra a Signa,Italy,43.784072194568445,11.09890744676948
 Marco Tardelli,2,1978-1982,Italy,Capanne di Careggine,Italy,44.0689633,10.3173972
 Luca Toni,2,2006,Italy,Pavullo nel Frignano,Italy,44.339694,10.8341135
 Theodore Whitmore,2,1998,Jamaica,Montego Bay,Jamaica,18.4724603,-77.9217357
 Junichi Inamoto,2,2002-2006-2010,Japan,Kagoshima Prefecture,Japan,31.521587,130.5474077
-Alberto Garcia Aspe,2,1994-1998-2002,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Jared Borgetti,2,2002-2006,Mexico,Culiacán,Mexico,24.7978965,-107.393395
 Omar Bravo,2,2006,Mexico,Los Mochis,Mexico,25.7928058,-108.990188
-Luis Garcia,2,1994,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Ricardo Pelaez,2,1994-1998,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Fernando Quirarte,2,1986,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
-Manuel Rosas,2,1930,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Javier Valdivia,2,1970,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
-Salaheddine Bassir,2,1998,Morocco,Casablanca,Morocco,33.5950627,-7.6187768
+Salaheddine Bassir,2,1998,Morocco,Casablanca,Morocco,33.59053293933651,-7.613707497415591
+Abdelkarim Krimau,1,1986,Morocco,Casablanca,Morocco,33.6064708813476,-7.616069895670309
+Hassan Nader,1,1994,Morocco,Casablanca,Morocco,33.592847685685236,-7.606536369302343
+Juan Mujica,1,1970,Uruguay,Casablanca,Uruguay,-32.40451634318092,-58.16360855446227
+Achraf Dari,1,2022,Morocco,Casablanca,Morocco,33.60350817098376,-7.630718835451248
 Abdeljalil Hadda,2,1998,Morocco,Meknes,Morocco,33.897877,-5.5320345
 Abdelrazzak Khairi,2,1986,Morocco,Rabat,Morocco,34.02236,-6.8340222
 Ernie Brandts,2,1978,Netherlands,Nieuw-Dijk,Netherlands,51.9314584,6.1553049
-Phillip Cocu,2,1998-2006,Netherlands,Eindhoven,Netherlands,51.4392648,5.478633
 Ronald De Boer,2,1994-1998,Netherlands,Hoorn,Netherlands,52.622545450000004,5.067726588147824
 Arie Haan,2,1974-1978,Netherlands,Finsterwolde,Netherlands,53.1983394,7.0833842
 Klaas Jan Huntelaar,2,2010-2014,Netherlands,Voor-Drempt,Netherlands,52.034943,6.084509
 Wim Jonk,2,1994-1998,Netherlands,Volendam,Netherlands,52.4963759,5.0682736
-Patrick Kluivert,2,1998,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Daniel Amokachi,2,1994-1998,Nigeria,Kaduna,Nigeria,10.3825318,7.8533226
+Daniel Amokachi,2,1994-1998,Nigeria,Kaduna,Nigeria,10.385477795247697,7.852740511597589
+Tijani Babangida,1,1998,Nigeria,Kaduna,Nigeria,10.395259828436302,7.848977892497566
+Rasheed Yekini,1,1994-1998,Nigeria,Kaduna,Nigeria,10.377003931166099,7.84433872175617
 Emmanuel Amunike,2,1994,Nigeria,Eziobodo,Nigeria,5.367380,7.004300
 Kalu Uche,2,2010,Nigeria,Aba - Abia,Nigeria,5.112735,7.364349
 Pak Seung Zin,2,1966,North Korea,Wonsan,North Korea,39.1725946,127.4284243
@@ -427,34 +680,33 @@ Kjetil Rekdal,2,1994-1998,Norway,Molde,Norway,62.60162565,8.138620840166594
 Juan Aguero,2,1958,Paraguay,Caacupé,Paraguay,-25.3857574,-57.1404863
 Florencio Amarilla,2,1958,Paraguay,Coronel Bogado,Argentina,-33.3156267,-60.6028608
 Roberto Cabanas,2,1986,Paraguay,Pilar,Paraguay,-26.8582494,-58.3034787
-Jose Parodi,2,1958,Paraguay,Luque,Paraguay,-25.2665417,-57.4926928
-Julio Cesar Romero,2,1986,Paraguay,Luque,Paraguay,-25.2665417,-57.4926928
-Jorge Romero,2,1958,Paraguay,Luque,Paraguay,-25.2665417,-57.4926928
-Alberto Gallardo,2,1970,Peru,Lima,Peru,-12.0621065,-77.0365256
+Jose Parodi,2,1958,Paraguay,Luque,Paraguay,-25.277407355361557,-57.49028501472346
+Julio Cesar Romero,2,1986,Paraguay,Luque,Paraguay,-25.274811437881123,-57.49824301781666
+Jorge Romero,2,1958,Paraguay,Luque,Paraguay,-25.273798315874995,-57.47816618167164
 Wlodimierz Smolarek,2,1982-1986,Poland,Aleksandrów ?ódzki,Poland,51.81031217564766, 19.302882082816215
-Maniche,2,2006,Portugal,Lisbon,Portugal,38.7077507,-9.1365919
+Maniche,2,2006,Portugal,Lisbon,Portugal,38.71588912044956,-9.130102515742415
+Beto,1,2002,Portugal,Lisbon,Portugal,38.70152229454948,-9.144781358089222
+Ricardo Quaresma,1,2018,Portugal,Lisbon,Portugal,38.709848041785726,-9.148866911901441
 Simao,2,2006-2010,Portugal,Constantim,Portugal,41.2823706,-7.697963344373788
 Tiago,2,2006-2010,Portugal,Viana do Castelo,Portugal,41.8803257,-8.523255293554344
 Silviu Bindea,2,1934-1938,Romania,Blaj,Romania,46.1731211,23.92900785567878
 ?tefan Dobay,2,1934-1938,Romania,Dumbr?vi?a,Romania,45.8031705618807, 21.23479129447048
-Florea Dumitrache,2,1970,Romania,Bucharest,Romania,44.4361414,26.1027202
-Ilie Dumitrescu,2,1994-1998,Romania,Bucharest,Romania,44.4361414,26.1027202
-Dan Petrescu,2,1994-1998,Romania,Bucharest,Romania,44.4361414,26.1027202
-Fuad Amin,2,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
-Kenny Dalglish,2,1974-1978-1982,Scotland,Glasgow,United Kingdom,55.8606182,-4.2497933
+Kenny Dalglish,2,1974-1978-1982,Scotland,Glasgow,United Kingdom,55.84727169313074,-4.264146398612951
+John Wark,2,1982,Scotland,Glasgow,United Kingdom,55.872177093706505,-4.240568960110158
+Ray Houghton,1,1990-1994,Ireland,Glasgow,United Kingdom,55.857063992746596,-4.236034229717412
+Steve Archibald,1,1982-1986,Scotland,Glasgow,United Kingdom,55.8592560975348,-4.245464758217442
+Mo Johnston,1,1990,Scotland,Glasgow,United Kingdom,55.84854592161783,-4.241565633955504
 Archie Gemmill,2,1978,Scotland,Paisley,United Kingdom,55.8455828,-4.4239646
-John Wark,2,1982,Scotland,Glasgow,United Kingdom,55.8606182,-4.2497933
-Henri Camara,2,2002,Senegal,Dakar,Senegal,14.693425,-17.447938
-Shaun Bartlett,2,1998,South Africa,Cape Town,South Africa,-33.928992,18.417396
-Benny Mccarthy,2,1998-2002,South Africa,Cape Town,South Africa,-33.928992,18.417396
-Hong Myung Bo,2,1990-1994-1998-2002,South Korea,Seoul,South Korea,37.5666791,126.9782914
+Shaun Bartlett,2,1998,South Africa,Cape Town,South Africa,-33.9252760931122,18.424276500150892
+Benny Mccarthy,2,1998-2002,South Africa,Cape Town,South Africa,-33.933393950201214,18.409599915665012
+Quinton Fortune,1,1998-2002,South Africa,Cape Town,South Africa,-33.92302156045382,18.421551377414882
 Hwang Sun Hong,2,1990-1994-2002,South Korea,Yesan,Sierra Leone,8.2508618,-11.9057859
-Lee Chung Yong,2,2010,South Korea,Seoul,South Korea,37.5666791,126.9782914
-Lee Jung Soo,2,2010,South Korea,Gimhae,South Korea,35.2310947,128.8908228
-Yoo Sang Chul,2,1998-2002,South Korea,Seoul,South Korea,37.5666791,126.9782914
+Lee Jung Soo,2,2010,South Korea,Gimhae,South Korea,35.240370552065194,128.9038034241767
+Park Chang Sun,1,1986,South Korea,Gimhae,South Korea,35.2214484671205,128.90417428547
 Xabi Alonso,2,2006-2010-2014,Spain,Tolosa,Spain,43.1386097,-2.0723558
 Ramon Maria Caldere,2,1986,Spain,Vila,Spain,39.613432,2.8829026938823548
-Luis Enrique,2,1994-1998-2002,Spain,Gijón,Spain,43.5449422,-5.66275
+Luis Enrique,2,1994-1998-2002,Spain,Gijón,Spain,43.55687651098407,-5.668494989285383
+Eloy Olaya,1,1986,Spain,Gijón,Spain,43.546809063027695,-5.676493358751502
 Andres Iniesta,2,2006-2010,Spain,Fuentealbilla,Spain,39.2673015,-1.5492105
 Jose Iraragorri,2,1934,Spain,Basauri,Spain,43.2341364,-2.891012
 Sune Andersson,2,1950,Sweden,Södertälje,Sweden,59.1964289,17.6271663
@@ -463,122 +715,85 @@ Hans Jeppsson,2,1950,Sweden,Kungsbacka,Sweden,57.466667,12.166667
 Nils Liedholm,2,1958,Sweden,Valdemarsvik,Sweden,58.2,16.6
 Roland Sandberg,2,1974,Sweden,Karlskrona,Sweden,56.1621073,15.5866422
 Blerim Dzemaili,2,2014-2018,Switzerland,Tetovo,North Macedonia,42.0068297,20.9728556
-Alexander Frei,2,2006-2010,Switzerland,Basel,Switzerland,47.5581077,7.5878261
 Adrian Knup,2,1994,Switzerland,Liestal,Switzerland,47.4839723,7.7347783
-Granit Xhaka,2,2014-2018,Switzerland,Basel,Switzerland,47.5581077,7.5878261
-Umit Davala,2,2002,Turkey,Mannheim,Germany,49.4892913,8.4673098
+Umit Davala,2,2002,Turkey,Mannheim,Germany,49.49276982533584,8.474687315434068
+Otto Siffling,1,1934,Germany,Mannheim,Germany,49.47668043988464,8.47903777718786
 Lefter Kucukandonyadis,2,1954,Turkey,Büyükada,Turkey,40.856354499999995,29.119036629831754
 Andriy Shevchenko,2,2006,Ukraine,Dvirkivshchyna,Ukraine,50.254421,31.876413
-Julio Abbadie,2,1954,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Hector Castro,2,1930,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
 Luis Cubilla,2,1962-1970-1974,Uruguay,Paysandú,Uruguay,-32.3217257,-58.0892136
-Pablo Dorado,2,1930,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
 Santos Iriarte,2,1930,Uruguay,Canelones,Uruguay,-34.6222482,-55.9903797
 Jose Sasia,2,1962,Uruguay,Treinta y Tres,Uruguay,-33.0,-54.25
-Obdulio Varela,2,1950-1954,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Bart Mcghee,2,1930,USA,Edinburgh,United Kingdom,55.9533456,-3.1883749
-John Souza,2,1950,USA,Fall River,United States,41.7010642,-71.1546367
-Anatoli Ilyin,2,1958,USSR,Moscow,Russia,55.7504461,37.6174943
+Bart Mcghee,2,1930,USA,Edinburgh,United Kingdom,55.947534458581345,-3.187992114723893
+Jimmy Murray,1,1958,Scotland,Edinburgh,United Kingdom,55.96399318052156,-3.191798669364058
+Graeme Souness,1,1978-1982-1986,Scotland,Edinburgh,United Kingdom,55.941798249061655,-3.1819853040587267
+Gordon Strachan,1,1982-1986,Scotland,Edinburgh,United Kingdom,55.959537087642126,-3.1918489781084
 Viktor Ponedelnik,2,1962,USSR,Rostov-on-Don,Russia,47.2216548,39.7096061
 Ivan Yaremchuk,2,1986,USSR,Velykyy Bychkiv,Ukraine,47.974276594147724, 24.005208185771767
 Aleksandr Zavarov,2,1986-1990,USSR,Luhansk,Ukraine,49.2724587,38.9150477
-Ivor Allchurch,2,1958,Wales,Swansea,United Kingdom,51.6195955,-3.9459248
-Zeljko Cajkovski,2,1950,Yugoslavia,Zagreb,Croatia,45.84264135,15.962231476593626
+Ivor Allchurch,2,1958,Wales,Swansea,United Kingdom,51.61741580503112,-3.9570883617306887
+John Charles,1,1958,Wales,Swansea,United Kingdom,51.61727613757926,-3.942400082637332
+Terry Medwin,1,1958,Wales,Swansea,United Kingdom,51.610859225387195,-3.9412513792279933
 Davor Jozic,2,1990,Yugoslavia,Konjic,Bosnia and Herzegovina,43.6544405,17.9606621
-Stanislav Karasi,2,1974,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
-Slobodan Komljenovic,2,1998,Yugoslavia,Frankfurt,Germany,50.1106444,8.6820917
+Slobodan Komljenovic,2,1998,Yugoslavia,Frankfurt,Germany,50.11798578617304,8.688958503771742
+Andreas Möller,1,1990-1994-1998,Germany,Frankfurt,Germany,50.12162076210427,8.669905471151779
+Jermaine Jones,1,2014,USA,Frankfurt,Germany,50.116438387937826,8.688758945601192
 Darko Pancev,2,1990,Yugoslavia,Skopje,North Macedonia,41.9961816,21.4319213
-Aleksandar Petakovic,2,1958,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
-Ivica Surjak,2,1974-1982,Yugoslavia,Split,Croatia,43.5116383,16.4399659
 Kosta Tomasevic,2,1950,Yugoslavia,Stari Banovci,Serbia,44.9822297,20.2812604
-Michy Batshuayi,2,2018-2022,Belgium,Brussels,Belgium,50.8465573,4.351697
-Daley Blind,2,2014-2022,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Pepe,2,2018-2022,Portugal,Maceió,Brazil,-9.6476843,-35.7339264
+Michy Batshuayi,2,2018-2022,Belgium,Brussels,Belgium,50.83338289296254,4.350277038943947
+Adnan Januzaj,1,2018,Belgium,Brussels,Belgium,50.83742011731728,4.361292900974931
+Pepe,2,2018-2022,Portugal,Maceió,Brazil,-9.640615887897509,-35.724783739850594
+Roberto Firmino,1,2018,Brazil,Maceió,Brazil,-9.637366605805367,-35.72895691189143
 Youssef En-Nesyri,2,2022,Morocco ,Fez,Morocco,34.0346534,-5.0161926
 Wout Weghorst,2,2022,Netherlands ,Borne,Netherlands,52.3004342,6.754922548726859
 Bruno Fernandes,2,2022,Portugal,Maia,Portugal,41.237345649999995,-8.629998173364326
-Rafael Leao,2,2022,Portugal,Almada,Portugal,38.6831302,-9.1576301
-Robert Lewandowski,2,2022,Poland,Warsaw,Poland,52.2319581,21.0067249
+Rafael Leao,2,2022,Portugal,Almada,Portugal,38.681824370642225,-9.164860808744349
+Varela,1,2014,Portugal,Almada,Portugal,38.942261521007914,-9.332326188866954
+Robert Lewandowski,2,2022,Poland,Warsaw,Poland,52.23433821319904,20.991752373182567
+Marcin Zewlakow,1,2002,Poland,Warsaw,Poland,52.22585822891804,20.995849419848653
 Ritsu Doan,2,2022,Japan,Amagasaki,Japan,34.7288995,135.412989
 Ferran Torres,2,2022,Spain,Foios,Spain,39.5381541,-0.3561396
-Breel Embolo,2,2022,Switzerland,Yaoundé,Cameroon,3.8689867,11.5213344
 Mehdi Taremi,2,2022,Iran,Bushehr,Iran,28.8936645,51.3204877
 Salem Al-Dawsari,2,2022,Saudi Arabia,Wadi ad-Dawasir,Saudi Arabia,20.4602516,44.799553
 Kai Havertz,2,2022,Germany,Aachen,Germany,50.776351,6.083862
 Niclas Fullkrug,2,2022,Germany,Hanover,Germany,52.3744779,9.7385532
 Vincent Aboubakar,2,2022,Cameroon,Garoua,Cameroon,9.3070698,13.3934527
-Aleksandr Mitrovic,2,2022,Serbia,Smederevo,Serbia,44.6651048,20.9271115
+Aleksandr Mitrovic,2,2022,Serbia,Smederevo,Serbia,44.6747714025326,20.92564750185301
+Aleksandar Mitrovic,1,2018,Serbia,Smederevo,Serbia,44.66607654542849,20.93734409092733
+Djordje Vujadinovic,1,1930,Yugoslavia,Smederevo,Serbia,44.65083311366978,20.917977697325025
 Mohammed Kudus,2,2022,Ghana,Nima,Ghana,5.5820252,-0.1987685
 Goikoetxea,1,1986,Spain,Alonsotegi,Spain,43.2445791,-2.9897706
 Lakhdar Belloumi,1,1982-1986,Algeria,Mascara,Algeria,35.397838500000006,0.24301949927219488
 Tedj Bensaoula,1,1982,Algeria,Tessala,Algeria,35.2434637,-0.7725438
-Yacine Brahimi,1,2014,Algeria,Paris,France,48.8588897,2.3200410217200766
 Sofiane Feghouli,1,2014,Algeria,Levallois-Perret,France,48.892956,2.2881683
-Rafik Halliche,1,2014,Algeria,Algiers,Algeria,36.7753606,3.0601882
 Rabah Madjer,1,1982-1986,Algeria,Hussein Dey District,Algeria,36.7324436,3.0875358
-Djamel Zidane,1,1982-1986,Algeria,Algiers,Algeria,36.7753606,3.0601882
 Flavio Amado,1,2006,Angola,Luanda,Angola,-8.8272699,13.2439512
-Osvaldo Ardiles,1,1978-1982,Argentina,Córdoba,Argentina,-31.4166867,-64.1834193
-Ludovico Avio,1,1958,Argentina,Argentina,Argentina,-34.9964963,-64.9672817
+Ludovico Avio,1,1958,Argentina,Argentina,Argentina,-35.00346769649582,-64.97987207501926
+Ernesto Belis,1,1934,Argentina,Argentina,Argentina,-34.99123425800092,-64.96932358733496
 Ruben Ayala,1,1974,Argentina,Humboldt,Argentina,-31.395638644768493, -61.079855335546284
 Roberto Ayala,1,1998-2006,Argentina,Paraná,Argentina,-31.7330145,-60.5298511
-Carlos Babington,1,1974,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
 Abel Balbo,1,1990-1994,Argentina,Empalme Villa Constitución,Argentina,-33.2605466,-60.3803274
-Ernesto Belis,1,1934,Argentina,Argentina,Argentina,-34.9964963,-64.9672817
-Miguel Brindisi,1,1974,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
 Jose Brown,1,1986,Argentina,Ranchos,Argentina,-38.3974676,-60.2741342
-Esteban Cambiasso,1,2006,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
 Martin Demichelis,1,2010,Argentina,Justiniano Posse,Argentina,-32.883489,-62.6797946
 Ramon Diaz,1,1982,Argentina,La Rioja,Argentina,-29.9729781,-67.0487944
-Mario Evaristo,1,1930,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Hector Facundo,1,1962,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Alberto Galateo,1,1934,Argentina,,Argentina,-32.74088091757045,-60.75355220058126
 Gabriel Heinze,1,2006-2010,Argentina,Crespo,Argentina,-32.0307826,-60.3062469
-Ramon Heredia,1,1974,Argentina,Córdoba,Argentina,-31.4166867,-64.1834193
 Claudio Lopez,1,1998-2002,Argentina,Río Tercero,Argentina,-32.3746009,-63.4550363
-Norberto Menendez,1,1958,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
 Gabriel Mercado,1,2018,Argentina,Puerto Madryn,Argentina,-42.7729674,-65.0366104
 Pedro Monzon,1,1990,Argentina,Goya,Argentina,-29.1444046,-59.2649825
-Erminio Onega,1,1966,Argentina,Las Parejas,Argentina,-32.6818723,-61.5206966
-Martin Palermo,1,2010,Argentina,La Plata,Argentina,-34.9206797,-57.9537638
-Pedro Pasculli,1,1986,Argentina,Santa Fe,Argentina,-30.3154739,-61.1645076
-Mauricio Pineda,1,1998,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Oscar Ruggeri,1,1986-1990-1994,Argentina,Rosario,Argentina,-32.9595004,-60.6615415
-Jose Sanfilippo,1,1962,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Javier Saviola,1,2006,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Alejandro Scopelli,1,1930,Argentina,La Plata,Argentina,-34.9206797,-57.9537638
 Alberto Tarantini,1,1978-1982,Argentina,Ezeiza,Argentina,-34.81681415,-58.54742335052262
-Pedro Troglio,1,1990,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-Francisco Varallo,1,1930,Argentina,La Plata,Argentina,-34.9206797,-57.9537638
-Javier Zanetti,1,1998-2002,Argentina,Buenos Aires,Argentina,-34.6075682,-58.4370894
-John Aloisi,1,2006,Australia,Adelaide,Australia,-34.9281805,138.5999312
-Harry Kewell,1,2006-2010,Australia,Sydney,Australia,-33.8698439,151.2082848
-Craig Moore,1,2006-2010,Australia,Sydney,Australia,-33.8698439,151.2082848
-Pepi Bican,1,1934,Austria,Vienna,Austria,48.2083537,16.3725042
-Andreas Herzog,1,1990-1998,Austria,Vienna,Austria,48.2083537,16.3725042
+John Aloisi,1,2006,Australia,Adelaide,Australia,-34.931755460000865,138.6137002307148
+Craig Goodwin,1,2022,Australia,Adelaide,Australia,-34.91387695194904,138.5887844812359
 Reinhold Hintermaier,1,1982,Austria,Altheim,Austria,48.250022,13.2320404
 Karl Koller,1,1954-1958,Austria,Matzendorf-Hölles,Austria,47.88978675,16.194684994558063
-Alfred Korner,1,1954-1958,Austria,Vienna,Austria,48.2083537,16.3725042
-Erich Obermayer,1,1978-1982,Austria,Vienna,Austria,48.2083537,16.3725042
-Andeas Ogris,1,1990,Austria,Vienna,Austria,48.2083537,16.3725042
 Bruno Pezzey,1,1978-1982,Austria,Lauterach,Germany,48.2550946,9.5824418
-Toni Polster,1,1990-1998,Austria,Vienna,Austria,48.2083537,16.3725042
 Gerhard Rodax,1,1990,Austria,Tattendorf,Austria,47.9589755,16.302319
-Toni Schall,1,1934,Austria,Vienna,Austria,48.2083537,16.3725042
-Karl Sesta,1,1934,Austria,Simmering,Austria,48.1694815,16.419897106301242
 Matthias Sindelar,1,1934,Austria,Kozlov,Czechia,49.3791447,16.0786689
-Ivica Vastic,1,1998,Austria,Split,Croatia,43.5116383,16.4399659
-Karl Zischek,1,1934,Austria,,Austria,48.16342669456009, 16.34391758444507
 Nacer Chadli,1,2018,Belgium,Liège,Belgium,50.6450944,5.5736112
 Leo Clijsters,1,1990,Belgium,Bree,Belgium,51.1386239,5.622980505851396
 Ludo Coeck,1,1982,Belgium,Berchem,Belgium,50.8649231,4.2946734
-Henri Coppens,1,1954,Belgium,Antwerp,Belgium,51.2211097,4.3997081
 Alex Czerniatynski,1,1982,Belgium,Charleroi,Belgium,50.4120332,4.4436244
 Michel De Wolf,1,1986-1990-1994,Belgium,Nivelles,Belgium,50.5976885,4.3235854
 Stephane Demol,1,1986-1990,Belgium,Watermael-Boitsfort,Belgium,50.7981063,4.4176441
 Georges Grun,1,1986-1990-1994,Belgium,Schaerbeek,Belgium,50.8676041,4.3737121
-Henri Isemborghs,1,1938,Belgium,Antwerp,Belgium,51.2211097,4.3997081
-Adnan Januzaj,1,2018,Belgium,Brussels,Belgium,50.8465573,4.351697
 Thomas Meunier,1,2018,Belgium,Sainte-Ode,Belgium,50.016676149999995,5.559514064137734
 Luc Nilis,1,1994-1998,Belgium,Hasselt,Belgium,50.9303735,5.3378043
 Divock Origi,1,2014,Belgium,Ostend,Belgium,51.2258565,2.919496
@@ -590,120 +805,76 @@ Patrick Vervoort,1,1986-1990,Belgium,Beerse,Belgium,51.313529599999995,4.8375346
 Daniel Veyt,1,1986,Belgium,Baasrode,Belgium,51.0359382,4.1634796
 Johan Walem,1,2002,Belgium,Soignies,Belgium,50.579203,4.0685604
 Erwin Sanchez,1,1994,Bolivia,Santa Cruz de la Sierra,Bolivia,-17.7834936,-63.1820853
-Edin Dzeko,1,2014,Bosnia Herz,Sarajevo,Bosnia and Herzegovina,43.8519774,18.3866868
+Edin Dzeko,1,2014,Bosnia Herz,Sarajevo,Bosnia and Herzegovina,43.857879094798164,18.40129840059882
+Mario Stanic,1,1998-2002,Croatia,Sarajevo,Bosnia and Herzegovina,43.84234871386837,18.376113419828588
+Josip Katalinski,1,1974,Yugoslavia,Sarajevo,Bosnia and Herzegovina,43.866958690314156,18.400506395306916
 Vedad Ibisevic,1,2014,Bosnia Herz,Vlasenica,Bosnia and Herzegovina,44.183067,18.9419643
 Miralem Pjanic,1,2014,Bosnia Herz,Tuzla,Bosnia and Herzegovina,44.5391105,18.675193
-Carlos Alberto Torres,1,1970,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Alfredo ii,1,1950,Brazil,Jacareí,Brazil,-23.30528,-45.96583
-Renato Augusto,1,2018,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Jose Oscar Bernardi,1,1978-1982,Brazil,Monte Siao,Brazil,-22.432778,-46.572778
 Branco,1,1986-1990-1994,Brazil,Bagé,Brazil,-31.3314264,-54.1062808
 Roberto Carlos,1,1998-2002-2006,Brazil,Garça,Brazil,-22.2125766,-49.6547994
 Clodoaldo,1,1970,Brazil,Aracaju,Brazil,-10.9162061,-37.0774655
-Edinho,1,1978-1986,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Edmilson,1,2002,Brazil,Taquaritinga,Brazil,-21.407486,-48.5054848
 Fernandinho,1,2014,Brazil,Londrina,Brazil,-23.3112878,-51.1595023
-Roberto Firmino,1,2018,Brazil,Maceió,Brazil,-9.6476843,-35.7339264
-Friaca,1,1950,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Gerson,1,1966-1970,Brazil,Niterói,Brazil,-22.8884,-43.1147
-Juan,1,2006-2010,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Juninho Pernambucano,1,2006,Brazil,Recife,Brazil,-8.0584933,-34.8848193
+Gerson,1,1966-1970,Brazil,Niterói,Brazil,-22.89328843881788,-43.10206555449587
+Roberto,1,1938,Brazil,Niterói,Brazil,-22.87782118324604,-43.12677904264395
 Junior,1,2002,Brazil,Santo Antônio de Jesus,Brazil,-12.9689361,-39.260914
 Kaka,1,2002-2006-2010,Brazil,Gama-Federal District,Brazil,-16.0170857,-48.0653054
 Maicon,1,2010,Brazil,Novo Hamburgo,Brazil,-29.6905705,-51.1429035
 Maneca,1,1950,Brazil,Brazil,Brazil,-10.3333333,-53.2
-Gilberto Melo,1,2006-2010,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Paulinho,1,2018,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
 Rai,1,1994,Brazil,Ribeirao Preto,Brazil,-21.178333,-47.8066671
 Reinaldo,1,1978,Brazil,Ponte Nova,Brazil,-20.4164353,-42.90878
-Rildo,1,1966,Brazil,Recife,Brazil,-8.0584933,-34.8848193
-Roberto,1,1938,Brazil,Niterói,Brazil,-22.8884,-43.1147
-Ze Roberto,1,2006,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
-Djalma Santos,1,1954-1958-1962-1966,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
-Nilton Santos,1,1954-1958-1962,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
-Marcio Santos,1,1994,Brazil,São Paulo,Brazil,-23.5506507,-46.6333824
 Valdomiro,1,1974,Brazil,Criciúma,Brazil,-28.6789941,-49.3695627
 Zito,1,1958-1962,Brazil,Roseira,Brazil,-22.8980898,-45.3093218
 Daniel Borimirov,1,1994-1998,Bulgaria,Vidin,Bulgaria,43.8012835,22.679487436277284
-Dinko Dermendzhiev,1,1962-1966-1970,Bulgaria,Plovdiv,Bulgaria,42.1418541,24.7499297
 Plamen Getov,1,1986,Bulgaria,Sungurlare,Bulgaria,42.7631059,26.7772625
 Todor Kolev,1,1970,Bulgaria,Veliko Tarnovo,Bulgaria,43.2164885,25.611409300395785
-Emil Kostadinov,1,1994-1998,Bulgaria,Sofia,Bulgaria,42.6977028,23.3217359
-Asparukh Nikodimov,1,1970-1974,Bulgaria,Sofia,Bulgaria,42.6977028,23.3217359
-Georgi Sokolov,1,1962,Bulgaria,Sofia,Bulgaria,42.6977028,23.3217359
-Dobromir Zhechev,1,1962-1970,Bulgaria,Sofia,Bulgaria,42.6977028,23.3217359
 Eugene Ekeke,1,1990,Cameroon,Bonabéri,Cameroon,4.0822098,9.6649718
-David Embe,1,1994,Cameroon,Yaoundé,Cameroon,3.8689867,11.5213344
 Emmanuel Kunde,1,1982-1990,Cameroon,Ndom,Cameroon,4.5080617,10.8351802
 Joel Matip,1,2014,Cameroon,Bochum,Germany,51.4818111,7.2196635
-Gregoire Mbida,1,1982,Cameroon,Yaoundé,Cameroon,3.8689867,11.5213344
-Pierre Njanka,1,1998-2002,Cameroon,Douala,Cameroon,4.0429408,9.706203
 Sergio Ahumada,1,1974,Chile,Coquimbo,Chile,-30.7546652,-70.9005536
 Charles Aranguiz,1,2014,Chile,Puente Alto,Chile,-33.6095279,-70.5754736
-Mark Gonzalez,1,2010,Chile,Durban,South Africa,-29.861825,31.009909
+Mark Gonzalez,1,2010,Chile,Durban,South Africa,-29.85670662266396,30.99538629055989
+Siyabonga Nomvethe,1,2002-2010,South Africa,Durban,South Africa,-29.856938548101756,31.010907135167056
 Juan Letelier,1,1982,Chile,Valparaíso,Chile,-33.0458456,-71.6196749
 Rodrigo Millar,1,2010,Chile,Arauco,Chile,-37.246248,-73.3176399
 Gustavo Moscoso,1,1982,Chile,Oficina salitrera Pedro de Valdivia,Chile,-22.61632055,-69.66886436296328
 Miguel Neira,1,1982,Chile,Chiguayante,Chile,-36.9292478,-73.0237115
-Andres Prieto,1,1950,Chile,Santiago,Costa Rica,9.8694792,-83.7980749
-Fernando Riera,1,1950,Chile,Santiago,Chile,-33.4377756,-70.6504502
 Jorge Robledo,1,1950,Chile,Iquique,Chile,-20.2140657,-70.1524646
-Jose Sierra,1,1998,Chile,Santiago,Costa Rica,9.8694792,-83.7980749
 Jorge Valdivia,1,2014,Chile,Maracay,Venezuela,10.2375144,-67.5890216
-Eduardo Vargas,1,2014,Chile,Santiago,Chile,-33.4377756,-70.6504502
 Carlos Vidal,1,1930,Chile,Valdivia,Chile,-39.83234520300109, -73.23079379552458
 German Aceros,1,1962,Colombia,Bucaramanga,Colombia,7.1172633,-73.1156668
-Pablo Armero,1,2014,Colombia,Tumaco,Colombia,1.8077554,-78.7705977
-Marcos Coll,1,1962,Colombia,Barranquilla,Colombia,10.9810761,-74.7988827
-Radamel Falcao,1,2018,Colombia,Santa Marta,Colombia,11.2320988,-74.1950883
+Pablo Armero,1,2014,Colombia,Tumaco,Colombia,1.8149101195449089,-78.77001017890173
+Leider Preciado,1,1998,Colombia,Tumaco,Colombia,1.8076969111103989,-78.7660018261181
+Marcos Coll,1,1962,Colombia,Barranquilla,Colombia,10.995781731727172,-74.78946874068224
+Teofilo Gutierrez,1,2014,Colombia,Barranquilla,Colombia,10.991725392992855,-74.79363306909738
+Radamel Falcao,1,2018,Colombia,Santa Marta,Colombia,11.217435048748305,-74.18200330167157
+Carlos Valderrama,1,1990-1994-1998,Colombia,Santa Marta,Colombia,11.226995511097543,-74.20120876774247
 Herman Gaviria,1,1994,Colombia,Carepa,Colombia,7.79845155,-76.74603894250129
-Teofilo Gutierrez,1,2014,Colombia,Barranquilla,Colombia,10.9810761,-74.7988827
-Marino Klinger,1,1962,Colombia,Buenaventura,Colombia,3.8899335,-77.0786047
-Harold Lozano,1,1994-1998,Colombia,Cali,Colombia,3.4517923,-76.5324943
-Leider Preciado,1,1998,Colombia,Tumaco,Colombia,1.8077554,-78.7705977
 Antonio Rada,1,1962,Colombia,Sabanalarga,Colombia,6.920950550000001,-75.7820611226417
-Freddy Rincon,1,1990-1994-1998,Colombia,Buenaventura,Colombia,3.8899335,-77.0786047
-Carlos Valderrama,1,1990-1994-1998,Colombia,Santa Marta,Colombia,11.2320988,-74.1950883
-Francisco Zuluaga,1,1962,Colombia,Medellín,Colombia,6.2443382,-75.573553
-Joel Campbell,1,2014,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
-Juan Cayasso,1,1990,Costa Rica,Limón,Costa Rica,10.0971011,-83.33945429672625
+Juan Cayasso,1,1990,Costa Rica,Limón,Costa Rica,10.082563932996072,-83.34259031563684
+Winston Parks,1,2002,Costa Rica,Limón,Costa Rica,10.100558571968968,-83.34768918389543
+Keysher Fuller,1,2022,Costa Rica,Limón,Costa Rica,10.10276745608514,-83.33444388855555
+Yeltsin Tejeda,1,2022,Costa Rica,Limón,Costa Rica,10.101679648403879,-83.34636757149768
 Oscar Duarte,1,2014,Costa Rica,Catarina,Nicaragua,12.3744054,-85.6972982
-Roger Flores,1,1990,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
-Ronald Gonzalez,1,1990,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
 Hernan Medford,1,1990-2002,Costa Rica,San Jose Province,Costa Rica,9.9325427,-84.0795782
-Winston Parks,1,2002,Costa Rica,Limón,Costa Rica,10.0971011,-83.33945429672625
-Marcos Urena,1,2014,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
-Kendall Waston,1,2018,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
-Mauricio Wright,1,2002,Costa Rica,San José,Costa Rica,9.9325427,-84.0795782
-Bonaventure Kalou,1,2006,Côte d'Ivoire,Oumé,Côte d'Ivoire,6.3823941,-5.4175714
-Salomon Kalou,1,2010,Côte d'Ivoire,Oumé,Côte d'Ivoire,6.3823941,-5.4175714
-Bakary Kone,1,2006,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.320357,-4.016107
-Romaric,1,2006-2010,Côte d'Ivoire,Abidjan,Côte d'Ivoire,5.320357,-4.016107
+Bonaventure Kalou,1,2006,Côte d'Ivoire,Oumé,Côte d'Ivoire,6.370019409830471,-5.4166035197049
+Salomon Kalou,1,2010,Côte d'Ivoire,Oumé,Côte d'Ivoire,6.396869411136813,-5.4130373865172
 Yaya Toure,1,2006-2010,Côte d'Ivoire,Bouaké,Côte d'Ivoire,7.6906058,-5.0298408
-Milan Badelj,1,2018,Croatia,Zagreb,Croatia,45.84264135,15.962231476593626
 Niko Kovac,1,2002-2006,Croatia,Wedding,Germany,52.550123,13.34197
 Ivan Rakitic,1,2018,Croatia,Rheinfelden,Switzerland,47.5543859,7.7922905
-Ante Rebic,1,2018,Croatia,Split,Croatia,43.5116383,16.4399659
-Mario Stanic,1,1998-2002,Croatia,Sarajevo,Bosnia and Herzegovina,43.8519774,18.3866868
-Tomas Fernandez,1,1938,Cuba,,Spain,43.35044153394085, -4.062542795045542
-Carlos Oliveira,1,1938,Cuba,,Cuba,21.93990617791955, -78.6318710773254
 Juan Tunas,1,1938,Cuba,Havana,Cuba,23.135305,-82.3589631
 Lubos Kubik,1,1990,Czech,Vysoké Mýto,Czechia,49.9534727,16.1616455
-Vaclav Masek,1,1962,Czech,Prague,Czechia,50.0874654,14.4212535
 Josef Masopust,1,1958-1962,Czech,Most,Czech Republic,50.5032737,13.636112
 Josef Stibranyi,1,1962,Czech,Vlckovce,Slovakia,48.303618842402436, 17.66346823986649
 Josef Zeman,1,1938,Czech,Drunce,Czechia,49.295503477883756, 14.937450789476314
-Jan Koller,1,2006,Czech Republic,Prague,Czechia,50.0874654,14.4212535
-Nicklas Bendtner,1,2010,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
 John Eriksen,1,1986,Denmark,Assens - Denmark,Denmark,55.265798,9.9002174
 Christian Eriksen,1,2018,Denmark,Middelfart,Denmark,55.4470245,9.93698091984884
 Thomas Helveg,1,1998-2002,Denmark,Odense,Denmark,55.3997225,10.3852104
 Martin Jorgensen,1,1998-2002-2010,Denmark,Ryomgård,Denmark,56.3842243,10.5020848
-Mathias Jorgensen,1,2018,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
-Soren Lerby,1,1986,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
 Peter Moller,1,1998,Denmark,Frederikshavn,Denmark,57.4412134,10.5336225
 Allan Nielsen,1,1998,Denmark,Esbjerg,Denmark,55.4664892,8.4520751
-Yussuf Yurary Poulsen,1,2018,Denmark,Copenhagen,Denmark,55.6867243,12.5700724
 Marc Rieper,1,1998,Denmark,Rødovre,Denmark,55.6812495,12.4547294
 Ebbe Sand,1,1998-2002,Denmark,Aalborg,Denmark,57.0462626,9.9215263
 Ivan Kaviedes,1,2002-2006,Ecuador,Santo Domingo de Los Colorados,Ecuador,-2.910124,-78.9848484
@@ -713,7 +884,6 @@ Luis Ramirez,1,1982,El Salvador,San Salvador,El Salvador,13.6989939,-89.1914249
 Dele Alli,1,2018,England,Milton Keynes,United Kingdom,52.0406502,-0.7594092
 Darren Anderton,1,1998,England,Southampton,United Kingdom,50.9025349,-1.404189
 Peter Beardsley,1,1986-1990,England,Hexham,United Kingdom,54.971478,-2.1017927
-Sol Campbell,1,1998-2002-2006,England,Plaistow - Newham,United Kingdom,51.5311544,0.0166833
 Allan Clarke,1,1970,England,Shortheath,United Kingdom,51.1949603,-0.8081972
 Joe Cole,1,2002-2006-2010,England,Paddington,United Kingdom,51.5154795,-0.175365
 Peter Crouch,1,2006-2010,England,Macclesfield,United Kingdom,53.2606635,-2.1255158
@@ -721,7 +891,6 @@ Jermain Defoe,1,2010,England,Beckton,United Kingdom,51.5160797,0.0594257
 Rio Ferdinand,1,2002-2006,England,Camberwell,United Kingdom,51.4745706,-0.0925416
 Jimmy Greaves,1,1962-1966,England,Manor Park - Essex,United Kingdom,51.72544405,0.45957379268510284
 Johnny Haynes,1,1958-1962,England,Kentish Town,United Kingdom,51.5500554,-0.1425712
-Emile Heskey,1,2002-2010,England,Leicester,United Kingdom,52.6362,-1.1331969
 Gerry Hitchens,1,1962,England,Rawnsley - Staffordshire - England,United Kingdom,52.7178325,-1.9642395
 Jesse Lingard,1,2018,England,Warrington,United Kingdom,53.3899497,-2.5943178
 Harry Maguire,1,2018,England,Sheffield,United Kingdom,53.3806626,-1.4702278
@@ -730,10 +899,14 @@ Paul Mariner,1,1982,England,Farnworth,United Kingdom,53.3838964,-2.7319827
 Stan Mortensen,1,1950,England,South Shields,United Kingdom,54.9987414,-1.4321848
 Jimmy Mullen,1,1950-1954,England,Newcastle upon Tyne,United Kingdom,54.9738474,-1.6131572
 Alan Mullery,1,1970,England,Notting Hill,United Kingdom,51.5109995,-0.2055267
-Wayne Rooney,1,2014,England,Liverpool,United Kingdom,53.4071991,-2.99168
+Wayne Rooney,1,2014,England,Liverpool,United Kingdom,53.421833879785204,-2.9899189221508204
+John Aldridge,1,1990-1994,Ireland,Liverpool,United Kingdom,53.4092659850734,-2.99301346489524
+Mitchell Duke,1,2022,Australia,Liverpool,Australia,-33.921060317629056,150.9165588760557
 Paul Scholes,1,1998-2002,England,Salford,United Kingdom,53.4877463,-2.2891921
-Daniel Sturridge,1,2014,England,Birmingham,United Kingdom,52.4796992,-1.9026911
-Kieran Trippier,1,2018,England,Bury - Greater Manchester,United Kingdom,53.5927543,-2.2972827
+Daniel Sturridge,1,2014,England,Birmingham,United Kingdom,52.49012033250409,-1.8984315511868655
+Jack Grealish,1,2022,England,Birmingham,United Kingdom,52.473935618018245,-1.890100828614681
+Kieran Trippier,1,2018,England,Bury - Greater Manchester,United Kingdom,53.59613334002992,-2.2861595604006437
+Matt Holland,1,2002,Ireland,Bury - Greater Manchester,United Kingdom,53.57928597945772,-2.3038170746667244
 Matt Upson,1,2010,England,Eye - Suffolk,United Kingdom,52.3226292,1.1463709
 Dennis Wilshaw,1,1954,England,Stoke-on-Trent,United Kingdom,53.0162014,-2.1812607
 Mark Wright,1,1990,England,Dorchester-on-Thames,United Kingdom,51.6436232,-1.1662644
@@ -743,7 +916,6 @@ Laurent Blanc,1,1998,France,Alès,France,44.1253665,4.0852818
 Maxime Bossis,1,1978-1982-1986,France,Saint-André-Treize-Voies,France,46.9343942,-1.4119256
 Alain Couriol,1,1982,France,Paris - France,France,48.8588897,2.3200410217200766
 Hector De Bourgoing,1,1966,France,Posadas - Misiones,Argentina,-27.4035083,-55.949711812781445
-Youri Djorkaeff,1,1998-2002,France,Lyon,France,45.7578137,4.8320114
 Yvon Douis,1,1958,France,Les Andelys,France,49.2469193,1.4215534
 Christophe Dugarry,1,1998-2002,France,Lormont,France,44.8791708,-0.5216683
 Leroy Fer,1,2014,France,Zoetermeer,Netherlands,52.06228915,4.487754536970652
@@ -752,7 +924,6 @@ Jean Marc Ferreri,1,1986,France,Charlieu,France,46.1588067,4.1714892
 Rene Girard,1,1982,France,Vauvert,France,43.6924382,4.2754772
 Gerard Hausser,1,1966,France,Strasbourg,France,48.584614,7.7507127
 Oscar Heisserer,1,1938,France,Schirrhein,France,48.8004792,7.90503
-Bernard Lacombe,1,1978-1982,France,Lyon,France,45.7578137,4.8320114
 Marcel Langiller,1,1930,France,Charenton-le-Pont,France,48.8198479,2.4159508
 Lucien Laurent,1,1930,France,Saint-Maur-des-Fossés,France,48.8033057,2.4853015
 Bixente Lizarazu,1,1998-2002,France,Saint-Jean-de-Luz,France,43.3870763,-1.6635695
@@ -760,18 +931,16 @@ Christian Lopez,1,1978-1982,France,Ain Temouchent,Algeria,35.3048421,-1.1457771
 Florent Malouda,1,2006-2010,France,Cayenne,France,4.9371143,-52.3258307
 Blaise Matuidi,1,2014,France,Toulouse,France,43.6044622,1.4442469
 Benjamin Pavard,1,2018,France,Maubeuge,France,50.2796417,3.9674127
-Franck Ribery,1,2006-2010,France,Boulogne-sur-Mer,France,50.7259985,1.6118771
-Moussa Sissoko,1,2014,France,Le Blanc-Mesnil,France,48.9385489,2.4631476
+Moussa Sissoko,1,2014,France,Le Blanc-Mesnil,France,48.95344211893778,2.4703769775975433
+Raphael Guerreiro,1,2022,Portugal,Le Blanc-Mesnil,France,48.93808349074398,2.475319015716731
 Gerard Soler,1,1982,France,Oujda,Morocco,34.677874,-1.929306
 Jean Tigana,1,1982-1986,France,Bamako,Mali,12.61326555,-7.984739136241295
 Marius Tresor,1,1978-1982,France,Sainte-Anne - Guadeloupe,France,16.225685,-61.3859128
-David Trezeguet,1,1998-2002-2006,France,Rouen,France,49.4404591,1.0939658
-Samuel Umtiti,1,2018,France,Yaoundé,Cameroon,3.8689867,11.5213344
+David Trezeguet,1,1998-2002-2006,France,Rouen,France,49.43364648547775,1.101947082148822
+Aurélien Tchouaméni,1,2022,France,Rouen,France,49.440686277375484,1.0937754411600153
 Mathieu Valbuena,1,2014,France,Bruges - Gironde,France,44.8842379,-0.6111474
-Raphael Varane,1,2018,France,Lille,France,50.6365654,3.0635282
 Emile Veinante,1,1930-1938,France,Metz,France,49.1196964,6.1763552
 Georges Verriest,1,1934,France,Roubaix,France,50.6915893,3.1741734
-Ruediger Abramczik,1,1978,Germany,Gelsenkirchen,Germany,51.5110321,7.0960124
 Uwe Bein,1,1990,Germany,Heringen,France,48.7752261,7.169946
 Marco Bode,1,2002,Germany,Osterode am Harz,Germany,51.72784,10.2508204
 Rainer Bonhof,1,1974-1978,Germany,Emmerich am Rhein,Germany,51.8322137,6.2428283
@@ -784,34 +953,23 @@ Arne Friedrich,1,2006-2010,Germany,Bad Oeynhausen,Germany,52.2014399,8.7981244
 Torsten Frings,1,2002-2006,Germany,Würselen,Germany,50.8178682,6.1341108
 Josef Gauchel,1,1938,Germany,Koblenz,Germany,50.33218542805906, 7.586233916616619
 Juergen Grabowski,1,1970-1974,Germany,Wiesbaden,Germany,50.0820384,8.2416556
-Willhelm Hahnemann,1,1938,Germany,Vienna,Austria,48.2083537,16.3725042
 Sigi Held,1,1966-1970,Germany,Bruntál,Czechia,49.9885113,17.4652901
-Richard Herrmann,1,1954,Germany,Katowice,Poland,50.2598987,19.0215852
 Martin Hoffmann,1,1974,Germany,Gommern,Germany,52.0739555,11.8307231
 Bernd Holzenbein,1,1974-1978,Germany,Runkel,Germany,50.4058377,8.1586131
 Uli Honess,1,1974,Germany,Ulm,Germany,48.3974003,9.9934336
 Horst Hrubesch,1,1982,Germany,Hamm,Germany,51.6804093,7.815197
 Carsten Jancker,1,2002,Germany,Grevesmühlen,Germany,53.8644705,11.1898839
 Marcell Jansen,1,2006-2010,Germany,Mönchengladbach,Germany,51.1946983,6.4353641
-Berni Klodt,1,1954-1958,Germany,Gelsenkirchen,Germany,51.5110321,7.0960124
-Stanislaus Kobierski,1,1934,Germany,Düsseldorf,Germany,51.2254018,6.7763137
-Philipp Lahm,1,2006-2010,Germany,Munich,Germany,48.1371079,11.5753822
 Stan Libuda,1,1970,Germany,Dörentrup,Germany,52.0408142,9.0033681
 Thomas Linke,1,2002,Germany,Sömmerda,Germany,51.1618258,11.1174874
-Andreas Möller,1,1990-1994-1998,Germany,Frankfurt,Germany,50.1106444,8.6820917
-Hansi Muller,1,1978-1982,Germany,Stuttgart,Germany,48.7784485,9.1800132
 Rudolf Noack,1,1934,Germany,Harburg - Hamburg,Germany,53.4562216,9.9872112
 Alfred Pfaff,1,1954,Germany,Rödelheim (Frankfurt am Main),Germany,50.1249843,8.6125536
-Uwe Reinders,1,1982,Germany,Essen,Germany,51.4582235,7.0158171
 Marco Reus,1,2018,Germany,Dortmund,Germany,51.5142273,7.4652789
 Karlheinz Riedle,1,1990-1994,Germany,Weiler im Allgäu,Germany,47.5831505,9.9140112
 Bernd Schneider,1,2002-2006,Germany,Jena,Germany,50.9281717,11.5879359
 Karl Heinz Schnellinger,1,1958-1962-1966-1970,Germany,Düren,Germany,50.8031684,6.4820806
-Otto Siffling,1,1934,Germany,Mannheim,Germany,49.4892913,8.4673098
 Juergen Sparwasser,1,1974,Germany,Halberstadt,Germany,51.8953514,11.0520563
 Horst Szymaniak,1,1958-1962,Germany,Oer-Erkenschwick,Germany,51.6398512,7.2605914
-Stephen Appiah,1,2006-2010,Ghana,Accra,Ghana,5.5571096,-0.2012376
-Kevin Prince Boateng,1,2010,Ghana,Berlin,Germany,52.5170365,13.3888599
 Haminu Draman,1,2006,Ghana,Techiman,Ghana,7.584971,-1.936401
 Sokratis Papastathopoulos,1,2014,Greece,Kalamata,Greece,37.0377582,22.1109392
 Dimitrios Salpingidis,1,2010,Greece,Zagliveri,Greece,40.57147978626741, 23.28828272810366
@@ -824,50 +982,41 @@ Hector Zelaya,1,1982,Honduras,Trinidad - Santa Bárbara,Paraguay,-25.2565945,-57.
 Jozsef Bencsis,1,1958,Hungary,Szombathely,Hungary,47.2291184,16.6187625
 Jozsef Bozsik,1,1954-1958,Hungary,Kispest,Hungary,47.4484411,19.1465176
 Karoly Csapo,1,1978,Hungary,Agyagosszergeny,Hungary,47.6092415,16.9409272
-Lajos Detari,1,1986,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Marton Esterhazy,1,1986,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Janos Farkas,1,1966,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Vilmos Kohut,1,1938,Hungary,Budapest,Hungary,47.4979937,19.0403594
 Karoly Sandor,1,1958-1962,Hungary,Szeged,Hungary,46.2546312,20.1486016
-Ferenc Sas,1,1938,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Erno Solymosi,1,1962,Hungary,Kingdom of Hungary,Hungary,47.5034773,19.015131503657706
+Erno Solymosi,1,1962,Hungary,Kingdom of Hungary,Hungary,47.507489736384734,19.021802672817582
+Jeno Vincze,1,1934-1938,Hungary,Kingdom of Hungary,Hungary,47.50253556715702,19.000723284209965
 Lazar Szentes,1,1982,Hungary,Bonyhád,Hungary,46.2984212,18.532191
-Pavel Teleki,1,1934,Hungary,Arad,Romania,46.1753793,21.3196342
-Jozsef Toth,1,1978-1982,Hungary,Mosonmagyaróvár,Hungary,47.8731793,17.2722342
-Andras Toth,1,1978,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Jozsef Varga,1,1982-1986,Hungary,Budapest,Hungary,47.4979937,19.0403594
-Jeno Vincze,1,1934-1938,Hungary,Kingdom of Hungary,Hungary,47.5034773,19.015131503657706
+Pavel Teleki,1,1934,Hungary,Arad,Romania,46.170291312691255,21.329208501234973
+Stefan Barbu,1,1930,Romania,Arad,Romania,46.19386174898102,21.299477962924545
 Sandor Zombori,1,1978,Hungary,Pécs,Hungary,46.0765883,18.2280397
 Alfred Finnbogason,1,2018,Iceland,Grindavík,Iceland,63.844239,-22.4317498
 Gylfi Sigurdsson,1,2018,Iceland,Reykjavík,Iceland,64.145981,-21.9422367
 Karim Ansarifard,1,2018,Iran,Ardabil,Iran,38.4583983,47.9313001
 Sohrab Bakhtiarizadeh,1,2006,Iran,Ahvaz,Iran,31.3231643,48.6792538
-Iraj Danaeifard,1,1978,Iran,Tehran,Iran,35.6892523,51.3896004
-Hamid Estili,1,1998,Iran,Tehran,Iran,35.6892523,51.3896004
+Iraj Danaeifard,1,1978,Iran,Tehran,Iran,35.67582848104415,51.37681000178777
+Hamid Estili,1,1998,Iran,Tehran,Iran,35.69495359301889,51.388891193874855
+Hassan Rowshan,1,1978,Iran,Tehran,Iran,35.675983634800225,51.38025429580201
+Rouzbeh Cheshmi,1,2022,Iran,Tehran,Iran,35.69435057947314,51.3748619996549
 Reza Ghoochannejad,1,2014,Iran,Mashhad,Iran,36.2974945,59.6059232
 Yahya Golmohammadi,1,2006,Iran,Minabad - Ardabil,Iran,38.4659189,48.5180472
 Mehdi Mahdavikia,1,1998-2006,Iran,Shahr-e Ray,Iran,35.58619744216786, 51.44199051607
-Hassan Rowshan,1,1978,Iran,Tehran,Iran,35.6892523,51.3896004
 Ahmed Radhi,1,1986,Iraq,Baghdad,Iraq,33.3061701,44.3872213
-John Aldridge,1,1990-1994,Ireland,Liverpool,United Kingdom,53.4071991,-2.99168
 Gary Breen,1,2002,Ireland,Hendon,United Kingdom,51.5897442,-0.22162
 Damien Duff,1,2002,Ireland,Ballyboden,Ireland,53.2817108,-6.2936826
-Matt Holland,1,2002,Ireland,Bury - Greater Manchester,United Kingdom,53.5927543,-2.2972827
-Ray Houghton,1,1990-1994,Ireland,Glasgow,United Kingdom,55.8606182,-4.2497933
 Niall Quinn,1,1990-2002,Ireland,Dublin,Ireland,53.3498006,-6.2602964
 Kevin Sheedy,1,1990,Ireland,Builth Wells,United Kingdom,52.1493287,-3.4058015
 Mordechai Spiegler,1,1970,Israel,Asbest,Russia,57.0052746,61.4580765
 Pietro Anastasi,1,1974,Italy,Catania,Italy,37.5023612,15.0873718
-Mario Balotelli,1,2014,Italy,Palermo,Italy,38.1112268,13.3524434
 Paolo Barison,1,1966,Italy,Vittorio Veneto,Italy,45.9896648,12.2964361
 Giampiero Boniperti,1,1950-1954,Italy,Barengo,Italy,45.5750759,8.5136122
 Tarcisio Burgnich,1,1966-1970-1974,Italy,Ruda,Italy,45.84041295730192, 13.401859256747555
 Antonio Cabrini,1,1978-1982-1986,Italy,Cremona,Italy,45.22086405,10.037037979628856
 Fabio Capello,1,1974,Italy,San Canzian d'Isonzo,Italy,45.798617,13.466138
-Franco Causio,1,1974-1978-1982,Italy,Lecce,Italy,40.152217300000004,18.2260628338229
 Bruno Conti,1,1982-1986,Italy,Nettuno,Italy,41.4575382,12.661425
-Daniele De Rossi,1,2006-2010,Italy,Rome,Italy,41.8933203,12.4829321
-Luigi Di Biagio,1,1998-2002,Italy,Rome,Italy,41.8933203,12.4829321
+Daniele De Rossi,1,2006-2010,Italy,Rome,Italy,41.87946957510014,12.486589879310609
+Luigi Di Biagio,1,1998-2002,Italy,Rome,Italy,41.87862446076652,12.491132948699041
+Fabio Grosso,1,2006,Italy,Rome,Italy,41.894849638079,12.48996434986501
+Francesco Totti,1,2002-2006,Italy,Rome,Italy,41.88320853981377,12.482404532111643
 Antonio Di Natale,1,2010,Italy,Naples,Italy,40.8358846,14.2487679
 Angelo Domenghini,1,1970,Italy,Lallio,Italy,45.66638,9.630053
 Pietro Ferraris,1,1938,Italy,Vercelli,Italy,45.55538265,8.346283678327271
@@ -876,20 +1025,16 @@ Carlo Galli,1,1954,Italy,Montecatini Terme,Italy,43.883179,10.7709533
 Giuseppe Giannini,1,1990,Italy,Rome - Italy,Italy,41.9704771,12.5447069
 Alberto Gilardino,1,2006-2010,Italy,Biella,Italy,45.5669538,8.086912008297636
 Francesco Graziani,1,1982,Italy,Subiaco,Italy,41.92561287496511, 13.086901860986528
-Fabio Grosso,1,2006,Italy,Rome,Italy,41.8933203,12.4829321
 Enrico Guaita,1,1934,Italy,Lucas González,Argentina,-32.388371897591455, -59.53158599039297
 Filippo Inzaghi,1,2002-2006,Italy,Piacenza,Italy,44.8476352,9.666531257696896
 Benito Lorenzi,1,1954,Italy,Buggiano,Italy,43.8999353,10.726569
-Claudio Marchisio,1,2014,Italy,Turin,Italy,45.0677551,7.6824892
 Daniele Massaro,1,1994,Italy,Monza,Italy,45.639544,9.278869369225038
-Sandro Mazzola,1,1966-1970-1974,Italy,Turin,Italy,45.0677551,7.6824892
-Bruno Mora,1,1962,Italy,Parma,Italy,44.8013678,10.3280833
+Bruno Mora,1,1962,Italy,Parma,Italy,44.79580906724844,10.31987782431558
+Marcus Thuram,1,2022,France,Parma,Italy,44.79271869394916,10.317791772053255
 Ermes Muccinelli,1,1950-1954,Italy,Lugo di Romagna,Italy,44.4188782,11.9082311
-Fulvio Nesti,1,1954,Italy,Lastra a Signa,Italy,43.770985,11.107215
 Andrea Pirlo,1,2006-2010,Italy,Flero,Italy,45.4828867,10.1750082
 Fabio Quagliarella,1,2010,Italy,Castellammare di Stabia,Italy,40.6943046,14.4804813
 Aldo Serena,1,1986-1990,Italy,Montebelluna,Italy,45.7759956,12.0450646
-Francesco Totti,1,2002-2006,Italy,Rome,Italy,41.8933203,12.4829321
 Renato Zaccarelli,1,1978,Italy,Ancona,Italy,43.480120400000004,13.218790609151764
 Gianluca Zambrotta,1,2002-2006-2010,Italy,Como,Italy,45.939475900000005,9.149410145408947
 Robbie Earle,1,1998,Jamaica,Newcastle-under-Lyme,United Kingdom,53.0117627,-2.2273919
@@ -903,145 +1048,87 @@ Masashi Nakayama,1,1998-2002,Japan,Fujieda - Shizuoka,Japan,34.8674167,138.25772
 Yuya Osako,1,2018,Japan,Kaseda - Kagoshima,Japan,31.4208229,130.3195833
 Takayuki Suzuki,1,2002,Japan,Hitachi - Ibaraki,Japan,36.5991225,140.6504604
 Keiji Tamada,1,2006-2010,Japan,Urayasu,Japan,35.6530518,139.9018495
-Abdulaziz Al-Buloushi,1,1982,Kuwait,,Kuwait,29.374282620641498, 47.97620851916852
 Faisal Al-Dakhil,1,1982,Kuwait,Kuwait City,Kuwait,29.3796532,47.9734174
-Tomas Balcazar,1,1954,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
-Ignacio Basaguren,1,1970,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Jaime Belmonte,1,1958,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Marcelino Bernal,1,1994-1998,Mexico,Tepic,Mexico,21.5043446,-104.894676
-Enrique Borja,1,1966,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Juan Carreno,1,1930,Mexico,Mexico,Mexico,23.6585116,-102.0077097
-Horacio Casarin,1,1950,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Alfredo Del Aguila,1,1962,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Isidoro Diaz,1,1962-1966,Mexico,Acatlán de Juárez,Mexico,20.423970500000003,-103.6013031524341
 Giovani Dos Santos,1,2014,Mexico,Monterrey,Mexico,25.6802019,-100.315258
-Luis Flores,1,1986,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Francisco Fonseca,1,2006,Mexico,León - Guanajuato,Mexico,21.1218598,-101.6825081
-Javier Fragoso,1,1966-1970,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Roberto Gayon,1,1930,Mexico,San José - Costa Rica,El Salvador,13.6550233,-88.9905563
-Jose Gonzalez,1,1970,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Andres Guardado,1,2014,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
-Hector Hernandez,1,1962,Mexico,Guadalajara,Mexico,20.6720375,-103.338396
-Jose Lamadrid,1,1954,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Hirving Lozano,1,2018,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Manuel Negrete,1,1986,Mexico,Ciudad Altamirano-Guerrero,Mexico,18.3584543,-100.6681865
-Hector Ortiz,1,1950,Mexico,,Mexico,19.390409751444583, -99.13537290487068
 Gustavo Pena,1,1966-1970,Mexico,Talpa de Allende,Mexico,20.2986583,-104.9524361256174
 Oribe Peralta,1,2014,Mexico,Torreón,Mexico,25.542698,-103.410512
-Victor Rangel,1,1978,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Hugo Sanchez,1,1978-1986-1994,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Raul Servin,1,1986,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Gerardo Torrado,1,2002-2006-2010,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
-Arturo Vazquez,1,1978,Mexico,Mexico City,Mexico,19.4326296,-99.1331785
 Carlos Vela,1,2018,Mexico,Cancún,China,43.8843102,125.3180952
 Zinha,1,2006,Mexico,Itajá - Rio Grande do Norte,Brazil,-5.6374673,-36.8713272
 Khalid Boutaib,1,2018,Morocco,Bagnols-sur-Cèze,France,44.160481,4.6235831
 Mohammed Chaouch,1,1994,Morocco,Aklim,Morocco,34.886741,-2.518554
-Youssef En Nesyri,1,2018,Morocco,Fes,Morocco,34.02095421672997, -5.020283917536446
+Youssef En Nesyri,1,2018,Morocco,Fes,Morocco,34.03437263051956,-5.0134412037096014
+Lopez Ufarte,1,1982,Spain,Fes,Morocco,34.035693366419245,-5.010119946591724
 Mahjoub Ghazouani,1,1970,Morocco,Hay Mohammadi,Morocco,33.5841444,-7.5569559
 Mustafa Hadji,1,1994-1998,Morocco,Tiznit,Morocco,29.698624,-9.7312815
 Houmane Jarir,1,1970,Morocco,Casablanca - Morocco,Morocco,33.5756993,-7.707032678273073
-Abdelkarim Krimau,1,1986,Morocco,Casablanca,Morocco,33.5950627,-7.6187768
-Hassan Nader,1,1994,Morocco,Casablanca,Morocco,33.5950627,-7.6187768
-Edgar Davids,1,1998,Netherlands,Paramaribo,Suriname,5.8247628,-55.1703941
+Edgar Davids,1,1998,Netherlands,Paramaribo,Suriname,5.838360940499891,-55.179338078152675
+Aron Winter,1,1990-1994-1998,Netherlands,Paramaribo,Suriname,5.812576678983729,-55.1709255530271
 Theo de Jong,1,1974,Netherlands,Leeuwarden,Netherlands,53.2005936,5.7918548
 Stefan De Vrij,1,2014,Netherlands,Ouderkerk aan den IJssel,Netherlands,51.9344514,4.6358147
-Ruud Gullit,1,1990,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Wim Kieft,1,1990,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
-Ronald Koeman,1,1990-1994,Netherlands,Zaandam,Netherlands,52.4424926,4.8298607
-Ruud Krol,1,1974-1978,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
 Dirk Kuyt,1,2006-2010,Netherlands,Katwijk,Netherlands,52.2005078,4.4146372
 Dick Nanninga,1,1978,Netherlands,Groningen (city),Netherlands,53.2232991,6.573865099100917
 Marc Overmars,1,1994-1998,Netherlands,Emst,Netherlands,54.5393275,9.1633145
-Bryan Roy,1,1994,Netherlands,Amsterdam,Netherlands,52.3730796,4.8924534
 Kick Smit,1,1934-1938,Netherlands,Bloemendaal,Netherlands,52.3742917,4.591534676879699
 Gaston Taument,1,1994,Netherlands,The Hague,Netherlands,52.0799838,4.3113461
-Giovanni Van Bronckhorst,1,2006-2010,Netherlands,Rotterdam,Netherlands,51.9244424,4.47775
-Rene Van De Kerkhof,1,1974-1978,Netherlands,Helmond,Netherlands,51.4790956,5.6557686
-Willy Van De Kerkhof,1,1978,Netherlands,Helmond,Netherlands,51.4790956,5.6557686
+Rene Van De Kerkhof,1,1974-1978,Netherlands,Helmond,Netherlands,51.49248749018625,5.6468212303983805
+Willy Van De Kerkhof,1,1978,Netherlands,Helmond,Netherlands,51.48492978342214,5.65505669128565
 Pierre van Hooijdonk,1,1998,Netherlands,Steenbergen,Netherlands,51.603292100000004,4.309251716161476
 Ruud Van Nistelrooy,1,2006,Netherlands,Oss,Netherlands,51.778354199999995,5.532083610932192
-Leen Vente,1,1934-1938,Netherlands,Rotterdam,Netherlands,51.9244424,4.47775
-Georginio Wijnaldum,1,2014,Netherlands,Rotterdam,Netherlands,51.9244424,4.47775
-Aron Winter,1,1990-1994-1998,Netherlands,Paramaribo,Suriname,5.8247628,-55.1703941
 Boudewijn Zenden,1,1998,Netherlands,Maastricht,Netherlands,50.85798545,5.6969881818221095
 Winston Reid,1,2010,New Zealand,North Shore,New Zealand,-36.774833761380485, 174.7284197472515
-Shane Smeltz,1,2010,New Zealand,Göppingen,Germany,48.7031377,9.6541116
-Steve Sumner,1,1982,New Zealand,Preston - Lancashire,United Kingdom,53.7593363,-2.6992717
 Steve Wooddin,1,1982,New Zealand,England,United Kingdom,52.5310214,-1.2649062
 Mutiu Adepoju,1,1998,Nigeria,Ibadan,Nigeria,7.3777462,3.8972497
-Julius Aghahowa,1,2002,Nigeria,Benin City,Nigeria,6.3330586,5.6221058
-Tijani Babangida,1,1998,Nigeria,Kaduna,Nigeria,10.3825318,7.8533226
+Julius Aghahowa,1,2002,Nigeria,Benin City,Nigeria,6.3432327319088415,5.6238465191408995
+Victor Ikpeba,1,1998,Nigeria,Benin City,Nigeria,6.327281667466851,5.619077872333674
+Yakubu Aiyegbeni,1,2010,Nigeria,Benin City,Nigeria,6.331438223637733,5.633569033831047
 Finidi George,1,1994-1998,Nigeria,Port Harcourt,Nigeria,4.7676576,7.0188527
-Victor Ikpeba,1,1998,Nigeria,Benin City,Nigeria,6.3330586,5.6221058
-Victor Moses,1,2018,Nigeria,Lagos,Nigeria,6.4550575,3.3941795
+Victor Moses,1,2018,Nigeria,Lagos,Nigeria,6.451420019963325,3.405253450331666
+Samson Siasia,1,1994,Nigeria,Lagos,Nigeria,6.443648310217624,3.4003945647007088
 Peter Odemwingie,1,2014,Nigeria,Tashkent,Uzbekistan,41.3123363,69.2787079
 Sunday Oliseh,1,1994-1998,Nigeria,Delta State,Nigeria,5.5273061,6.1784167
 Wilson Oruma,1,1998,Nigeria,Warri - Nigeria,Nigeria,4.389489,7.1815711
-Samson Siasia,1,1994,Nigeria,Lagos,Nigeria,6.4550575,3.3941795
-Yakubu Aiyegbeni,1,2010,Nigeria,Benin City,Nigeria,6.3330586,5.6221058
-Rasheed Yekini,1,1994-1998,Nigeria,Kaduna,Nigeria,10.3825318,7.8533226
-Ji Yun Nam,1,2010,North Korea,Pyongyang,North Korea,39.0167979,125.7473609
-Lee Dong Woon,1,1966,North Korea,Pyongyang,North Korea,39.0167979,125.7473609
-Pak Doo Ik,1,1966,North Korea,Pyongyang,North Korea,39.0167979,125.7473609
-Yang Seung Kook,1,1966,North Korea,Pyongyang,North Korea,39.0167979,125.7473609
-Colin Clarke,1,1986,Northern Ireland,Newry,United Kingdom,54.1775283,-6.337506
+Ji Yun Nam,1,2010,North Korea,Pyongyang,North Korea,39.014131662029044,125.76168042762309
+Lee Dong Woon,1,1966,North Korea,Pyongyang,North Korea,39.018830618449925,125.73545493807624
+Pak Doo Ik,1,1966,North Korea,Pyongyang,North Korea,39.01448913530172,125.73386940856601
+Yang Seung Kook,1,1966,North Korea,Pyongyang,North Korea,39.011015132061175,125.74348207750542
 Wilbur Cush,1,1958,Northern Ireland,Lurgan - County Armagh,United Kingdom,54.460824,-6.3292491
-Norman Whiteside,1,1982-1986,Northern Ireland,Belfast,United Kingdom,54.596391,-5.9301829
-Arne Brustad,1,1938,Norway,Oslo,Norway,59.9133301,10.7389701
-Dan Eggen,1,1998,Norway,Oslo,Norway,59.9133301,10.7389701
-Tore Andre Flo,1,1998,Norway,Flo Stryn,Norway,61.94652021981294, 7.026860541529137
-Havard Flo,1,1998,Norway,Flo Stryn,Norway,61.94777153353006, 7.019994087254694
+Arne Brustad,1,1938,Norway,Oslo,Norway,59.91277103467353,10.749248184947614
+Dan Eggen,1,1998,Norway,Oslo,Norway,59.925073536971524,10.731929860987034
+Tore Andre Flo,1,1998,Norway,Flo Stryn,Norway,61.93827562734033,7.014354436527217
+Havard Flo,1,1998,Norway,Flo Stryn,Norway,61.94501041063576,7.0125112764413675
 Felipe Baloy,1,2018,Panama,Panama City,Panama,8.9714493,-79.5341802
 Antolin Alcaraz,1,2010,Paraguay,San Roque González de Santa Cruz,Paraguay,-25.9466327,-56.2505903
 Francisco Arce,1,1998-2002,Paraguay,Paraguari,Paraguay,-25.6207309,-57.1475978
-Celso Ayala,1,1998-2002,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
 Miguel Benitez,1,1998,Paraguay,Santísima Trinidad (Asunción),Paraguay,-25.2567763,-57.5778336
 Jorge Campos,1,1998-2002,Paraguay,Acapulco,Mexico,16.8680495,-99.8940182
 Jose Cardozo,1,1998-2002,Paraguay,Nueva Italia,Paraguay,-25.613930753452937, -57.46661040751128
-Roque Santa Cruz,1,2002-2006-2010,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
 Atilio Lopez,1,1950,Paraguay,Villarrica - Paraguay,Paraguay,-25.2681974,-57.6014902
-César López Fretes,1,1950,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
 Luis Vargas Pena,1,1930,Paraguay,Paraguay,Paraguay,-23.3165935,-58.1693445
-Cayetano Re,1,1958,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
 Cristian Riveros,1,2006-2010,Paraguay,Juan Augusto Saldívar,Chile,-53.153951,-70.9379341
-Enrique Vera,1,2010,Paraguay,Asunción,Paraguay,-25.2800459,-57.6343814
-Andre Carrillo,1,2018,Peru,Lima,Peru,-12.0621065,-77.0365256
-Roberto Challe,1,1970,Peru,Lima,Peru,-12.0621065,-77.0365256
 Hector Chumpitaz,1,1970-1978,Peru,San Vicente de Cañete,Peru,-13.0777685,-76.387448
-Cesar Cueto,1,1978-1982,Peru,Lima,Peru,-12.0621065,-77.0365256
-Ruben Diaz,1,1978-1982,Peru,Lima,Peru,-12.0621065,-77.0365256
-Paolo Guerrero,1,2018,Peru,Lima,Peru,-12.0621065,-77.0365256
-Guillermo La Rosa,1,1978-1982,Peru,Lima,Peru,-12.0621065,-77.0365256
-Luis Souza,1,1930,Peru,Lima,Peru,-12.0621065,-77.0365256
-Jose Velasquez,1,1978-1982,Peru,Lima,Peru,-12.0621065,-77.0365256
-Andrzej Buncol,1,1982-1986,Poland,Gliwice,Poland,50.294113,18.6657306
 Jerzy Gorgon,1,1974-1978,Poland,Zabrze,Poland,50.3086154,18.7863749
 Grzegorz Krychowiak,1,2018,Poland,Gryfice,Poland,53.9148529,15.1987062
-Stefan Majewski,1,1982-1986,Poland,Bydgoszcz,Poland,53.1219648,18.0002529
 Emmanuel Olisadebe,1,2002,Poland,Warri,Australia,-35.3177,149.6704
 Fryedryk Szerfke,1,1938,Poland,Pozna?,Poland,49.8388889,20.9391667
-Marcin Zewlakow,1,2002,Poland,Warsaw,Poland,52.2319581,21.0067249
 Hugo Almeida,1,2010,Portugal,Figueira da Foz,Portugal,40.1485808,-8.855655
-Beto,1,2002,Portugal,Lisbon,Portugal,38.7077507,-9.1365919
-Rui Costa,1,2002,Portugal,Amadora,Portugal,38.7595162,-9.223677009460125
+Rui Costa,1,2002,Portugal,Amadora,Portugal,38.76811069826136,-9.210175968923373
+Nani,1,2014,Portugal,Amadora,Portugal,38.77158344112227,-9.237320732167593
 Deco,1,2006-2010,Portugal,São Bernardo do Campo,Brazil,-23.7080345,-46.5506747
-Diamantino,1,1986,Portugal,Moita,Portugal,38.6523995,-8.9935314
+Diamantino,1,1986,Portugal,Moita,Portugal,38.66271116938396,-9.005655127259653
+Carlos Manuel,1,1986,Portugal,Moita,Portugal,38.64805634819066,-8.999898017290173
 Nuno Gomes,1,2002-2006,Portugal,Amarante - Portugal,Portugal,-33.5937508,-70.5865654
 Liedson,1,2010,Portugal,Cairu,Egypt,30.0443879,31.2357257
-Carlos Manuel,1,1986,Portugal,Moita,Portugal,38.6523995,-8.9935314
 Raul Meireles,1,2010,Portugal,Porto,Portugal,41.1494512,-8.6107884
-Nani,1,2014,Portugal,Amadora,Portugal,38.7595162,-9.223677009460125
-Ricardo Quaresma,1,2018,Portugal,Lisbon,Portugal,38.7077507,-9.1365919
 Simoes,1,1966,Portugal,Corroios,Portugal,38.6415327,-9.1522335
-Varela,1,2014,Portugal,Almada,Portugal,38.9298385,-9.3433733
 Iuliu Baratki,1,1938,Romania,Nagyvárad,Romania,47.058715,21.927919041661156
-Stefan Barbu,1,1930,Romania,Arad,Romania,46.180782210529934, 21.304297582485226
 Emerich Dembrovschi,1,1970,Romania,Câmpulung la Tisa,Romania,47.9873817,23.7692291
 Adrian Ilie,1,1998,Romania,Craiova,Romania,44.3190159,23.7965614
-Alexandru Neagu,1,1970,Romania,Bucharest,Romania,44.4361414,26.1027202
-Constantin Stanciu,1,1930,Romania,Bucharest,Romania,44.4361414,26.1027202
-Vladimir Beschastnykh,1,2002,Russia,Moscow,Russia,55.7504461,37.6174943
 Mario Fernandes,1,2018,Russia,São Caetano do Sul,Brazil,-23.6195923,-46.5688323
 Yury Gazinsky,1,2018,Russia,Komsomolsk-on-Amur,Russia,50.550877,137.020782
 Aleksandr Golovin,1,2018,Russia,Kaltan,Russia,53.519459,87.286179
@@ -1050,63 +1137,49 @@ Aleksandr Kerzhakov,1,2014,Russia,Kingisepp,Russia,59.3743982,28.5981591
 Alexander Kokorin,1,2014,Russia,Valuyki - Belgorod Oblast,Russia,50.211296,38.100227
 Dmitri Radchenko,1,1994,Russia,Leningrad,Russia,59.938732,30.316229
 Dmitri Sychev,1,2002,Russia,Omsk,Russia,54.991375,73.371529
-Egor Titov,1,2002,Russia,Moscow,Russia,55.7504461,37.6174943
-Salem Aldawsari,1,2018,Saudi Arabia,Jeddah,Saudi Arabia,21.5810088,39.1653612
+Salem Aldawsari,1,2018,Saudi Arabia,Jeddah,Saudi Arabia,21.590151837355428,39.16621443387432
+Saleh Al-Shehri,1,2022,Saudi Arabia,Jeddah,Saudi Arabia,21.590419164430774,39.17707877412794
 Salman Alfaraj,1,2018,Saudi Arabia,Al Madinah Al Munawwarah,Saudi Arabia,24.471153,39.6111216
-Fahad Al Ghesheyan,1,1994,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
-Saeed Owairan,1,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
-Yasser Al Kahtani,1,2006,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
-Yousuf Al-Thunayan,1,1994-1998,Saudi Arabia,Riyadh,Saudi Arabia,24.638916,46.7160104
-Steve Archibald,1,1982-1986,Scotland,Glasgow,United Kingdom,55.8606182,-4.2497933
 Sammy Baird,1,1958,Scotland,Denny-Falkirk,United Kingdom,56.0237411,-3.9081978
 Craig Burley,1,1998,Scotland,Ayr,United Kingdom,55.4628044,-4.6302502
 Bobby Collins,1,1958,Scotland,Govanhill,United Kingdom,55.8377427,-4.256413
 John Collins,1,1998,Scotland,Galashiels,United Kingdom,55.616418,-2.8070791
-Mo Johnston,1,1990,Scotland,Glasgow,United Kingdom,55.8606182,-4.2497933
-Peter Lorimer,1,1974,Scotland,Dundee,United Kingdom,56.4605938,-2.97019
+Peter Lorimer,1,1974,Scotland,Dundee,United Kingdom,56.46738969877871,-2.9621706898366633
+Jack Mudie,1,1958,Scotland,Dundee,United Kingdom,56.452706425442244,-2.9816562679213074
+David Narey,1,1982-1986,Scotland,Dundee,United Kingdom,56.471504813451496,-2.9665150786515073
 Stuart Mccall,1,1990,Scotland,Leeds,United Kingdom,53.7974185,-1.5437941
-Jack Mudie,1,1958,Scotland,Dundee,United Kingdom,56.4605938,-2.97019
-Jimmy Murray,1,1958,Scotland,Edinburgh,United Kingdom,55.9533456,-3.1883749
-David Narey,1,1982-1986,Scotland,Dundee,United Kingdom,56.4605938,-2.97019
 John Robertson,1,1978-1982,Scotland,Viewpark,United Kingdom,55.8260244,-4.0606131
-Graeme Souness,1,1978-1982-1986,Scotland,Edinburgh,United Kingdom,55.9533456,-3.1883749
-Gordon Strachan,1,1982-1986,Scotland,Edinburgh,United Kingdom,55.9533456,-3.1883749
 Salif Diao,1,2002,Senegal,Kédougou,Senegal,12.885677300000001,-12.286363169419786
-Khalilou Fadiga,1,2002,Senegal,Dakar,Senegal,14.693425,-17.447938
 Sadio Mane,1,2018,Senegal,Sédhiou,Senegal,12.9102548,-15.55298390097876
 Mbaye Niang,1,2018,Senegal,Meulan-en-Yvelines,France,49.0049712,1.9100835
 Moussa Wague,1,2018,Senegal,Bignona,Senegal,12.801133,-16.22897
 Sasa Ilic,1,2006,Serbia,Požarevac,Serbia,44.616907925998625, 21.17992361250101
 Milan Jovanovic,1,2010,Serbia,Bajina Bašta,Serbia,43.97138223413054, 19.55748799258853
-Aleksandar Kolarov,1,2018,Serbia,Belgrade,Serbia,44.8178131,20.4568974
-Aleksandar Mitrovic,1,2018,Serbia,Smederevo,Serbia,44.6651048,20.9271115
-Marko Pantelic,1,2010,Serbia,Belgrade,Serbia,44.8178131,20.4568974
 Kamil Kopunek,1,2010,Slovakia,Trnava,Slovakia,48.3767652,17.5858175
-Milenko Acimovic,1,2002,Slovenia,Ljubljana,Slovenia,46.0500268,14.5069289
-Sebastijan Cimirotic,1,2002,Slovenia,Ljubljana,Slovenia,46.0500268,14.5069289
+Milenko Acimovic,1,2002,Slovenia,Ljubljana,Slovenia,46.039525675338496,14.499538537355258
+Sebastijan Cimirotic,1,2002,Slovenia,Ljubljana,Slovenia,46.06172055312089,14.498743077248184
+Zlatan Ljubijankic,1,2010,Slovenia,Ljubljana,Slovenia,46.05438949354907,14.500049338188573
+Branko Oblak,1,1974,Yugoslavia,Ljubljana,Slovenia,46.051519406843084,14.520083837990255
 Robert Koren,1,2010,Slovenia,Radlje ob Dravi,Slovenia,46.6149451,15.2228247
-Zlatan Ljubijankic,1,2010,Slovenia,Ljubljana,Slovenia,46.0500268,14.5069289
-Quinton Fortune,1,1998-2002,South Africa,Cape Town,South Africa,-33.928992,18.417396
 Bongani Khumalo,1,2010,South Africa,Manzini - Swaziland,Eswatini,-26.4877046,31.374713
 Teboho Mokoena,1,2002,South Africa,Bethlehem,South Africa,-28.238117438358227, 28.306653162152696
 Katlego Mphela,1,2010,South Africa,Brits - North West,South Africa,-25.6297222,27.7841667
-Siyabonga Nomvethe,1,2002-2010,South Africa,Durban,South Africa,-29.861825,31.009909
-Lucas Radebe,1,1998-2002,South Africa,Soweto,South Africa,-26.2227778,27.89
-Siphiwe Tshabalala,1,2010,South Africa,Soweto,South Africa,-26.2227778,27.89
+Lucas Radebe,1,1998-2002,South Africa,Soweto,South Africa,-26.222003428029744,27.876385949996
+Siphiwe Tshabalala,1,2010,South Africa,Soweto,South Africa,-26.214810213733816,27.895235037930007
 Choi Soon Ho,1,1986-1990,South Korea,Cheongju,South Korea,36.6421169,127.4891742
 Huh Jung Moo,1,1986,South Korea,Jindo County,South Korea,34.41481095167584, 126.18721384905344
-Hwangbo Kwan,1,1990,South Korea,Daegu,South Korea,35.8713,128.6018
+Hwangbo Kwan,1,1990,South Korea,Daegu,South Korea,35.86603303174932,128.60414770019372
+Park Chu Young,1,2006-2010,South Korea,Daegu,South Korea,35.859390270348385,128.6137277730491
 Koo Ja-Cheol,1,2014,South Korea,Nonsan-si,South Korea,36.1868623,127.0987857
-Lee Keun Ho,1,2014,South Korea,Incheon,South Korea,37.456,126.7052
+Lee Keun Ho,1,2014,South Korea,Incheon,South Korea,37.44982205260605,126.70907437916927
+Lee Chun Soo,1,2002-2006,South Korea,Incheon,South Korea,37.46693323009351,126.70897745546921
 Kim Jong Boo,1,1986,South Korea,Tongyeong,South Korea,34.854254,128.433205
-Lee Chun Soo,1,2002-2006,South Korea,Incheon,South Korea,37.456,126.7052
 Lee Eul Yong,1,2002-2006,South Korea,Taebaek,South Korea,37.1637943,128.9857176
-Park Chang Sun,1,1986,South Korea,Gimhae,South Korea,35.2310947,128.8908228
-Park Chu Young,1,2006-2010,South Korea,Daegu,South Korea,35.8713,128.6018
 Seo Jung Won,1,1998-2002,South Korea,Gwangju-si,South Korea,37.4290844,127.255189
 Seol Ki Hyeon,1,2002-2006,South Korea,Jeongseon,South Korea,37.3806081,128.6608785
 Song Chong Gug,1,2002-2006,South Korea,Danyang,China,32.0109736,119.6012702
-Kim Younggwon,1,2018,South Korea,Jeonju,South Korea,35.8242772,127.1481147
+Kim Younggwon,1,2018,South Korea,Jeonju,South Korea,35.83470796139127,127.14697791384357
+Kim Young-gwon,1,2022,South Korea,Jeonju,South Korea,35.83817260952479,127.1578612010107
 Adelardo Rodríguez,1,1962-1966,Spain,Badajoz,Spain,38.88964355,-6.980142450723942
 Amancio Amaro Varela,1,1966,Spain,A Coruña,Spain,43.3709703,-8.3959425
 Juan Manuel Asensi,1,1978,Spain,Alicante,Spain,38.3436365,-0.4881708
@@ -1114,49 +1187,38 @@ Iago Aspas,1,2018,Spain,Moaña,Spain,42.2816553,-8.7356868
 Txiki Begiristain,1,1986,Spain,Olaberria,Spain,43.0269276,-2.2036619
 Luis Regueiro (Corso),1,1934,Spain,Irun - Euskadi,Spain,43.3383176,-1.7888095
 Daniel Ruiz-Bazán Justa (Dani),1,1978,Spain,Sopuerta,Spain,43.25481955,-3.170368427909917
-Eloy Olaya,1,1986,Spain,Gijón,Spain,43.5449422,-5.66275
 Jose Maria Fuste,1,1966,Spain,Linyola,Spain,41.7104501,0.9037626
 Alberto Gorriz,1,1990,Spain,Irun,Spain,43.3383176,-1.7888095
 Pep Guardiola,1,1994-1998,Spain,Santpedor,Spain,41.7847594,1.8386882
-Silvestre Igoa,1,1950,Spain,San Sebastián,Spain,43.3224219,-1.9838889
+Silvestre Igoa,1,1950,Spain,San Sebastián,Spain,43.334233773445206,-1.99101127676483
+Hugo Guillamon,1,2022,Spain,San Sebastián,Spain,43.32795755127369,-1.9713721545657994
 Isco,1,2018,Spain,Benalmádena,Spain,36.594519,-4.572284
 Juan Gutiérrez Moreno (Juanito),1,2006,Spain,Cádiz,Spain,36.5297438,-6.2928976
 Francisco Miguel Narváez Machón (Kiko),1,1998,Spain,Jerez de la Frontera,Spain,36.6816936,-6.1377402
 Isidoro Langara,1,1934,Spain,Pasaia,Spain,43.3239952,-1.9200587
 Juan Mata,1,2014,Spain,Burgos,Spain,42.343926,-3.696977
-Gaizka Mendieta,1,2002,Spain,Bilbao,Spain,43.2630018,-2.9350039
-Nacho,1,2018,Spain,Madrid,Spain,40.4167047,-3.7035825
-Joaquin Peiro,1,1962-1966,Spain,Madrid,Spain,40.4167047,-3.7035825
 Pirri,1,1966-1978,Spain,Ceuta,Spain,35.89442195,-5.355817352394269
 Carles Puyol,1,2002-2006-2010,Spain,La Pobla de Segur,Spain,42.2473665,0.9672725
 Manuel Sanchis,1,1966,Spain,Alberic-Valencia,Spain,39.1164369,-0.5201838
 Enrique Saura,1,1982,Spain,Onda - Castellón,Spain,39.9621514,-0.2593846
-Juan Antonio Senor,1,1986,Spain,Madrid,Spain,40.4167047,-3.7035825
-Lopez Ufarte,1,1982,Spain,Fes,Morocco,34.0346534,-5.0161926
 Juan Carlos Valeron,1,2002,Spain,Arguineguín,Spain,27.7590753,-15.6813497
 Jesus Zamora,1,1982,Spain,Errenteria,Spain,43.3125271,-1.8986133
 Niclas Alexandersson,1,2002-2006,Sweden,Halmstad,Sweden,56.6739826,12.8574827
-Marcus Allback,1,2002-2006,Sweden,Gothenburg,Sweden,57.7072326,11.9670171
-Ludwig Augustinsson,1,2018,Sweden,Stockholm,Sweden,59.3251172,18.0710935
-Gosta Dunker,1,1934,Sweden,Sweden,Sweden,59.6749712,14.5208584
+Marcus Allback,1,2002-2006,Sweden,Gothenburg,Sweden,57.700549691360536,11.968016312594074
+Gunnar Gren,1,1958,Sweden,Gothenburg,Sweden,57.712882769522565,11.963208852538068
+Glenn Stromberg,1,1990,Sweden,Gothenburg,Sweden,57.70587541459845,11.968511487001923
+Anders Svensson,1,2002-2006,Sweden,Gothenburg,Sweden,57.70559304691478,11.97747408202707
+Gosta Dunker,1,1934,Sweden,Sweden,Sweden,59.6686702556744,14.517904290539795
+Knut Kroon,1,1934,Sweden,Sweden,Sweden,59.671502849784616,14.509295491665373
 Johnny Ekstrom,1,1990,Sweden,Kallebäck,Sweden,57.6828812,12.0115716
 Emil Forsberg,1,2018,Sweden,Sundsvall,Sweden,62.3907552,17.3071024
 Ove Grahn,1,1970-1974,Sweden,Norra Fågelås,Sweden,58.2670994,14.2647849
-Gunnar Gren,1,1958,Sweden,Gothenburg,Sweden,57.7072326,11.9670171
-Tore Keller,1,1934-1938,Sweden,Norrköping,Sweden,58.5909124,16.1903511
-Knut Kroon,1,1934,Sweden,Sweden,Sweden,59.6749712,14.5208584
 Roger Ljung,1,1990-1994,Sweden,Lomma,Sweden,55.666667,13.083333
 Fredrik Ljungberg,1,2002-2006,Sweden,Vittsjö,Sweden,56.3419237,13.6654927
 Bror Mellberg,1,1950-1958,Sweden,Ambjörby,Sweden,60.4990113,13.1662583
 Hakan Mild,1,1994,Sweden,Trollhättan,Sweden,58.2827931,12.2908612
-Thomas Sjoberg,1,1978,Sweden,Helsingborg,Sweden,56.0442098,12.703706
-Lennart Skoglund,1,1950-1958,Sweden,Stockholm,Sweden,59.3251172,18.0710935
-Glenn Stromberg,1,1990,Sweden,Gothenburg,Sweden,57.7072326,11.9670171
-Anders Svensson,1,2002-2006,Sweden,Gothenburg,Sweden,57.7072326,11.9670171
-Ola Toivonen,1,2018,Sweden,Degerfors,Sweden,59.266667,14.433333
 Conny Torstensson,1,1974,Sweden,Lofta,Sweden,57.0378733,16.8483526
 Tom Turesson,1,1970,Sweden,Östervåla,Sweden,60.1809325,17.1780842
-Rene Bader,1,1950,Switzerland,Basel,Switzerland,47.5581077,7.5878261
 Tranquillo Barnetta,1,2006-2010,Switzerland,St. Gallen,Switzerland,47.4250593,9.3765878
 Fredy Bickel,1,1938-1950,Switzerland,Eppstein,Germany,50.1401917,8.3921142
 Georges Bregy,1,1994,Switzerland,Raron,Switzerland,46.309934,7.799589
@@ -1171,143 +1233,94 @@ Haris Seferovic,1,2014,Switzerland,Sursee,Switzerland,47.1740371,8.1089654
 Philippe Senderos,1,2006-2010,Switzerland,Geneva,Switzerland,46.2017559,6.1466014
 Alain Sutter,1,1994,Switzerland,Bern,Switzerland,46.9482713,7.4514512
 Jean Tamini,1,1950,Switzerland,Monthey,Switzerland,46.252844,6.9478263
-Eugène Walaschek,1,1938,Switzerland,Moscow,Russia,55.7504461,37.6174943
 Rolf Wuethrich,1,1962,Switzerland,Switzerland,Switzerland,46.7985624,8.2319736
 Steven Zuber,1,2018,Switzerland,Winterthur,Switzerland,47.4991723,8.7291498
 Mohamed Kader,1,2006,Togo,Sokodé,Togo,8.98741755,1.1357851606872318
-Fakhreddine Ben Youssef,1,2018,Tunisia,Tunis,Tunisia,33.8439408,9.400138
-Raouf Bouzaiene,1,2002,Tunisia,Sousse,Tunisia,35.8288175,10.6405392
+Fakhreddine Ben Youssef,1,2018,Tunisia,Tunis,Tunisia,33.85659561094535,9.404573965187247
+Nejib Ghommidh,1,1978,Tunisia,Tunis,Tunisia,36.82323943780231,10.175701358797447
+Raouf Bouzaiene,1,2002,Tunisia,Sousse,Tunisia,35.83932542864833,10.634654524943443
+Zied Jaziri,1,2002-2006,Tunisia,Sousse,Tunisia,35.83771526667614,10.632721100205487
 Dylan Bronn,1,2018,Tunisia,Cannes,France,43.5515198,7.0134418
-Mokhtar Dhouieb,1,1978,Tunisia,Sfax,Tunisia,34.723238699999996,10.335847425638779
-Nejib Ghommidh,1,1978,Tunisia,Tunis,Tunisia,36.812390113992876, 10.16386115680971
+Mokhtar Dhouieb,1,1978,Tunisia,Sfax,Tunisia,34.736180232999004,10.335591020877263
+Skander Souayah,1,1998,Tunisia,Sfax,Tunisia,34.717507233683975,10.327970547237529
 Radhi Jaidi,1,2002-2006,Tunisia,Gabès,Tunisia,33.7765032,9.793062965576159
-Zied Jaziri,1,2002-2006,Tunisia,Sousse,Tunisia,35.8288175,10.6405392
 Ali Kaabi,1,1978,Tunisia,Tunisia,Tunisia,33.8439408,9.400138
 Jaouhar Mnari,1,2006,Tunisia,Monastir,Tunisia,35.60547975,10.787694768513926
 Ferjani Sassi,1,2018,Tunisia,Aryanah,Tunisia ,36.86569808841625, 10.164523291179997
-Skander Souayah,1,1998,Tunisia,Sfax,Tunisia,34.723238699999996,10.335847425638779
-Emre Belozoglu,1,2002,Turkey,Istanbul,Turkey,41.0091982,28.9662187
-Mustafa Ertan,1,1954,Turkey,Ankara,Turkey,39.9207886,32.8540482
-Erol Keskin,1,1954,Turkey,Istanbul,Turkey,41.0091982,28.9662187
+Emre Belozoglu,1,2002,Turkey,Istanbul,Turkey,41.016162199480064,28.959862088303105
+Erol Keskin,1,1954,Turkey,Istanbul,Turkey,41.01869273143424,28.96088368027879
 Bulent Korkmaz,1,2002,Turkey,Malatya,Turkey,38.3488506,38.3189466
 Hakan ?ükür,1,2002,Turkey,Sapanca-Sakarya,Turkey,40.6597734,30.23822538259943
 Ali Thani Jumaa,1,1990,UAE,Sharjah,UAE,25.3461498,55.4210633
-Khalid Mubarak,1,1990,UAE,,UAE,24.28659311661359, 54.52229487928755
 Maksym Kalinichenko,1,2006,Ukraine,Kharkiv,Ukraine,49.9923181,36.2310146
 Serhiy Rebrov,1,2006,Ukraine,Horlivka,Ukraine,48.3058686,38.0027664
 Andriy Rusol,1,2006,Ukraine,Kropyvnytskyi,Ukraine,48.5105805,32.2656283
 Antonio Alzamendi,1,1986-1990,Uruguay,Durazno,Uruguay,-33.0833329,-56.0833331
-Javier Ambrois,1,1954,Uruguay,Uruguay,Uruguay,-32.8755548,-56.0201525
 Pablo Bengoechea,1,1990,Uruguay,Rivera,Uruguay,-31.5,-55.25
-Angel Cabrera,1,1962,Uruguay,Mercedes,Uruguay,-33.2484204,-58.0298671
-Julio Cortes,1,1962-1966-1970,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Victor Esparrago,1,1970-1974,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Daniel Fonseca,1,1990,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Enzo Francescoli,1,1986-1990,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
+Angel Cabrera,1,1962,Uruguay,Mercedes,Uruguay,-33.256387044494296,-58.043930458163906
+Ildo Maneiro,1,1970,Uruguay,Mercedes,Uruguay,-33.24536922990968,-58.01492684924568
 Jose Gimenez,1,2018,Uruguay,Toledo,Uruguay,-34.7398043,-56.0892924
-Diego Godin,1,2014,Uruguay,Rosario,Uruguay,-34.3115588,-57.3512918
-Ildo Maneiro,1,1970,Uruguay,Mercedes,Uruguay,-33.2484204,-58.0298671
 Richard Morales,1,2002,Uruguay,Las Piedras,Uruguay,-34.7274904,-56.2164982
-Juan Mujica,1,1970,Uruguay,Casablanca,Uruguay,-32.3971639,-58.1565864
-Ricardo Pavoni,1,1974,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Alvaro Pereira,1,2010,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Maximiliano Pereira,1,2010,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Julio Perez,1,1950,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Alvaro Recoba,1,2002,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Pedro Rocha,1,1962-1966-1970-1974,Uruguay,Salto,Uruguay,-31.3571565,-57.004446
-Dario Rodriguez,1,2002,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
-Hector Scarone,1,1930,Uruguay,Montevideo,Uruguay,-34.9058916,-56.1913095
 Ernesto Vidal,1,1950,Uruguay,Buje,Croatia,45.4083871,13.6587529
 Michael Bradley,1,2010,USA,Princeton,United States,40.3492744,-74.6592958
-John Brooks,1,2014,USA,Berlin,Germany,52.5170365,13.3888599
 Jim Brown,1,1930,USA,Kilmarnock,United Kingdom,55.6100589,-4.4964652
 Paul Caligiuri,1,1990-1994,USA,Westminster,United States,39.8366528,-105.0372046
 Aldo Donelli,1,1934,USA,Morgan-Pennsylvania,United States,40.3542361,-80.1397787
-Joseph Gaetjens,1,1950,USA,Port-au-Prince,Haiti,18.547327,-72.3395928
 Julian Green,1,2014,USA,Tampa - Florida,United States,27.9477595,-82.458444
-Jermaine Jones,1,2014,USA,Frankfurt,Germany,50.1106444,8.6820917
 Clint Mathis,1,2002,USA,Conyers,United States,33.6676103,-84.0176904
 Bruce Murray,1,1990,USA,Germantown,United States,38.5538072,-89.5382505
-John O Brien,1,2002-2006,USA,Los Angeles,United States,34.0536909,-118.242766
+John O Brien,1,2002-2006,USA,Los Angeles,United States,34.06812890875745,-118.25479066185562
+Haji Wright,1,2022,USA,Los Angeles,United States,34.05808400452803,-118.22852644513041
 Earnie Stewart,1,1994-1998-2002,USA,Veghel,Netherlands,51.6134636,5.5446455
 Frank Wallace,1,1950,USA,St. Louis-Missouri,United States,38.6280278,-90.1910154
 Eric Wynalda,1,1990-1994-1998,USA,Fullerton,United States,33.8708215,-117.9294165
-Sergei Aleinikov,1,1986-1990,USSR,Minsk,Belarus,53.9024716,27.5618225
+Sergei Aleinikov,1,1986-1990,USSR,Minsk,Belarus,53.907636851779564,27.547491256876278
+Andrei Zygmantovich,1,1990,USSR,Minsk,Belarus,53.9151970138805,27.552927901592806
 Kakhi Asatiani,1,1970,USSR,Telavi,Georgia,41.918292,45.4746493
 Andrei Bal,1,1982-1986,USSR,Rozdil,Ukraine,49.4607885,24.0626787
 Sergei Baltacha,1,1982,USSR,Mariupol,Ukraine,47.0957648,37.5499621
 Anatoli Banishevski,1,1966,USSR,Baku,Azerbaijan,40.3755885,49.8328009
-Oleg Blokhin,1,1982-1986,USSR,Kyiv,Ukraine,50.4500336,30.5241361
 Aleksandr Chivadze,1,1982,USSR,Karachayevsk,Russia,43.7715594,41.911979
 Igor Dobrovolskyi,1,1990,USSR,Markivka,Ukraine,49.5239233,39.5682107
 Yuri Gavrilov,1,1982,USSR,Odintsovsky,Russia,55.65538926205619, 36.76976402818905
-Aleksandr Ivanov,1,1958,USSR,Saint Petersburg,Russia,59.938732,30.316229
 Vitali Khmelnitski,1,1970,USSR,Orikhiv Raion,Ukraine,47.6452196,35.7242305340512
 Aleksei Mamykin,1,1962,USSR,Pitelinsky District,Russia,54.6085612,41.7233811762824
 Khoren Oganesian,1,1982,USSR,Yerevan,Armenia,40.1777112,44.5126233
 Oleg Protasov,1,1986-1990,USSR,Dnipropetrovsk,Ukraine,48.662589,34.9501715
 Vasili Rats,1,1986-1990,USSR,Fanchykovo,Ukraine,48.113354,22.945972
-Sergei Rodionov,1,1986,USSR,Moscow,Russia,55.7504461,37.6174943
 Ramaz Shengelia,1,1982,USSR,Kutaisi,Georgia,42.2716078,42.7054475
 Nikita Simonian,1,1958,USSR,Armavir,Russia,40.15705120063882, 44.035606296857715
 Pavel Yakovenko,1,1986,USSR,Nikopol,Ukraine,47.5692061,34.3917272
-Andrei Zygmantovich,1,1990,USSR,Minsk,Belarus,53.9024716,27.5618225
-John Charles,1,1958,Wales,Swansea,United Kingdom,51.6195955,-3.9459248
-Terry Medwin,1,1958,Wales,Swansea,United Kingdom,51.6195955,-3.9459248
-Stjepan Bobek,1,1950-1954,Yugoslavia,Zagreb,Croatia,45.84264135,15.962231476593626
-Vladislav Bogicevic,1,1974,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
 Dragan Dzajic,1,1974,Yugoslavia,Ub - Serbia,Serbia,44.456203,20.0737772
 Ivan Gudelj,1,1982,Yugoslavia,Imotski,Croatia,43.4471115,17.2179703
-Josip Katalinski,1,1974,Yugoslavia,Sarajevo,Bosnia and Herzegovina,43.8519774,18.3866868
-Blagoje Marjanovic,1,1930,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
 Sinisa Mihajlovic,1,1998,Yugoslavia,Vukovar,Croatia,45.3444116,19.0023817
 Predrag Mijatovic,1,1998,Yugoslavia,Podgorica,Montenegro,42.4415238,19.2621081
-Branko Oblak,1,1974,Yugoslavia,Ljubljana,Slovenia,46.0500268,14.5069289
 Tihomir Ognjanov,1,1950,Yugoslavia,Subotica,Serbia,46.1002058,19.6653273
 Ilija Petkovic,1,1974,Yugoslavia,Knin,Croatia,44.04085,16.199433
-Vladimir Petrovic,1,1974-1982,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
 Petar Radakovic,1,1962,Yugoslavia,Rijeka,Croatia,45.3267976,14.442208
-Branislav Sekulic,1,1930,Yugoslavia,Belgrade,Serbia,44.8178131,20.4568974
 Josip Skoblar,1,1962,Yugoslavia,Privlaka,Croatia,44.2611782,15.1191161
 Aleksandar Tirnanic,1,1930,Yugoslavia,Krnjevo,North Macedonia,41.3081925,22.1276881
-Djordje Vujadinovic,1,1930,Yugoslavia,Smederevo,Serbia,44.6651048,20.9271115
-Branko Zebec,1,1954-1958,Yugoslavia,Zagreb,Croatia,45.84264135,15.962231476593626
 Nahuel Molina,1,2022,Argentina,Embalse,Argentina,-32.2067571,-64.4006283
 Alexis Mac Allister,1,2022,Argentina,Santa Rosa,Argentina,-36.6203503,-64.2905765
 Enzo Fernandez,1,2022,Argentina,San Martín,Argentina,-34.5762765,-58.5388435
-Theo Hernandez,1,2022,France,Marseille,France,43.2961743,5.3699525
 Adrien Rabiot,1,2022,France,Saint-Maurice,France,48.3275249,7.3363439
-Aurélien Tchouaméni,1,2022,France,Rouen,France,49.4404591,1.0939658
 Randal Kolo Muani,1,2022,France,Bondy,France,48.9031,2.48291
-Marcus Thuram,1,2022,France,Parma,Italy,44.8013678,10.3280833
-Josko Gvardiol,1,2022,Croatia,Zagreb,Croatia,45.84264135,15.962231476593626
-Lovro Majer,1,2022,Croatia,Zagreb,Croatia,45.84264135,15.962231476593626
-Mislav Orsic,1,2022,Croatia,Zagreb,Croatia,45.84264135,15.962231476593626
-Marko Livaja,1,2022,Croatia,Split,Croatia,43.5116383,16.4399659
-Achraf Dari,1,2022,Morocco,Casablanca,Morocco,33.5950627,-7.6187768
 Abdelhamid Sabiri,1,2022,Morocco,Goulmima,Morocco,31.692627,-4.953262
 Hakim Ziyech,1,2022,Morocco,Dronten,Netherlands,52.531389649999994,5.750631211201343
-Zakaria Aboukhlal,1,2022,Morocco,Gorinchem,Netherlands,51.8421872,4.974600467260094
-Denzel Dumfries,1,2022,Netherlands,Rotterdam,Netherlands,51.9244424,4.47775
-Frenkie de Jong,1,2022,Netherlands,Gorinchem,Netherlands,51.8421872,4.974600467260094
+Zakaria Aboukhlal,1,2022,Morocco,Gorinchem,Netherlands,51.84290313132383,4.9694680564915075
+Frenkie de Jong,1,2022,Netherlands,Gorinchem,Netherlands,51.85536714861357,4.964293076701913
 Davy Klaassen,1,2022,Netherlands,Hilversum,Netherlands,52.2241375,5.1719396
 Jude Bellingham,1,2022,England,Stourbridge,United Kingdom,52.4577615,-2.1474345
 Jordan Henderson,1,2022,England,Sunderland,United Kingdom,54.9058512,-1.3828727
 Phil Foden,1,2022,England,Stockport,United Kingdom,53.407901,-2.160243
-Jack Grealish,1,2022,England,Birmingham,United Kingdom,52.4796992,-1.9026911
 Raheem Sterling,1,2022,England,Kingston,Jamaica,17.9712148,-76.7928128
 Casemiro,1,2022,Brazil,São José dos Campos,Brazil,-23.1867782,-45.8854538
-Lucas Paqueta,1,2022,Brazil,Rio de Janeiro,Brazil,-22.9110137,-43.2093727
 Vinicius Jr,1,2022,Brazil,São Gonçalo,Brazil,-22.8219014,-43.0309252
-Raphael Guerreiro,1,2022,Portugal,Le Blanc-Mesnil,France,48.9385489,2.4631476
 Joao Felix,1,2022,Portugal,Viseu,Portugal,40.6574713,-7.9138664
 Ricardo Horta,1,2022,Portugal,Sobreda,Portugal,41.0349366,-8.4553136
 Mathew Leckie,1,2022,Australia,Melbourne,Australia,-37.8142176,144.9631608
-Mitchell Duke,1,2022,Australia,Liverpool,Australia,-33.9198252,150.92566
-Craig Goodwin,1,2022,Australia,Adelaide,Australia,-34.9281805,138.5999312
 Christian Pulisic,1,2022,USA,Hershey,United States,40.2854881,-76.6506001
 Tim Weah,1,2022,USA,Brooklyn,United States,40.6526006,-73.9497211
-Haji Wright,1,2022,USA,Los Angeles,United States,34.0536909,-118.242766
 Kalidou Koulibaly,1,2022,Senegal,Saint-Dié-des-Vosges,France,48.2873153,6.9477708
 Boulaye Dia,1,2022,Senegal,Oyonnax,France,46.2476745,5.673366294950046
 Ismalia Sarr,1,2022,Senegal,Saint Louis-Senegal,Senegal,16.044895150000002,-16.43677064008933
@@ -1316,10 +1329,6 @@ Famara Diedhiou,1,2022,Senegal,Saint-Louis,Senegal,16.1876131,-15.2954502
 Ao Tanaka,1,2022,Japan,Miyamae-ku,Japan,35.5775533,139.5883457
 Takuma Asano,1,2022,Japan,Komono,Japan,35.0494225,136.4832483
 Daizen Maeda,1,2022,Japan,Taishi,Japan,34.517724,135.646824
-Kim Young-gwon,1,2022,South Korea,Jeonju,South Korea,35.8242772,127.1481147
-Paik Seung-ho,1,2022,South Korea,Seoul,South Korea,37.5666791,126.9782914
-Hwang Hee-chan,1,2022,South Korea,Chuncheon,South Korea,37.8810569,127.7297641
-Hugo Guillamon,1,2022,Spain,San Sebastián,Spain,43.3224219,-1.9838889
 Gavi,1,2022,Spain,Los Palacios y Villafranca,Spain,37.1582119,-5.9244567
 Carlos Soler,1,2022,Spain,Valencia,Spain,39.4697065,-0.3763353
 Marco Asensio,1,2022,Spain,Palma,Spain,39.5695818,2.6500745
@@ -1328,21 +1337,12 @@ Manuel Akanji,1,2022,Switzerland,Neftenbach,Switzerland,47.528176,8.6680365
 Remo Freuler,1,2022,Switzerland,Ennenda,Switzerland,47.033828,9.0779218
 Moises Caicedo,1,2022,Ecuador ,Santo Domingo,Ecuador,-0.3401645,-79.17315197147042
 Ramin Rezaeian,1,2022,Iran,Sari,Iran,36.5659598,53.0587229
-Rouzbeh Cheshmi,1,2022,Iran,Tehran,Iran,35.6892523,51.3896004
 Gareth Bale,1,2022,Wales,Cardiff,United Kingdom,51.4816546,-3.1791934
 Luis Chavez,1,2022,Mexico ,Cihuatlán,Mexico,19.263284849999998,-104.60497365939882
 Henry Martin,1,2022,Mexico ,Mérida,Spain,38.9174665,-6.3443977
-Saleh Al-Shehri,1,2022,Saudi Arabia,Jeddah,Saudi Arabia,21.5810088,39.1653612
 Andreas Christensen,1,2022,Denmark,Lillerød,Denmark,55.8707776,12.3556762
-Ilkay Gundogan,1,2022,Germany,Gelsenkirchen,Germany,51.5110321,7.0960124
-Serge Gnabry,1,2022,Germany,Stuttgart,Germany,48.7784485,9.1800132
-Keysher Fuller,1,2022,Costa Rica,Limón,Costa Rica,10.0971011,-83.33945429672625
-Yeltsin Tejeda,1,2022,Costa Rica,Limón,Costa Rica,10.0971011,-83.33945429672625
 Jean Charles Castelletto,1,2022,Cameroon,Clamart,France,48.800368,2.2630292
-Eric Maxim Choupo-Moting,1,2022,Cameroon,Hamburg,Germany,53.550341,10.000654
 Strahinja Pavlovic,1,2022,Serbia,Šabac,Serbia,44.75310514416552, 19.689427755062596
 Sergej Milinkovic-Savic,1,2022,Serbia,Lleida,Spain,41.6147605,0.6267842
-Dusan Vlahovic,1,2022,Serbia,Belgrade,Serbia,44.8178131,20.4568974
 Mohammed Salisu,1,2022,Ghana,Kumasi,Ghana,6.6985605,-1.6233086
-Osman Bukari,1,2022,Ghana,Accra,Ghana,5.5571096,-0.2012376
 Alphonso Davies,1,2022,Canada,Buduburam,Ghana,5.5234971,-0.4776318

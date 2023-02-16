@@ -90,6 +90,13 @@ if not detailed:
     df_filtered = df_filtered.rename(columns={'Longitude': 'LON'})
     # Display the map in Streamlit app
     st.map(df_filtered)
+
+    screenshot = st.sidebar.checkbox('Take screenshot')
+    if screenshot:
+        st.sidebar.write('Taking screenshot...')
+        with open('map_screenshot.png', 'wb') as f:
+            f.write(st._screenshot().getbuffer())
+        st.sidebar.write('Screenshot saved!')
 else:
     df_filtered, num_countries = filter_data(selected_world_cup_years, name_search, goals, selected_countries)
 
