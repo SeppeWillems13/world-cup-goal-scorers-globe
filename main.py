@@ -121,6 +121,12 @@ if not detailed:
     st.map(df_filtered)
 
     st.subheader("Filtered Players (first 100 rows):")
+    all_birthplaces = list(df_filtered['BirthPlace'].unique())
+
+    search_birthplace = st.selectbox("Search for a BirthPlace:", options=[''] + all_birthplaces, index=0)
+    if search_birthplace:
+        df_filtered = df_filtered[df_filtered['BirthPlace'] == search_birthplace]
+
     player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth']]
     list_df = [player_data[i:i + 100] for i in range(0, player_data.shape[0], 100)]
     if len(list_df) > 0:

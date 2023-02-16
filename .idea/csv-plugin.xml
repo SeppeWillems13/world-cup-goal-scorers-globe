@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\original_cvs\FIFA WC 2022 Players Stats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
       </map>
     </option>
   </component>
