@@ -73,7 +73,7 @@ selected_countries = st.sidebar.multiselect('Select Country (played for):', sele
 
 # Filter the list of birthplaces based on the selected country
 if selected_countries:
-    filtered_birthplaces = list(set(df.loc[(df['Country'].isin(selected_countries)) | (
+    filtered_birthplaces = list(set(df.dropna(subset=['BirthPlace']).loc[(df['Country'].isin(selected_countries)) | (
         df['CountryOfBirth'].isin(selected_countries)), 'BirthPlace'].unique()))
     filtered_birthplaces.sort()
 else:
