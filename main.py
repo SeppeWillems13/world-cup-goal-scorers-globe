@@ -136,5 +136,10 @@ else:
     st.plotly_chart(fig)
 # Add the disclaimer at the bottom of the page
 st.markdown('---')
-st.write(
-    "Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of World Cup years a player is listed as having played in is not necessarily the same as the number of years they actually scored a goal. Additionally, some countries listed may no longer exist or have different names. This data is incomplete and may be updated in the future.")
+st.write("Disclaimer: The data in this app is sourced from Wikipedia and may contain inaccuracies. The number of "
+         "World Cup years a player is listed as having played in is not necessarily the same as the number of years "
+         "they actually scored a goal. Additionally, some countries listed may no longer exist or have different "
+         "names. This data is incomplete and may be updated in the future. Please note that players born in the same "
+         "city may have slightly diverging latitude and longitude coordinates in order to prevent overlapping on the "
+         "map visualization. As a result, the displayed locations may not exactly reflect the actual birthplace of "
+         "the players.")
