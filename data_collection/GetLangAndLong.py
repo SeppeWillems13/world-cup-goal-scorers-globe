@@ -6,7 +6,7 @@ from geopy.geocoders import Nominatim
 geolocator = Nominatim(user_agent="myGeocoder")
 
 # Open the input CSV file
-with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlace.csv', 'r', encoding='ISO-8859-1') as input_file:
+with open('../edited_cvs/worldcupgoals_1930_2022.csv', 'r', encoding='ISO-8859-1') as input_file:
     # Create a CSV reader
     reader = csv.reader(input_file)
     with open('../edited_cvs/worldcupgoals_1930_2022_BirthPlaceAndCountries.csv', 'w', newline='',

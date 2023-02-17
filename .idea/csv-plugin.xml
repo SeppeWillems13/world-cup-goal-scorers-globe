@@ -3,14 +3,14 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\data_collection\updated_players.csv">
+        <entry key="\edited_cvs\worldcupgoals_1930_2022.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\edited_cvs\worldcupgoals_1930_2022.csv">
+        <entry key="\edited_cvs\worldcupgoals_1930_2022_BirthPlaceTWO.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,6 +25,13 @@
           </value>
         </entry>
         <entry key="\original_cvs\FIFA WC 2022 Players Stats.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\worldcupgoals_1930_2022_updatedTWO.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

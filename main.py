@@ -1,4 +1,5 @@
 import os
+import ast
 import pandas as pd
 import plotly.express as px
 import streamlit as st
@@ -23,6 +24,7 @@ BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 # Read in the CSV file as a DataFrame
 df = pd.read_csv(os.path.join(BASE_DIR, 'edited_cvs/worldcupgoals_1930_2022.csv'),
                  encoding='iso-8859-1')
+
 
 # Define a list of all the World Cup years
 world_cup_years = [1930, 1934, 1938, 1950, 1954, 1958, 1962, 1966, 1970, 1974, 1978, 1982, 1986, 1990, 1994, 1998, 2002,
@@ -52,8 +54,8 @@ def filter_data(selected_years, name_search, goals, selected_countries, birthpla
     if name_search:
         df_filtered = df_filtered[df_filtered['Player'].str.contains(name_search, case=False)]
 
-    # Filter the DataFrame based on goals scored
-    df_filtered = df_filtered[(df_filtered['Goals'] >= goals)]
+    # # Filter the DataFrame based on goals scored
+    # df_filtered = df_filtered[(df_filtered['Goals'] >= goals)]
 
     # Filter the DataFrame based on country of birth
     if different_country:
@@ -72,7 +74,7 @@ different_country = st.sidebar.checkbox('Different country than birthplace')
 
 # Filter the list to obtain distinct values
 selected_countries_list = list(set(df['Country']))
-selected_countries_list.sort()
+# selected_countries_list.sort()
 # Obtain list of selected countries
 selected_countries = st.sidebar.multiselect('Select Country (played for):', selected_countries_list)
 
@@ -87,9 +89,10 @@ else:
 birthplace_search = st.sidebar.selectbox("Search for a player by birthplace:", options=[''] + filtered_birthplaces,
                                          index=0)
 
-# Add a slider to filter by goals scored
-max_goals = int(df['Goals'].max())
-goals = st.sidebar.slider("Filter by number of goals scored:", min_value=1, max_value=max_goals, value=1)
+max_goals_value = int(ast.literal_eval(max(list(df['Goals'])))['2022'][0])
+
+
+goals = st.sidebar.slider("Filter by number of goals scored:", min_value=1, max_value=max_goals_value, value=1)
 
 # Add a name search input with autocomplete
 df_filtered, num_countries = filter_data(selected_world_cup_years, 0, goals, selected_countries, birthplace_search,
@@ -112,7 +115,7 @@ if not detailed:
     total_players = len(df_filtered)
     total_goals = df_filtered['Goals'].sum()
 
-    st.header(f"World Cup Goals ({total_players} Players, {total_goals} Goals, {num_countries} Countries)")
+    st.header(f"World Cup Goals ({total_players} Players,{num_countries} Countries)")
 
     # Rename the 'Latitude' column to 'lat'
     df_filtered = df_filtered.rename(columns={'Latitude': 'LAT'})
@@ -121,11 +124,13 @@ if not detailed:
     st.map(df_filtered)
 
     st.subheader("Filtered Players (first 100 rows):")
+    print(df_filtered.head(100))
     all_birthplaces = list(df_filtered['BirthPlace'].unique())
 
     search_birthplace = st.selectbox("Search for a BirthPlace:", options=[''] + all_birthplaces, index=0)
     if search_birthplace:
         df_filtered = df_filtered[df_filtered['BirthPlace'] == search_birthplace]
+
 
     player_data = df_filtered[['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth']]
     list_df = [player_data[i:i + 100] for i in range(0, player_data.shape[0], 100)]
@@ -150,7 +155,7 @@ else:
                          color="Country",
                          hover_name="Player",
                          size="Goals",
-                         size_max=max_goals,
+                         size_max=max_goals_value,
                          projection="natural earth",
                          scope=scope,
                          hover_data={

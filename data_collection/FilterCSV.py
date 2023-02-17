@@ -15,7 +15,7 @@ with open('../edited_cvs/worldcupgoals_1930_2022.csv', 'w', newline='') as outpu
     writer = csv.writer(output_file)
 
     # Write the header row
-    writer.writerow(['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth', 'Latitude', 'Longitude'])
+    writer.writerow(['Player', 'Goals', 'Years', 'Country', 'BirthPlace', 'CountryOfBirth', 'Latitude', 'Longitude', 'DateOfBirth', 'Position', 'JerseyNumber', 'TotalGames', 'GoalsPerGame'])
 
     # Write the sorted rows
     for row in sorted_rows:
