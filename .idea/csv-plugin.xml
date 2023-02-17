@@ -10,7 +10,7 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\edited_cvs\worldcupgoals_1930_2022_BirthPlaceTWO.csv">
+        <entry key="\edited_cvs\worldcupgoals_1930_2022Legacy.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -25,13 +25,6 @@
           </value>
         </entry>
         <entry key="\original_cvs\FIFA WC 2022 Players Stats.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\worldcupgoals_1930_2022_updatedTWO.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
